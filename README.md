@@ -1,100 +1,47 @@
-&nbsp;
-<p align="center">
-  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_extension.svg" width="300px" alt="BitGuard Browser Extension" />
-</p>
-<h3 align="center">Ad blocker with advanced privacy protection features</h3>
-<p align="center">
-  BitGuard is a fast and lightweight ad blocking browser extension<br/>that effectively blocks all types of ads and trackers.
-</p>
+# Bitguard Browser Extention
 
+Bitguard Browser Extention is a free extension that blocks ads and malicious domains known to spread malware, disables tracking. We have included a few extensive filters that offer decent protection against annoying, flashy ads, YouTube commercials, and more. Unlike other adblockers we do not have a whitelist for websites, advertisers or ad networks to show you unwanted ads. Blocking ads will speed up your website load speed, decrease CPU and memory usage.
 
-<p align="center">
-    <a href="https://adguard.com/">BitGuard.com</a> |
-    <a href="https://reddit.com/r/Adguard">Reddit</a> |
-    <a href="https://twitter.com/BitGuard">Twitter</a> |
-    <a href="https://t.me/adguard_en">Telegram</a>
-    <br /><br />
-    </a>
-    <a href="https://github.com/AdguardTeam/AdguardBrowserExtension/releases">
-        <img src="https://img.shields.io/github/release/AdguardTeam/AdguardBrowserExtension/all.svg" alt="Latest release" />
-    </a>
-</p>
+The extension allows you to switch back on ads for your favorite websites in case you know there are no intrusive and/or misleading advertising there.
 
-<br />
+## Features
 
-<p align="center">
-    <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_extension_settings.png" width="800" />
-</p>
+- Remove all ads
+- Block malware and tracking
+- Improve browser performance
+- No "acceptable" ads or whitelisted websites/ad networks
 
-<hr />
+## Why another AdBlocker though?
 
-BitGuard is a fast and lightweight ad blocking browser extension that effectively blocks all types of ads and trackers on all web pages. We focus on advanced privacy protection features to not just block known trackers, but prevent web sites from building your shadow profile. Unlike its standalone counterparts (AG for Windows, Mac), the browser extension is completely free and open source. You can learn more about [the difference](https://adguard.com/compare.html) here.
+Bitguard was created with the sole purpose to block ALL ads. Many adblockers are affiliated with ad networks bypassing ads for a fee. We couldn't find an adblocker blocking everything, so we just decided to make our own, filtering every ad without exceptions.
 
-> BitGuard does not collect any information about you, and does not participate in any acceptable ads program. The only source of income we have is selling premium versions of our software, and we intend to keep it that way.
+Also Bitguard Extention integrates with "Bitguard Scan" our security risk score product.
 
-* [Installation](#installation)
-  * [Chrome and Chromium-based browsers](#installation-chrome)
-  * [Firefox](#installation-firefox)
-  * [Opera](#installation-opera)
-  * [Microsoft Edge](#installation-edge)
-* [Contribution](#contribution)
-  * [Translating BitGuard](#contribution-translating)
-  * [Testing BitGuard](#contribution-testing)
-  * [Reporting issues](#contribution-reporting)
-  * [Other options](#contribution-other)
-* [Development](#dev)
-  * [Requirements](#dev-requirements)
-  * [How to build](#dev-build)
-  * [Linter](#dev-linter)
-  * [Update localizations](#dev-localizations)
-
-<a id="installation"></a>
-## Installation
-
-<a id="installation-chrome"></a>
-### Chrome and Chromium-based browsers
-You can get the latest available BitGuard Extension version from the [Chrome Web Store](https://agrd.io/extension_chrome).
-
-<a id="installation-firefox"></a>
-### Firefox
-You can get the latest version of BitGuard Extension from the [Mozilla Add-ons website](https://agrd.io/extension_firefox).
-
-<a id="installation-opera"></a>
-### Opera
-Opera is basically a Chromium browser, but it maintains its own add-ons store. You can get BitGuard Extension [from there](https://agrd.io/extension_opera).
-
-<a id="installation-edge"></a>
-### Microsoft Edge
-The latest stable version of BitGuard browser extension is available in [Microsoft Store](https://agrd.io/extension_edge).
-
-<a id="contribution"></a>
 ## Contribution
 
-We are blessed to have a community that does not only love BitGuard, but also gives back. A lot of people volunteer in various ways to make other users' experience with BitGuard better, and you can join them!
+**Found an issue?**
 
-We, on our part, can only be happy to reward the most active members of the community. So, what can you do?
+Post in the Issue section of this repository or contact us on our [website](https://www.getbitguard.com/support)
 
-<a id="contribution-translating"></a>
-### Translating BitGuard
+**Translation**
 
-If you want to help with BitGuard translations, please learn more about translating our products here: https://kb.adguard.com/en/general/adguard-translations
+Help us translate the extension to your language [here](https://www.getbitguard.com/support)
 
-<a id="contribution-testing"></a>
-### Testing BitGuard
+## Contact us
 
-You can get a beta version of BitGuard Browser Extension for any browser. All necessary information on this topic can be found on a [dedicated page on our website](https://adguard.com/beta.html).
+You can drop us a line at hello@getbitguard.com.
 
-<a id="contribution-reporting"></a>
-### Reporting issues
+## License
 
-GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdguardBrowserExtension/issues) and click the *New issue* button.
+Free. Bitguard browser extention is an open source project licensed under GPL v3. The first version was forked from AdGuard v 3.5.31 on 24 December 2020 inheriting the GPL v3 license for open source.
 
->**Note:** for the filter-related issues (missed ads, false positives etc.) use the [dedicated repository](https://github.com/AdguardTeam/AdguardFilters).
+**Changes made to the source code**
 
-<a id="contribution-other"></a>
-### Other options
+- Fully re-design to improved user experience and simplified design.
+- Modified the default performance.
+- Integration with "Bitguard Scan" for beta-testers.
+- Translation corrections.
 
-Here is a [dedicated page](https://adguard.com/contribute.html) for those who are willing to contribute.
 
 <a id="dev"></a>
 ## Development
@@ -146,17 +93,6 @@ Before building the release version, you should manually download necessary reso
 ```
 You will need to put certificate.pem and mozilla_credentials.json files to the `./private` directory. This build will create unpacked extensions and then pack them (crx for Chrome, xpi for Firefox).
 
-**Building the sample extension with API**
-
-Run the following command:
-```
-yarn sample-api
-```
-This will create a build directory with unpacked sample extension for chromium browsers:
-
-```
-build/dev/adguard-api
-```
 
 <a id="dev-linter"></a>
 ### Linter
