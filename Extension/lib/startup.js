@@ -22,7 +22,7 @@
  */
 adguard.initialize = function () {
     function onLocalStorageLoaded() {
-        adguard.console.info('Starting adguard... Version: {0}. Id: {1}', adguard.app.getVersion(), adguard.app.getId());
+        adguard.console.info('Starting bitguard... Version: {0}. Id: {1}', adguard.app.getVersion(), adguard.app.getId());
 
         // Initialize popup button
         adguard.browserAction.setPopup({
@@ -30,7 +30,7 @@ adguard.initialize = function () {
         });
 
         // Set uninstall page url
-        const uninstallUrl = 'https://adguard.com/forward.html?action=adguard_uninstal_ext&from=background&app=browser_extension';
+        const uninstallUrl = 'https://getbitguard.com/uninstall';
         adguard.runtime.setUninstallURL(uninstallUrl, () => {
             if (adguard.runtime.lastError) {
                 adguard.console.error(adguard.runtime.lastError);

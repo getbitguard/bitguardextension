@@ -24,10 +24,10 @@
         "message": "Failo plėtinys turėtų būti .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard skirtas iOS"
+        "message": "BitGuard skirtas iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard skirtas Android"
+        "message": "BitGuard skirtas Android"
     },
     "options_filters_filter_version": {
         "message": "versija:"
@@ -48,7 +48,7 @@
         "message": "Įvairūs"
     },
     "popup_adguard_footer_title": {
-        "message": "Gauti AdGuard mobiliesiems"
+        "message": "Gauti BitGuard mobiliesiems"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nauja filtro prenumerata"
@@ -105,7 +105,7 @@
         "message": "Užsiprenumeruoti"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Naršyklės saugykla"
@@ -336,19 +336,19 @@
         "message": "Grd"
     },
     "thankyou_want_full_protection": {
-        "message": "Norite&nbsp;išbandyti visapusišką apsaugą? Atsisiųskite AdGuard skirtą Windows!"
+        "message": "Norite&nbsp;išbandyti visapusišką apsaugą? Atsisiųskite BitGuard skirtą Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Norite&nbsp;išbandyti visapusišką apsaugą? Atsisiųskite AdGuard skirtą Mac!"
+        "message": "Norite&nbsp;išbandyti visapusišką apsaugą? Atsisiųskite BitGuard skirtą Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard skirtas Windows"
+        "message": "BitGuard skirtas Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard skirtas Mac"
+        "message": "BitGuard skirtas Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "buvo atnaujinti."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard plėtinys atnaujintas iki $1"
+        "message": "BitGuard plėtinys atnaujintas iki $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Šioje versijoje pagrinde yra klaidų ištaisymai bei nedideli patobulinimai."
@@ -381,7 +381,7 @@
         "message": "Kas naujo šioje versijoje?"
     },
     "options_popup_version_update_offer": {
-        "message": "Ar žinote, kad AdGuard galimybės neapsiriboja šia naršykle?"
+        "message": "Ar žinote, kad BitGuard galimybės neapsiriboja šia naršykle?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Sužinoti daugiau"
@@ -393,10 +393,10 @@
         "message": "Patikrinti svetainės saugumą"
     },
     "popup_open_settings": {
-        "message": "AdGuard nustatymai"
+        "message": "BitGuard nustatymai"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard apsauga laikinai sustabdyta"
+        "message": "BitGuard apsauga laikinai sustabdyta"
     },
     "popup_block_site_ads_android": {
         "message": "Blokuoti reklamą svetainėje"
@@ -432,19 +432,19 @@
         "message": "Apsaugota $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard neveikia su šiuo domenu"
+        "message": "BitGuard neveikia su šiuo domenu"
     },
     "context_disable_protection": {
-        "message": "Pristabdyti AdGuard apsaugą"
+        "message": "Pristabdyti BitGuard apsaugą"
     },
     "context_enable_protection": {
-        "message": "Atnaujinti AdGuard apsaugą"
+        "message": "Atnaujinti BitGuard apsaugą"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard apsauga laikinai sustabdyta"
+        "message": "BitGuard apsauga laikinai sustabdyta"
     },
     "context_open_settings": {
-        "message": "AdGuard nustatymai..."
+        "message": "BitGuard nustatymai..."
     },
     "context_open_log": {
         "message": "Filtravimo logas..."
@@ -495,7 +495,7 @@
         "message": "Ar žinojai?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard sukčiavimo ir kenkėjiškų programų duomenų bazėje yra<br\/>daugiau nei 1&nbsp;milijonas svetainių."
+        "message": "BitGuard sukčiavimo ir kenkėjiškų programų duomenų bazėje yra<br\/>daugiau nei 1&nbsp;milijonas svetainių."
     },
     "filter_download_rules": {
         "message": "Kiekvieną&nbsp;savaitę&nbsp;pridedame daugiau nei 100&nbsp;reklamos filtrų taisyklių."
@@ -609,7 +609,7 @@
         "message": "Atidaryti naujame skirtuke"
     },
     "options_settings": {
-        "message": "AdGuard nustatymai"
+        "message": "BitGuard nustatymai"
     },
     "options_general_settings": {
         "message": "Pagrindiniai"
@@ -618,7 +618,7 @@
         "message": "Leisti paieškos reklamą ir svetainių savireklamą"
     },
     "options_show_blocked_ads_count": {
-        "message": "Rodyti blokuojamų&nbsp;reklamų skaičių ant&nbsp;AdGuard plėtinio piktogramos"
+        "message": "Rodyti blokuojamų&nbsp;reklamų skaičių ant&nbsp;BitGuard plėtinio piktogramos"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktyvuoti tinkamiausius filtrus automatiškai"
@@ -648,7 +648,7 @@
         "message": "Importas"
     },
     "options_whitelist_description": {
-        "message": "AdGuard nefiltruoja svetaines iš baltojo sąrašo."
+        "message": "BitGuard nefiltruoja svetaines iš baltojo sąrašo."
     },
     "options_whitelist_inverse": {
         "message": "Invertuoti baltąjį sąrašą"
@@ -678,10 +678,10 @@
         "message": "Oficiali svetainė"
     },
     "options_discuss": {
-        "message": "Aptarti AdGuard"
+        "message": "Aptarti BitGuard"
     },
     "options_do_you_like": {
-        "message": "Ar&nbsp;jums patinka AdGuard?"
+        "message": "Ar&nbsp;jums patinka BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Įvertink!"
@@ -690,7 +690,7 @@
         "message": "Įvairūs"
     },
     "options_show_adguard_full_version": {
-        "message": "Rodyti informaciją&nbsp;AdGuard pilnoje versijoje"
+        "message": "Rodyti informaciją&nbsp;BitGuard pilnoje versijoje"
     },
     "options_show_app_updated_notification": {
         "message": "Pranešti apie plėtinių naujinius"
@@ -708,7 +708,7 @@
         "message": "Siųsti reklamos&nbsp;filtrų naudojimo statistiką"
     },
     "options_show_context_menu": {
-        "message": "Pridėti AdGuard elementą į&nbsp;naršyklės kontekstinį meniu"
+        "message": "Pridėti BitGuard elementą į&nbsp;naršyklės kontekstinį meniu"
     },
     "options_use_optimized_filters": {
         "message": "Naudoti optimizuotus filtrus"
@@ -768,7 +768,7 @@
         "message": "Šalinti stebėjimo parametrus"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Kableliais atskirtas sekimo parametrų sąrašas, kurį AdGuard pašalins iš svetainių adresų."
+        "message": "Kableliais atskirtas sekimo parametrų sąrašas, kurį BitGuard pašalins iš svetainių adresų."
     },
     "options_cookies_title": {
         "message": "Slapukai"
@@ -816,7 +816,7 @@
         "message": "Apsaugos perjungimas"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "Apie"

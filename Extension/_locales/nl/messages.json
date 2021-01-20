@@ -24,10 +24,10 @@
         "message": "De bestandsextensie moet .json zijn."
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard voor iOS"
+        "message": "BitGuard voor iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard voor Android"
+        "message": "BitGuard voor Android"
     },
     "options_filters_filter_version": {
         "message": "versie:"
@@ -48,7 +48,7 @@
         "message": "Diverse"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard mobile aanschaffen"
+        "message": "BitGuard mobile aanschaffen"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nieuw filter abonnement"
@@ -105,7 +105,7 @@
         "message": "Abonneer"
     },
     "name": {
-        "message": "AdGuard-advertentieblokkeerder"
+        "message": "BitGuard-advertentieblokkeerder"
     },
     "sync_provider_browser_storage": {
         "message": "Browser opslag"
@@ -336,19 +336,19 @@
         "message": "Dec"
     },
     "thankyou_want_full_protection": {
-        "message": "Wilt u&nbsp;volledige bescherming? Download dan AdGuard voor Windows!"
+        "message": "Wilt u&nbsp;volledige bescherming? Download dan BitGuard voor Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Wilt u&nbsp;volledige bescherming? Download dan AdGuard voor Mac!"
+        "message": "Wilt u&nbsp;volledige bescherming? Download dan BitGuard voor Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard voor Windows"
+        "message": "BitGuard voor Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard voor Mac"
+        "message": "BitGuard voor Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "zijn bijgewerkt."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard is succesvol bijgewerkt naar versie {0}"
+        "message": "BitGuard is succesvol bijgewerkt naar versie {0}"
     },
     "options_popup_version_update_description_minor": {
         "message": "Deze versie bevat hoofdzakelijk bugfixes en kleine verbeteringen."
@@ -381,7 +381,7 @@
         "message": "Wat is er nieuw in deze versie?"
     },
     "options_popup_version_update_offer": {
-        "message": "Wist je dat de functionaliteiten van AdGuard niet beperkt zijn tot deze brwoser?"
+        "message": "Wist je dat de functionaliteiten van BitGuard niet beperkt zijn tot deze brwoser?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Meer info"
@@ -393,10 +393,10 @@
         "message": "Beveiliging van website controleren"
     },
     "popup_open_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "BitGuard-instellingen"
     },
     "popup_site_protection_disabled": {
-        "message": "De AdGuard-bescherming is gepauzeerd"
+        "message": "De BitGuard-bescherming is gepauzeerd"
     },
     "popup_block_site_ads_android": {
         "message": "Advertenties blokkeren op een website"
@@ -432,19 +432,19 @@
         "message": "Beschermd door $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard kan niet worden uitgevoerd op dit domein"
+        "message": "BitGuard kan niet worden uitgevoerd op dit domein"
     },
     "context_disable_protection": {
-        "message": "AdGuard-bescherming pauzeren"
+        "message": "BitGuard-bescherming pauzeren"
     },
     "context_enable_protection": {
-        "message": "AdGuard-bescherming hervatten"
+        "message": "BitGuard-bescherming hervatten"
     },
     "context_site_protection_disabled": {
-        "message": "De AdGuard-bescherming is gepauzeerd"
+        "message": "De BitGuard-bescherming is gepauzeerd"
     },
     "context_open_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "BitGuard-instellingen"
     },
     "context_open_log": {
         "message": "Filterlogboek..."
@@ -495,7 +495,7 @@
         "message": "Wist u dat?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard's phishing- en malware-database bevat<br\/>meer dan 1&nbsp;miljoen websites."
+        "message": "BitGuard's phishing- en malware-database bevat<br\/>meer dan 1&nbsp;miljoen websites."
     },
     "filter_download_rules": {
         "message": "We&nbsp;voegen gemiddeld meer dan 100&nbsp;advertentiefilterregels per week toe."
@@ -609,7 +609,7 @@
         "message": "Openen op een nieuw tabblad"
     },
     "options_settings": {
-        "message": "AdGuard-instellingen"
+        "message": "BitGuard-instellingen"
     },
     "options_general_settings": {
         "message": "Algemene instellingen"
@@ -618,7 +618,7 @@
         "message": "Toestaan van zoek-advertenties en reclames voor eigen websites<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Lees meer&nbsp;hierover<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Het aantal geblokkeerde advertenties&nbsp;weergeven op&nbsp;het AdGuard-extensiepictogram op de werkbalk"
+        "message": "Het aantal geblokkeerde advertenties&nbsp;weergeven op&nbsp;het BitGuard-extensiepictogram op de werkbalk"
     },
     "options_enable_autodetect_filter": {
         "message": "De meest geschikte filters automatisch activeren"
@@ -648,7 +648,7 @@
         "message": "Importeren"
     },
     "options_whitelist_description": {
-        "message": "AdGuard filtert geen websites die op de toestemmingslijst staan."
+        "message": "BitGuard filtert geen websites die op de toestemmingslijst staan."
     },
     "options_whitelist_inverse": {
         "message": "Toestemmingslijst omkeren"
@@ -678,10 +678,10 @@
         "message": "Officiële website"
     },
     "options_discuss": {
-        "message": "AdGuard discussie"
+        "message": "BitGuard discussie"
     },
     "options_do_you_like": {
-        "message": "Vindt&nbsp;u AdGuard goed?"
+        "message": "Vindt&nbsp;u BitGuard goed?"
     },
     "options_footer_like_us": {
         "message": "Beoordeel&nbsp;het!"
@@ -690,7 +690,7 @@
         "message": "Overig"
     },
     "options_show_adguard_full_version": {
-        "message": "Informatie weergeven over&nbsp;de volledige versie van AdGuard"
+        "message": "Informatie weergeven over&nbsp;de volledige versie van BitGuard"
     },
     "options_show_app_updated_notification": {
         "message": "Updates melden"
@@ -708,7 +708,7 @@
         "message": "Statistieken van het gebruik van&nbsp;advertentiefilters versturen<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Lees meer&nbsp;hierover<\/a>"
     },
     "options_show_context_menu": {
-        "message": "AdGuard-item toevoegen aan het&nbsp;contextmenu van de webbrowser"
+        "message": "BitGuard-item toevoegen aan het&nbsp;contextmenu van de webbrowser"
     },
     "options_use_optimized_filters": {
         "message": "Geoptimaliseerde filters gebruiken<span class='sp-table-row-info'>Lichtgewicht filterlijsten, special geoptimaliseerd voor mobiele apparaten<\/span>"
@@ -768,7 +768,7 @@
         "message": "Traceerparameters verwijderen"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Komma-onderscheiden lijst van traceerparameters die AdGuard zal verwijderen van website-adressen"
+        "message": "Komma-onderscheiden lijst van traceerparameters die BitGuard zal verwijderen van website-adressen"
     },
     "options_cookies_title": {
         "message": "Cookies"
@@ -816,7 +816,7 @@
         "message": "Bescherming schakelaar"
     },
     "short_name": {
-        "message": "AdGuard-advertentieblokkeerder"
+        "message": "BitGuard-advertentieblokkeerder"
     },
     "options_about": {
         "message": "Over"

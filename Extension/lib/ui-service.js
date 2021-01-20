@@ -41,39 +41,39 @@ adguard.ui = (function (adguard) { // jshint ignore:line
         'context_site_filtering_off': function () {
             adguard.tabs.getActive(whiteListTab);
         },
-        'context_enable_protection': function () {
-            changeApplicationFilteringDisabled(false);
-        },
-        'context_disable_protection': function () {
-            changeApplicationFilteringDisabled(true);
-        },
+        // 'context_enable_protection': function () {
+        //     changeApplicationFilteringDisabled(false);
+        // },
+        // 'context_disable_protection': function () {
+        //     changeApplicationFilteringDisabled(true);
+        // },
         'context_open_settings': function () {
             openSettingsTab();
         },
-        'context_general_settings': function () {
-            openSettingsTab('general-settings');
-        },
-        'context_antibanner': function () {
-            openSettingsTab('antibanner');
-        },
-        'context_safebrowsing': function () {
-            openSettingsTab('safebrowsing');
-        },
-        'context_whitelist': function () {
-            openSettingsTab('whitelist');
-        },
-        'context_userfilter': function () {
-            openSettingsTab('userfilter');
-        },
-        'context_miscellaneous_settings': function () {
-            openSettingsTab('miscellaneous-settings');
-        },
-        'context_open_log': function () {
-            openFilteringLog();
-        },
-        'context_update_antibanner_filters': function () {
-            checkFiltersUpdates();
-        },
+        // 'context_general_settings': function () {
+        //     openSettingsTab('general-settings');
+        // },
+        // 'context_antibanner': function () {
+        //     openSettingsTab('antibanner');
+        // },
+        // 'context_safebrowsing': function () {
+        //     openSettingsTab('safebrowsing');
+        // },
+        // 'context_whitelist': function () {
+        //     openSettingsTab('whitelist');
+        // },
+        // 'context_userfilter': function () {
+        //     openSettingsTab('userfilter');
+        // },
+        // 'context_miscellaneous_settings': function () {
+        //     openSettingsTab('miscellaneous-settings');
+        // },
+        // 'context_open_log': function () {
+        //     openFilteringLog();
+        // },
+        // 'context_update_antibanner_filters': function () {
+        //     checkFiltersUpdates();
+        // },
     };
 
     const extensionStoreLink = (function () {
@@ -88,10 +88,10 @@ adguard.ui = (function (adguard) { // jshint ignore:line
 
         const action = `${browser}_store`;
 
-        return `https://adguard.com/forward.html?action=${action}&from=options_screen&app=browser_extension`;
+        return `https://my.bitguard.com/forward?action=${action}&from=options_screen&app=browser_extension`;
     })();
 
-    const THANKYOU_PAGE_URL = 'https://welcome.adguard.com/v2/thankyou.html';
+    const THANKYOU_PAGE_URL = 'https://getbitguard.com/install';
 
     /**
      * Update icon for tab
@@ -237,15 +237,15 @@ adguard.ui = (function (adguard) { // jshint ignore:line
         if (tabInfo.applicationFilteringDisabled) {
             addMenu('context_site_protection_disabled');
             addSeparator();
-            addMenu('context_open_log');
-            addMenu('context_open_settings');
-            addMenu('context_enable_protection');
+            // addMenu('context_open_log');
+            // addMenu('context_open_settings');
+            // addMenu('context_enable_protection');
         } else if (tabInfo.urlFilteringDisabled) {
             addMenu('context_site_filtering_disabled');
             addSeparator();
-            addMenu('context_open_log');
-            addMenu('context_open_settings');
-            addMenu('context_update_antibanner_filters');
+            // addMenu('context_open_log');
+            // addMenu('context_open_settings');
+            // addMenu('context_update_antibanner_filters');
         } else {
             if (tabInfo.documentWhiteListed && !tabInfo.userWhiteListed) {
                 addMenu('context_site_exception');
@@ -262,14 +262,14 @@ adguard.ui = (function (adguard) { // jshint ignore:line
                 addMenu('context_block_site_ads');
                 addMenu('context_block_site_element', { contexts: ['image', 'video', 'audio'] });
             }
-            addMenu('context_security_report');
-            addMenu('context_complaint_website');
-            addSeparator();
-            addMenu('context_update_antibanner_filters');
-            addSeparator();
-            addMenu('context_open_settings');
-            addMenu('context_open_log');
-            addMenu('context_disable_protection');
+            // addMenu('context_security_report');
+            // addMenu('context_complaint_website');
+            // addSeparator();
+            // addMenu('context_update_antibanner_filters');
+            // addSeparator();
+            // addMenu('context_open_settings');
+            // addMenu('context_open_log');
+            // addMenu('context_disable_protection');
         }
     }
 
@@ -286,9 +286,9 @@ adguard.ui = (function (adguard) { // jshint ignore:line
             addMenu('popup_open_settings', { action: 'context_open_settings' });
         } else if (tabInfo.urlFilteringDisabled) {
             addMenu('context_site_filtering_disabled');
-            addMenu('popup_open_log_android', { action: 'context_open_log' });
-            addMenu('popup_open_settings', { action: 'context_open_settings' });
-            addMenu('context_update_antibanner_filters');
+            // addMenu('popup_open_log_android', { action: 'context_open_log' });
+            // addMenu('popup_open_settings', { action: 'context_open_settings' });
+            // addMenu('context_update_antibanner_filters');
         } else {
             addMenu('popup_site_protection_disabled_android', {
                 action: 'context_disable_protection',
@@ -316,10 +316,10 @@ adguard.ui = (function (adguard) { // jshint ignore:line
             if (!tabInfo.documentWhiteListed) {
                 addMenu('popup_block_site_ads_android', { action: 'context_block_site_ads' });
             }
-            addMenu('popup_open_log_android', { action: 'context_open_log' });
-            addMenu('popup_security_report_android', { action: 'context_security_report' });
-            addMenu('popup_open_settings', { action: 'context_open_settings' });
-            addMenu('context_update_antibanner_filters');
+            // addMenu('popup_open_log_android', { action: 'context_open_log' });
+            // addMenu('popup_security_report_android', { action: 'context_security_report' });
+            // addMenu('popup_open_settings', { action: 'context_open_settings' });
+            // addMenu('context_update_antibanner_filters');
         }
     }
 
@@ -410,7 +410,7 @@ adguard.ui = (function (adguard) { // jshint ignore:line
         }
 
         let offer = adguard.i18n.getMessage('options_popup_version_update_offer');
-        let offerButtonHref = 'https://adguard.com/forward.html?action=learn_about_adguard&from=version_popup&app=browser_extension';
+        let offerButtonHref = 'https://my.bitguard.com/forward?action=learn_about_adguard&from=version_popup&app=browser_extension';
         let offerButtonText = adguard.i18n.getMessage('options_popup_version_update_offer_button_text');
 
         if (notification) {
@@ -423,7 +423,7 @@ adguard.ui = (function (adguard) { // jshint ignore:line
             type: 'show-version-updated-popup',
             title: adguard.i18n.getMessage('options_popup_version_update_title', currentVersion),
             description: getUpdateDescriptionMessage(currentVersion, previousVersion),
-            changelogHref: 'https://adguard.com/forward.html?action=github_version_popup&from=version_popup&app=browser_extension',
+            changelogHref: 'https://my.bitguard.com/forward?action=github_version_popup&from=version_popup&app=browser_extension',
             changelogText: adguard.i18n.getMessage('options_popup_version_update_changelog_text'),
             showPromoNotification: !!notification,
             offer,
@@ -520,7 +520,7 @@ adguard.ui = (function (adguard) { // jshint ignore:line
     var openSiteReportTab = function (url) {
         const domain = adguard.utils.url.toPunyCode(adguard.utils.url.getDomainName(url));
         if (domain) {
-            openTab(`https://adguard.com/site.html?domain=${encodeURIComponent(domain)}&utm_source=extension&aid=16593`);
+            openTab(`https://my.getbitguard.com/scan/?url=${encodeURIComponent(domain)}&utm_source=extension`);
         }
     };
 
@@ -594,7 +594,7 @@ adguard.ui = (function (adguard) { // jshint ignore:line
         const filterIds = adguard.filters.getEnabledFiltersFromEnabledGroups()
             .map(filter => filter.filterId);
 
-        openTab(`https://reports.adguard.com/new_issue.html?product_type=Ext&product_version=${
+        openTab(`https://my.bitguard.com/new_issue?product_type=Ext&product_version=${
             encodeURIComponent(adguard.app.getVersion())
         }&browser=${encodeURIComponent(browser)
         }${browserDetails ? `&browser_detail=${encodeURIComponent(browserDetails)}` : ''

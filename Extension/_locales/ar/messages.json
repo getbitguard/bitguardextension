@@ -24,10 +24,10 @@
         "message": "json. يجب أن يكون ملحق الملف"
     },
     "popup_adguard_for_ios": {
-        "message": "iOS لنظام AdGuard"
+        "message": "iOS لنظام BitGuard"
     },
     "popup_adguard_for_android": {
-        "message": "Android  لنظام  AdGuard"
+        "message": "Android  لنظام  BitGuard"
     },
     "options_filters_filter_version": {
         "message": ":الإصدار"
@@ -48,7 +48,7 @@
         "message": "متنوع"
     },
     "popup_adguard_footer_title": {
-        "message": "لهاتفك النقالAdGuardاحصل على"
+        "message": "لهاتفك النقالBitGuardاحصل على"
     },
     "options_popup_new_filter_subscription": {
         "message": "أضف اشتراك فلتر جديد"
@@ -105,7 +105,7 @@
         "message": "اشتراك"
     },
     "name": {
-        "message": "مانع الإعلانات AdGuard"
+        "message": "مانع الإعلانات BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "تخزين المتصفح"
@@ -336,19 +336,19 @@
         "message": "ديسمبر"
     },
     "thankyou_want_full_protection": {
-        "message": "هل ترغب في تجربة الحماية الكاملة؟ قم بتنزيل AdGuard للويندوز!"
+        "message": "هل ترغب في تجربة الحماية الكاملة؟ قم بتنزيل BitGuard للويندوز!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "هل ترغب في تجربة الحماية الكاملة؟_قم بتنزيل AdGuard للماك!"
+        "message": "هل ترغب في تجربة الحماية الكاملة؟_قم بتنزيل BitGuard للماك!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard للويندوز!"
+        "message": "BitGuard للويندوز!"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard للماك!"
+        "message": "BitGuard للماك!"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "دروب بوكس"
@@ -369,7 +369,7 @@
         "message": ".تم تحديثها"
     },
     "options_popup_version_update_title": {
-        "message": "$1إلى الإصدارAdGuard  تم تحديث امتداد"
+        "message": "$1إلى الإصدارBitGuard  تم تحديث امتداد"
     },
     "options_popup_version_update_description_minor": {
         "message": ".يحتوي هذا الإصدار معظم الإصلاحات والتحسينات الطفيفة"
@@ -381,7 +381,7 @@
         "message": "ما الجديد في هذا الإصدار؟"
     },
     "options_popup_version_update_offer": {
-        "message": "لا تقتصر على هذا المتصفح؟ AdGuard هل تعلم أن قدرات"
+        "message": "لا تقتصر على هذا المتصفح؟ BitGuard هل تعلم أن قدرات"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "التعرف على المزيد"
@@ -390,10 +390,10 @@
         "message": "موقع الويب هذا&nbsp;على&nbsp;حظر الاعلانات"
     },
     "popup_open_settings": {
-        "message": "إعدادات AdGuard"
+        "message": "إعدادات BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "حماية AdGuard متوقفة"
+        "message": "حماية BitGuard متوقفة"
     },
     "popup_block_site_ads_android": {
         "message": "حجب الإعلانات على هذا الموقع"
@@ -423,19 +423,19 @@
         "message": "محمي بواسطة $1"
     },
     "context_site_filtering_disabled": {
-        "message": "على هذا النطاق AdGuard  لا يمكن تشغيل"
+        "message": "على هذا النطاق BitGuard  لا يمكن تشغيل"
     },
     "context_disable_protection": {
-        "message": "إيقاف حماية AdGuard"
+        "message": "إيقاف حماية BitGuard"
     },
     "context_enable_protection": {
-        "message": "AdGuardاستئناف حماية"
+        "message": "BitGuardاستئناف حماية"
     },
     "context_site_protection_disabled": {
-        "message": "حماية AdGuard متوقفة"
+        "message": "حماية BitGuard متوقفة"
     },
     "context_open_settings": {
-        "message": "AdGuard إعدادات ..."
+        "message": "BitGuard إعدادات ..."
     },
     "context_open_log": {
         "message": "سجل الفلترة"
@@ -600,7 +600,7 @@
         "message": "فتح في علامة تبويب جديدة"
     },
     "options_settings": {
-        "message": "إعدادات AdGuard"
+        "message": "إعدادات BitGuard"
     },
     "options_general_settings": {
         "message": "الإعدادات العامة"
@@ -609,7 +609,7 @@
         "message": "السماح بإعلانات البحث والترويج الذاتي لمواقع الويب"
     },
     "options_show_blocked_ads_count": {
-        "message": "إظهار عدد الإعلانات المحجوبة على أيقونة AdGuard"
+        "message": "إظهار عدد الإعلانات المحجوبة على أيقونة BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "تفعيل الفلاتر الأكثر ملائمة تلقائياً"
@@ -639,7 +639,7 @@
         "message": "استيراد"
     },
     "options_whitelist_description": {
-        "message": "بتصفية مواقع الويب من القائمة البيضاء AdGuard  لا يقوم"
+        "message": "بتصفية مواقع الويب من القائمة البيضاء BitGuard  لا يقوم"
     },
     "options_whitelist_inverse": {
         "message": "عكس  القائمة البيضاء"
@@ -669,10 +669,10 @@
         "message": "الموقع الرسمي"
     },
     "options_discuss": {
-        "message": "AdGuard مناقشه"
+        "message": "BitGuard مناقشه"
     },
     "options_do_you_like": {
-        "message": "هل&nbsp;يعجبك AdGuard؟"
+        "message": "هل&nbsp;يعجبك BitGuard؟"
     },
     "options_footer_like_us": {
         "message": "! بتقييمه &nbsp; قم"
@@ -681,7 +681,7 @@
         "message": "متنوع"
     },
     "options_show_adguard_full_version": {
-        "message": "الكامل AdGuard&nbsp;عرض المعلومات على إصدار"
+        "message": "الكامل BitGuard&nbsp;عرض المعلومات على إصدار"
     },
     "options_show_app_updated_notification": {
         "message": "الاعلام عن تحديثات الملحق"
@@ -699,7 +699,7 @@
         "message": "استخدام الفلاترالإعلانات &nbsp;  إرسال إحصائيات"
     },
     "options_show_context_menu": {
-        "message": "إلى عنصرقائمة سياق المتصفح AdGuard &nbsp; إضافة"
+        "message": "إلى عنصرقائمة سياق المتصفح BitGuard &nbsp; إضافة"
     },
     "options_use_optimized_filters": {
         "message": "استخدام الفلاتر المحسنة"
@@ -804,7 +804,7 @@
         "message": "تبديل الحماية"
     },
     "short_name": {
-        "message": "حاجب الإعلانات AdGuard"
+        "message": "حاجب الإعلانات BitGuard"
     },
     "options_about": {
         "message": "حول"

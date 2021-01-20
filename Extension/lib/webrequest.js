@@ -691,7 +691,7 @@
                         if(frameRequests < FRAME_REQUESTS_LIMIT) {\
                             requestAnimationFrame(waitParent);\
                         } else {\
-                            console.log("AdGuard: document.head or document.documentElement were unavailable too long");\
+                            console.log("BitGuard: document.head or document.documentElement were unavailable too long");\
                         }\
                     }\
                     waitParent();\

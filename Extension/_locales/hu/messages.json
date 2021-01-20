@@ -24,10 +24,10 @@
         "message": "A fájl kiterjesztése .json kell, hogy legyen"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard iOS-re"
+        "message": "BitGuard iOS-re"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard Androidra"
+        "message": "BitGuard Androidra"
     },
     "options_filters_filter_version": {
         "message": "verzió:"
@@ -48,7 +48,7 @@
         "message": "Vegyes"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard beszerzése mobilra"
+        "message": "BitGuard beszerzése mobilra"
     },
     "options_popup_new_filter_subscription": {
         "message": "Új szűrőfeliratkozás"
@@ -105,7 +105,7 @@
         "message": "Feliratkozás"
     },
     "name": {
-        "message": "AdGuard Hirdetésblokkoló"
+        "message": "BitGuard Hirdetésblokkoló"
     },
     "sync_provider_browser_storage": {
         "message": "Böngésző tárhely"
@@ -336,19 +336,19 @@
         "message": "Dec"
     },
     "thankyou_want_full_protection": {
-        "message": "Szeretné&nbsp;kipróbálni a teljes védelmet? Töltse le az AdGuardot Windowsra!"
+        "message": "Szeretné&nbsp;kipróbálni a teljes védelmet? Töltse le az BitGuardot Windowsra!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Szeretné&nbsp;kipróbálni a teljes védelmet? Töltse le a AdGuardot Macre!"
+        "message": "Szeretné&nbsp;kipróbálni a teljes védelmet? Töltse le a BitGuardot Macre!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard Windows-ra"
+        "message": "BitGuard Windows-ra"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard Macre"
+        "message": "BitGuard Macre"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "frissítve lett."
     },
     "options_popup_version_update_title": {
-        "message": "Az AdGuard kiegészítő a(z) $1 verzióra frissült"
+        "message": "Az BitGuard kiegészítő a(z) $1 verzióra frissült"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ez a verzió leginkább hibajavításokat, valamint kisebb fejlesztéseket tartalmaz."
@@ -381,7 +381,7 @@
         "message": "Mik az újdonságok ebben a verzióban?"
     },
     "options_popup_version_update_offer": {
-        "message": "Tudta, hogy az AdGuard képességei nem csak erre a böngészőre korlátozódnak?"
+        "message": "Tudta, hogy az BitGuard képességei nem csak erre a böngészőre korlátozódnak?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "TUDJON MEG TÖBBET"
@@ -393,10 +393,10 @@
         "message": "Webhely biztonságának ellenőrzése"
     },
     "popup_open_settings": {
-        "message": "AdGuard beállítások"
+        "message": "BitGuard beállítások"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard védelem szüneteltetve"
+        "message": "BitGuard védelem szüneteltetve"
     },
     "popup_block_site_ads_android": {
         "message": "Hirdetések blokkolása a webhelyen"
@@ -432,19 +432,19 @@
         "message": "$1 által védve"
     },
     "context_site_filtering_disabled": {
-        "message": "Az AdGuard nem tud futni ezen a domainen"
+        "message": "Az BitGuard nem tud futni ezen a domainen"
     },
     "context_disable_protection": {
-        "message": "AdGuard védelem szüneteltetése"
+        "message": "BitGuard védelem szüneteltetése"
     },
     "context_enable_protection": {
-        "message": "AdGuard védelem folytatása"
+        "message": "BitGuard védelem folytatása"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard védelem szüneteltetve"
+        "message": "BitGuard védelem szüneteltetve"
     },
     "context_open_settings": {
-        "message": "AdGuard beállítások..."
+        "message": "BitGuard beállítások..."
     },
     "context_open_log": {
         "message": "Szűrési napló..."
@@ -495,7 +495,7 @@
         "message": "Tudta?"
     },
     "filter_download_sb_sites": {
-        "message": "Az AdGuard adathalász- és kártevő ellenes adatbázisa<br\/>több, mint 1&nbsp;millió webhelyet tartalmaz."
+        "message": "Az BitGuard adathalász- és kártevő ellenes adatbázisa<br\/>több, mint 1&nbsp;millió webhelyet tartalmaz."
     },
     "filter_download_rules": {
         "message": "Átlagosan&nbsp;több, mint&nbsp;100&nbsp;hirdetés szűrő szabályt adunk hozzá minden héten."
@@ -609,7 +609,7 @@
         "message": "Megnyitás új fülön"
     },
     "options_settings": {
-        "message": "AdGuard beállítások"
+        "message": "BitGuard beállítások"
     },
     "options_general_settings": {
         "message": "Általános beállítások"
@@ -618,7 +618,7 @@
         "message": "Keresési hirdetések és a webhelyek önpromócióinak engedélyezése"
     },
     "options_show_blocked_ads_count": {
-        "message": "A blokkolt hirdetések számának&nbsp;megjelenítése az&nbsp;AdGuard kiegészítő ikonján"
+        "message": "A blokkolt hirdetések számának&nbsp;megjelenítése az&nbsp;BitGuard kiegészítő ikonján"
     },
     "options_enable_autodetect_filter": {
         "message": "A megfelelő szűrők automatikus aktiválása"
@@ -648,7 +648,7 @@
         "message": "Importálás"
     },
     "options_whitelist_description": {
-        "message": "Az AdGuard nem szűri a kivételek listáján szereplő webhelyeket."
+        "message": "Az BitGuard nem szűri a kivételek listáján szereplő webhelyeket."
     },
     "options_whitelist_inverse": {
         "message": "Inverz kivétel lista"
@@ -681,7 +681,7 @@
         "message": "Fórum"
     },
     "options_do_you_like": {
-        "message": "Szereti&nbsp;az AdGuardot?"
+        "message": "Szereti&nbsp;az BitGuardot?"
     },
     "options_footer_like_us": {
         "message": "Értékelje&nbsp;!"
@@ -690,7 +690,7 @@
         "message": "Vegyes"
     },
     "options_show_adguard_full_version": {
-        "message": "Információ megjelenítése a teljes verziós AdGuardon"
+        "message": "Információ megjelenítése a teljes verziós BitGuardon"
     },
     "options_show_app_updated_notification": {
         "message": "Értesítsen a kiegészítő frissítéseiről"
@@ -708,7 +708,7 @@
         "message": "Statisztika küldése a hirdetésblokkoló&nbsp;szűrők használatáról"
     },
     "options_show_context_menu": {
-        "message": "Az AdGuard hozzáadása a&nbsp;böngésző helyi menüjéhez"
+        "message": "Az BitGuard hozzáadása a&nbsp;böngésző helyi menüjéhez"
     },
     "options_use_optimized_filters": {
         "message": "Optimalizált szűrők használata"
@@ -768,7 +768,7 @@
         "message": "Követési paraméterek levágása"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Vesszőkkel elválaszott lista a követési paraméterekről, amiket az AdGuard eltávolít az oldalak URL-jéből."
+        "message": "Vesszőkkel elválaszott lista a követési paraméterekről, amiket az BitGuard eltávolít az oldalak URL-jéből."
     },
     "options_cookies_title": {
         "message": "Sütik"
@@ -816,7 +816,7 @@
         "message": "Védelem kapcsoló"
     },
     "short_name": {
-        "message": "AdGuard Hirdetésblokkoló"
+        "message": "BitGuard Hirdetésblokkoló"
     },
     "options_about": {
         "message": "Névjegy"

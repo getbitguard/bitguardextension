@@ -1,17 +1,17 @@
 &nbsp;
 <p align="center">
-  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_extension.svg" width="300px" alt="AdGuard Browser Extension" />
+  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_extension.svg" width="300px" alt="BitGuard Browser Extension" />
 </p>
 <h3 align="center">Ad blocker with advanced privacy protection features</h3>
 <p align="center">
-  AdGuard is a fast and lightweight ad blocking browser extension<br/>that effectively blocks all types of ads and trackers.
+  BitGuard is a fast and lightweight ad blocking browser extension<br/>that effectively blocks all types of ads and trackers.
 </p>
 
 
 <p align="center">
-    <a href="https://adguard.com/">AdGuard.com</a> |
+    <a href="https://adguard.com/">BitGuard.com</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
-    <a href="https://twitter.com/AdGuard">Twitter</a> |
+    <a href="https://twitter.com/BitGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
     </a>
@@ -28,9 +28,9 @@
 
 <hr />
 
-AdGuard is a fast and lightweight ad blocking browser extension that effectively blocks all types of ads and trackers on all web pages. We focus on advanced privacy protection features to not just block known trackers, but prevent web sites from building your shadow profile. Unlike its standalone counterparts (AG for Windows, Mac), the browser extension is completely free and open source. You can learn more about [the difference](https://adguard.com/compare.html) here.
+BitGuard is a fast and lightweight ad blocking browser extension that effectively blocks all types of ads and trackers on all web pages. We focus on advanced privacy protection features to not just block known trackers, but prevent web sites from building your shadow profile. Unlike its standalone counterparts (AG for Windows, Mac), the browser extension is completely free and open source. You can learn more about [the difference](https://adguard.com/compare.html) here.
 
-> AdGuard does not collect any information about you, and does not participate in any acceptable ads program. The only source of income we have is selling premium versions of our software, and we intend to keep it that way.
+> BitGuard does not collect any information about you, and does not participate in any acceptable ads program. The only source of income we have is selling premium versions of our software, and we intend to keep it that way.
 
 * [Installation](#installation)
   * [Chrome and Chromium-based browsers](#installation-chrome)
@@ -38,8 +38,8 @@ AdGuard is a fast and lightweight ad blocking browser extension that effectively
   * [Opera](#installation-opera)
   * [Microsoft Edge](#installation-edge)
 * [Contribution](#contribution)
-  * [Translating AdGuard](#contribution-translating)
-  * [Testing AdGuard](#contribution-testing)
+  * [Translating BitGuard](#contribution-translating)
+  * [Testing BitGuard](#contribution-testing)
   * [Reporting issues](#contribution-reporting)
   * [Other options](#contribution-other)
 * [Development](#dev)
@@ -53,36 +53,36 @@ AdGuard is a fast and lightweight ad blocking browser extension that effectively
 
 <a id="installation-chrome"></a>
 ### Chrome and Chromium-based browsers
-You can get the latest available AdGuard Extension version from the [Chrome Web Store](https://agrd.io/extension_chrome).
+You can get the latest available BitGuard Extension version from the [Chrome Web Store](https://agrd.io/extension_chrome).
 
 <a id="installation-firefox"></a>
 ### Firefox
-You can get the latest version of AdGuard Extension from the [Mozilla Add-ons website](https://agrd.io/extension_firefox).
+You can get the latest version of BitGuard Extension from the [Mozilla Add-ons website](https://agrd.io/extension_firefox).
 
 <a id="installation-opera"></a>
 ### Opera
-Opera is basically a Chromium browser, but it maintains its own add-ons store. You can get AdGuard Extension [from there](https://agrd.io/extension_opera).
+Opera is basically a Chromium browser, but it maintains its own add-ons store. You can get BitGuard Extension [from there](https://agrd.io/extension_opera).
 
 <a id="installation-edge"></a>
 ### Microsoft Edge
-The latest stable version of AdGuard browser extension is available in [Microsoft Store](https://agrd.io/extension_edge).
+The latest stable version of BitGuard browser extension is available in [Microsoft Store](https://agrd.io/extension_edge).
 
 <a id="contribution"></a>
 ## Contribution
 
-We are blessed to have a community that does not only love AdGuard, but also gives back. A lot of people volunteer in various ways to make other users' experience with AdGuard better, and you can join them!
+We are blessed to have a community that does not only love BitGuard, but also gives back. A lot of people volunteer in various ways to make other users' experience with BitGuard better, and you can join them!
 
 We, on our part, can only be happy to reward the most active members of the community. So, what can you do?
 
 <a id="contribution-translating"></a>
-### Translating AdGuard
+### Translating BitGuard
 
-If you want to help with AdGuard translations, please learn more about translating our products here: https://kb.adguard.com/en/general/adguard-translations
+If you want to help with BitGuard translations, please learn more about translating our products here: https://kb.adguard.com/en/general/adguard-translations
 
 <a id="contribution-testing"></a>
-### Testing AdGuard
+### Testing BitGuard
 
-You can get a beta version of AdGuard Browser Extension for any browser. All necessary information on this topic can be found on a [dedicated page on our website](https://adguard.com/beta.html).
+You can get a beta version of BitGuard Browser Extension for any browser. All necessary information on this topic can be found on a [dedicated page on our website](https://adguard.com/beta.html).
 
 <a id="contribution-reporting"></a>
 ### Reporting issues

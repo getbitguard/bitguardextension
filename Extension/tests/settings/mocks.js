@@ -2,6 +2,9 @@
     adguard.filters = {
         getEnabledFilters: () => [
             { filterId: 1 },
+            { filterId: 2},
+            { filterId: 3},
+            { filterId: 4 },
             {
                 filterId: 100,
                 customUrl: 'https://example.org/custom_url',

@@ -18,13 +18,13 @@
 (function (adguard, api) {
     const stringUtils = adguard.utils.strings;
     /**
-     * AdGuard scriptlet mask
+     * BitGuard scriptlet mask
      */
     // eslint-disable-next-line no-template-curly-in-string
     const ADGUARD_SCRIPTLET_MASK = '${domains}#%#//scriptlet(${args})';
 
     /**
-     * AdGuard scriptlet exception mask
+     * BitGuard scriptlet exception mask
      */
     // eslint-disable-next-line no-template-curly-in-string
     const ADGUARD_SCRIPTLET_EXCEPTION_MASK = '${domains}#@%#//scriptlet(${args})';
@@ -39,7 +39,7 @@
     const UBO_SCRIPTLET_EXCEPTION_MASK_2 = '#@#script:inject';
     const UBO_SCRIPT_TAG_MASK = '##^script';
     /**
-     * AdGuard max-length tag for uBlock scripts conversion
+     * BitGuard max-length tag for uBlock scripts conversion
      */
     const ADGUARD_SCRIPT_MAX_LENGTH = '[max-length="262144"]';
     /**
@@ -49,7 +49,7 @@
     const ABP_SCRIPTLET_EXCEPTION_MASK = '#@$#';
 
     /**
-     * AdGuard CSS rule mask
+     * BitGuard CSS rule mask
      */
     const ADG_CSS_MASK_REG = /#@?\$#.+?\s*\{.*\}\s*$/g;
 
@@ -102,7 +102,7 @@
     }
 
     /**
-     * Convert string of UBO scriptlet rule to AdGuard scritlet rule
+     * Convert string of UBO scriptlet rule to BitGuard scritlet rule
      * @param {string} rule UBO scriptlet rule
      */
     function convertUboScriptletRule(rule) {
@@ -127,7 +127,7 @@
     }
 
     /**
-     * Convert string of ABP scriptlet rule to AdGuard scritlet rule
+     * Convert string of ABP scriptlet rule to BitGuard scritlet rule
      * @param {string} rule UBO scriptlet rule
      */
     function convertAbpSnippetRule(rule) {
@@ -420,7 +420,7 @@
     const isComment = rule => stringUtils.startWith(rule, api.FilterRule.COMMENT);
 
     /**
-     * Convert external scriptlet rule to AdGuard scriptlet syntax
+     * Convert external scriptlet rule to BitGuard scriptlet syntax
      * @param {string} rule convert rule
      */
     function convertRule(rule) {

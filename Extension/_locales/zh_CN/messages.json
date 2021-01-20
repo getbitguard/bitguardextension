@@ -24,10 +24,10 @@
         "message": "文件扩展名应为 .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "BitGuard for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "BitGuard for Android"
     },
     "options_filters_filter_version": {
         "message": "版本："
@@ -48,7 +48,7 @@
         "message": "杂项"
     },
     "popup_adguard_footer_title": {
-        "message": "为您的移动设备获取 AdGuard"
+        "message": "为您的移动设备获取 BitGuard"
     },
     "options_popup_new_filter_subscription": {
         "message": "新过滤器订阅"
@@ -105,7 +105,7 @@
         "message": "订阅"
     },
     "name": {
-        "message": "AdGuard 广告拦截器"
+        "message": "BitGuard 广告拦截器"
     },
     "sync_provider_browser_storage": {
         "message": "浏览器存储"
@@ -336,19 +336,19 @@
         "message": "十二月"
     },
     "thankyou_want_full_protection": {
-        "message": "您要尝试完整保护？请下载 AdGuard for Windows！"
+        "message": "您要尝试完整保护？请下载 BitGuard for Windows！"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "您要尝试完整保护？请下载 AdGuard for Mac！"
+        "message": "您要尝试完整保护？请下载 BitGuard for Mac！"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard for Windows"
+        "message": "BitGuard for Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard for Mac"
+        "message": "BitGuard for Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "已为最新。"
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard 扩展已更新到版本 $1"
+        "message": "BitGuard 扩展已更新到版本 $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "此版本包含众多的错误修复和小的改进。"
@@ -381,7 +381,7 @@
         "message": "此版本的新特性？"
     },
     "options_popup_version_update_offer": {
-        "message": "您可知道 AdGuard 的能力不限于此浏览器？"
+        "message": "您可知道 BitGuard 的能力不限于此浏览器？"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "了解更多"
@@ -393,10 +393,10 @@
         "message": "检测网站安全性"
     },
     "popup_open_settings": {
-        "message": "AdGuard 设置"
+        "message": "BitGuard 设置"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard 保护暂停"
+        "message": "BitGuard 保护暂停"
     },
     "popup_block_site_ads_android": {
         "message": "拦截网站上的广告"
@@ -432,19 +432,19 @@
         "message": "已由 $1 保护"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard 无法运行于此域"
+        "message": "BitGuard 无法运行于此域"
     },
     "context_disable_protection": {
-        "message": "暂停 AdGuard 保护"
+        "message": "暂停 BitGuard 保护"
     },
     "context_enable_protection": {
-        "message": "继续 AdGuard 保护"
+        "message": "继续 BitGuard 保护"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard 保护已暂停"
+        "message": "BitGuard 保护已暂停"
     },
     "context_open_settings": {
-        "message": "AdGuard 设置..."
+        "message": "BitGuard 设置..."
     },
     "context_open_log": {
         "message": "过滤日志..."
@@ -495,7 +495,7 @@
         "message": "您知道吗？"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard 钓鱼和恶意数据库包含有<br\/>逾百万的网站的数据。"
+        "message": "BitGuard 钓鱼和恶意数据库包含有<br\/>逾百万的网站的数据。"
     },
     "filter_download_rules": {
         "message": "平均每周我们都在添加超过 100 条广告过滤器规则。"
@@ -609,7 +609,7 @@
         "message": "打开于新标签内"
     },
     "options_settings": {
-        "message": "AdGuard 设置"
+        "message": "BitGuard 设置"
     },
     "options_general_settings": {
         "message": "常规设置"
@@ -618,7 +618,7 @@
         "message": "允许搜索广告及网站的自我推销<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>了解更多相关信息<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "用 AdGuard 扩展图标显示已拦截的广告数量"
+        "message": "用 BitGuard 扩展图标显示已拦截的广告数量"
     },
     "options_enable_autodetect_filter": {
         "message": "自动激活最适合的过滤器"
@@ -648,7 +648,7 @@
         "message": "导入"
     },
     "options_whitelist_description": {
-        "message": "AdGuard 不会过滤白名单上的网站。"
+        "message": "BitGuard 不会过滤白名单上的网站。"
     },
     "options_whitelist_inverse": {
         "message": "颠倒白名单<span class='sp-table-row-info'>取消拦截<i>除<\/i>白名单<\/span>外的任何位置的广告"
@@ -678,10 +678,10 @@
         "message": "官方网站"
     },
     "options_discuss": {
-        "message": "讨论 AdGuard"
+        "message": "讨论 BitGuard"
     },
     "options_do_you_like": {
-        "message": "您喜欢 AdGuard？"
+        "message": "您喜欢 BitGuard？"
     },
     "options_footer_like_us": {
         "message": "为它投票！"
@@ -690,7 +690,7 @@
         "message": "杂项"
     },
     "options_show_adguard_full_version": {
-        "message": "显示 AdGuard 完整版本信息"
+        "message": "显示 BitGuard 完整版本信息"
     },
     "options_show_app_updated_notification": {
         "message": "通知扩展更新"
@@ -708,7 +708,7 @@
         "message": "发送广告过滤器使用统计信息<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>了解更多信息<\/a>"
     },
     "options_show_context_menu": {
-        "message": "添加 AdGuard 到浏览器上下文菜单"
+        "message": "添加 BitGuard 到浏览器上下文菜单"
     },
     "options_use_optimized_filters": {
         "message": "使用优化的筛选器<span class='sp-table-row-info'>专为移动设备优化的轻量筛选器列表<\/span>"
@@ -768,7 +768,7 @@
         "message": "移除跟踪参数"
     },
     "options_strip_tracking_params_desc": {
-        "message": "逗号分隔的跟踪参数列表，这些将由 AdGuard 从网页地址内移除。"
+        "message": "逗号分隔的跟踪参数列表，这些将由 BitGuard 从网页地址内移除。"
     },
     "options_cookies_title": {
         "message": "Cookies"
@@ -816,7 +816,7 @@
         "message": "保护开关"
     },
     "short_name": {
-        "message": "AdGuard 广告拦截器"
+        "message": "BitGuard 广告拦截器"
     },
     "options_about": {
         "message": "关于"

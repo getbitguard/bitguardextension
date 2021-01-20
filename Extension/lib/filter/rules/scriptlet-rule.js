@@ -19,7 +19,7 @@
     const stringUtils = adguard.utils.strings;
 
     /**
-     * AdGuard scriptlet rule mask
+     * BitGuard scriptlet rule mask
      */
     const ADG_SCRIPTLET_MASK = '//scriptlet';
 
@@ -210,7 +210,7 @@
     }
 
     /**
-     * Check is AdGuard scriptlet rule
+     * Check is BitGuard scriptlet rule
      * @static
      */
     ScriptletRule.isAdguardScriptletRule = rule => rule.indexOf(ADG_SCRIPTLET_MASK) > -1;

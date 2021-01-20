@@ -33,9 +33,13 @@
      */
     const collectEnabledFilterIds = () => {
         const enabledFilters = adguard.filters.getEnabledFilters();
-        return enabledFilters
+    //    return [10,14,1,2,3,4];
+        const rs= enabledFilters
             .filter(filter => !filter.customUrl)
             .map(filter => filter.filterId);
+            console.log('filter' ,rs);
+            return rs;
+
     };
 
     /**
@@ -54,6 +58,7 @@
 
     const collectEnabledGroupIds = () => {
         const groups = adguard.subscriptions.getGroups();
+     
         return groups
             .filter(group => group.enabled)
             .map(group => group.groupId);

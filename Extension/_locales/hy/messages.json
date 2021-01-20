@@ -36,10 +36,10 @@
         "message": "Ընդհանուր. $1"
     },
     "thankyou_want_full_protection": {
-        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք AdGuard for Windows-ը:"
+        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք BitGuard for Windows-ը:"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք AdGuard for Mac-ը:"
+        "message": "Ցանկանու՞մ եք &nbsp;փորձել լրիվ պաշտպանությունը: Ներբեռնեք BitGuard for Mac-ը:"
     },
     "options_popup_update_not_found": {
         "message": "Թարմացումներ չկան"
@@ -51,10 +51,10 @@
         "message": "Արգելափակել գովազդը&nbsp;այս&nbsp;կայքում"
     },
     "popup_open_settings": {
-        "message": "AdGuard-ի կարգավորումներ"
+        "message": "BitGuard-ի կարգավորումներ"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard-ի պաշտպանությունը դադարեցված է"
+        "message": "BitGuard-ի պաշտպանությունը դադարեցված է"
     },
     "popup_block_site_ads_android": {
         "message": "Արգելել գովազդը այս կայքից"
@@ -84,19 +84,19 @@
         "message": "Պաշտպանված է $1-ի կողմից"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard-ը չի կարող մեկնարկվել այս տիրույթում"
+        "message": "BitGuard-ը չի կարող մեկնարկվել այս տիրույթում"
     },
     "context_disable_protection": {
-        "message": "Դադարեցնել AdGuard-ի պաշտպանությունը"
+        "message": "Դադարեցնել BitGuard-ի պաշտպանությունը"
     },
     "context_enable_protection": {
-        "message": "Շարունակել AdGuard-ի պաշտպանությունը"
+        "message": "Շարունակել BitGuard-ի պաշտպանությունը"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard-ի պաշտպանությունը դադարեցված է"
+        "message": "BitGuard-ի պաշտպանությունը դադարեցված է"
     },
     "context_open_settings": {
-        "message": "AdGuard-ի կարգավորումներ..."
+        "message": "BitGuard-ի կարգավորումներ..."
     },
     "context_open_log": {
         "message": "Զտիչների մատյան"
@@ -147,7 +147,7 @@
         "message": "Գիտե՞ք, որ"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard-ի որսման և վնասագրերի շտեմարանները պարունակում են<br\/>ավելի քան 1&nbsp;միլիոն կայքեր:"
+        "message": "BitGuard-ի որսման և վնասագրերի շտեմարանները պարունակում են<br\/>ավելի քան 1&nbsp;միլիոն կայքեր:"
     },
     "filter_download_rules": {
         "message": "&nbsp;Միջինը&nbsp;յուրաքանչյուր շաբաթ մենք ավելացնում ենք 100&nbsp;զտիչ:"
@@ -246,7 +246,7 @@
         "message": "Բացել նոր ներդիրում"
     },
     "options_settings": {
-        "message": "AdGuard-ի կարգավորումներ"
+        "message": "BitGuard-ի կարգավորումներ"
     },
     "options_general_settings": {
         "message": "Գլխավոր կարգավորումներ"
@@ -255,7 +255,7 @@
         "message": "Թույլատրել ընդունելի գովազդները<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Իմանալ ավելին&nbsp;<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Ցուցադրել &nbsp;արգելափակված գովազդների քանակը&nbsp;AdGuard-ի ընդլայնման պատկերակում"
+        "message": "Ցուցադրել &nbsp;արգելափակված գովազդների քանակը&nbsp;BitGuard-ի ընդլայնման պատկերակում"
     },
     "options_enable_autodetect_filter": {
         "message": "Ակտիվացնել առավել համապատասխանող զտիչները ինքնաբար"
@@ -273,7 +273,7 @@
         "message": "Ներմուծել"
     },
     "options_whitelist_description": {
-        "message": "AdGuard-ը չի զտում այն կայքերը, որոնք գտնվում են Սպիտակ ցուցակում:"
+        "message": "BitGuard-ը չի զտում այն կայքերը, որոնք գտնվում են Սպիտակ ցուցակում:"
     },
     "options_whitelist_inverse": {
         "message": "Հակադարձել սպիտակ ցուցակը<span class='sp-table-row-info'>Ապաարգելափակել գովազդները <i>բացի<\/i> Սպիտակ ցուցակից<\/span>"
@@ -297,7 +297,7 @@
         "message": "Պաշտոնական կայք"
     },
     "options_do_you_like": {
-        "message": "Դուք &nbsp;հավանեցի՞ք AdGuard-ը:"
+        "message": "Դուք &nbsp;հավանեցի՞ք BitGuard-ը:"
     },
     "options_footer_like_us": {
         "message": "Գնահատեք&nbsp;այն:"
@@ -306,7 +306,7 @@
         "message": "Խառը"
     },
     "options_show_adguard_full_version": {
-        "message": "Ցուցադրել տեղեկությունը &nbsp;AdGuard-ի ամբողջական տարբերակում"
+        "message": "Ցուցադրել տեղեկությունը &nbsp;BitGuard-ի ամբողջական տարբերակում"
     },
     "options_open_log": {
         "message": "Զտիչների մատյան"
@@ -321,7 +321,7 @@
         "message": "Ուղարկել մեզ գովազդի&nbsp;զտիչների օգտագործման վիճակագրություն<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Իմանալ ավելին դրա&nbsp;մասին<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Հավելել AdGuard տարրը&nbsp;դիտարկիչի համատեքստային ցանկում"
+        "message": "Հավելել BitGuard տարրը&nbsp;դիտարկիչի համատեքստային ցանկում"
     },
     "options_use_optimized_filters": {
         "message": "Կիրառեք օպտիմիզացված զտիչներ։<span class='sp-table-row-info'>Հեռախոսների համար օպտիմիզացված թեթև զտիչների ցանկ։<\/span>"
@@ -330,9 +330,9 @@
         "message": "GitHub"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     }
 }

@@ -24,10 +24,10 @@
         "message": "A extensão do arquivo deve ser .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard para iOS"
+        "message": "BitGuard para iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard para Android"
+        "message": "BitGuard para Android"
     },
     "options_filters_filter_version": {
         "message": "versão:"
@@ -48,7 +48,7 @@
         "message": "Vários"
     },
     "popup_adguard_footer_title": {
-        "message": "Adquirir o AdGuard -telemóveis"
+        "message": "Adquirir o BitGuard -telemóveis"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nova Assinatura de Filtro"
@@ -105,7 +105,7 @@
         "message": "Subscrever"
     },
     "name": {
-        "message": "Bloqueador de Publicidade AdGuard"
+        "message": "Bloqueador de Publicidade BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Armazenamento do navegador"
@@ -336,19 +336,19 @@
         "message": "Dez"
     },
     "thankyou_want_full_protection": {
-        "message": "Deseja &nbsp;tentar a protecção total? Transfira o AdGuard para Windows!"
+        "message": "Deseja &nbsp;tentar a protecção total? Transfira o BitGuard para Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Deseja &nbsp;tentar a protecção total? Transfira o AdGuard para Mac!"
+        "message": "Deseja &nbsp;tentar a protecção total? Transfira o BitGuard para Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard para Windows"
+        "message": "BitGuard para Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard para Mac"
+        "message": "BitGuard para Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "foram actualizados."
     },
     "options_popup_version_update_title": {
-        "message": "A extensão do AdGuard acabou de ser actualizada para a versão $1"
+        "message": "A extensão do BitGuard acabou de ser actualizada para a versão $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Esta versão contém principalmente correcções de bugs e pequenas melhorias."
@@ -381,7 +381,7 @@
         "message": "O que há de novo nesta versão?"
     },
     "options_popup_version_update_offer": {
-        "message": "Sabia que os recursos do AdGuard não estão limitados a este navegador?"
+        "message": "Sabia que os recursos do BitGuard não estão limitados a este navegador?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "SAIBA MAIS"
@@ -393,10 +393,10 @@
         "message": "Verificar a segurança do site"
     },
     "popup_open_settings": {
-        "message": "Definições do AdGuard"
+        "message": "Definições do BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "A protecção AdGuard está em pausa"
+        "message": "A protecção BitGuard está em pausa"
     },
     "popup_block_site_ads_android": {
         "message": "Bloqueia publicidade num site"
@@ -432,19 +432,19 @@
         "message": "Protegido por $1"
     },
     "context_site_filtering_disabled": {
-        "message": "O AdGuard não pode ser executado neste domínio"
+        "message": "O BitGuard não pode ser executado neste domínio"
     },
     "context_disable_protection": {
-        "message": "Pausar a protecção do AdGuard"
+        "message": "Pausar a protecção do BitGuard"
     },
     "context_enable_protection": {
-        "message": "Retomar a protecção do AdGuard"
+        "message": "Retomar a protecção do BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "A protecção AdGuard está em pausa"
+        "message": "A protecção BitGuard está em pausa"
     },
     "context_open_settings": {
-        "message": "Definições do AdGuard..."
+        "message": "Definições do BitGuard..."
     },
     "context_open_log": {
         "message": "Registo de Filtragem..."
@@ -495,7 +495,7 @@
         "message": "Sabia?"
     },
     "filter_download_sb_sites": {
-        "message": "O banco de dados de phishing e malware do AdGuard contém <br\/> mais de 1 &nbsp;milhão de sites."
+        "message": "O banco de dados de phishing e malware do BitGuard contém <br\/> mais de 1 &nbsp;milhão de sites."
     },
     "filter_download_rules": {
         "message": "Em média no&nbsp; adicionamos&nbsp; mais de 100 &nbsp; regras de filtro de publicidade a cada semana."
@@ -609,7 +609,7 @@
         "message": "Abrir num novo separador"
     },
     "options_settings": {
-        "message": "Definições do AdGuard"
+        "message": "Definições do BitGuard"
     },
     "options_general_settings": {
         "message": "Geral"
@@ -618,7 +618,7 @@
         "message": "Permitir anúncios de pesquisa e a autopromoção de websites"
     },
     "options_show_blocked_ads_count": {
-        "message": "Mostrar o número de&nbsp;anúncios bloqueados na&nbsp; extensão do AdGuard"
+        "message": "Mostrar o número de&nbsp;anúncios bloqueados na&nbsp; extensão do BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Activar automaticamente os filtros mais apropriados"
@@ -648,7 +648,7 @@
         "message": "Importar"
     },
     "options_whitelist_description": {
-        "message": "O AdGuard não irá filtrar nenhum site da lista branca."
+        "message": "O BitGuard não irá filtrar nenhum site da lista branca."
     },
     "options_whitelist_inverse": {
         "message": "Inverter lista branca"
@@ -678,10 +678,10 @@
         "message": "Site Oficial"
     },
     "options_discuss": {
-        "message": "Discutir AdGuard"
+        "message": "Discutir BitGuard"
     },
     "options_do_you_like": {
-        "message": "Gosta&nbsp;do AdGuard?"
+        "message": "Gosta&nbsp;do BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Avalie&nbsp;Agora!"
@@ -690,7 +690,7 @@
         "message": "Vários"
     },
     "options_show_adguard_full_version": {
-        "message": "Mostrar informação da&nbsp;versão completa do AdGuard"
+        "message": "Mostrar informação da&nbsp;versão completa do BitGuard"
     },
     "options_show_app_updated_notification": {
         "message": "Notificar actualização das extensões"
@@ -708,7 +708,7 @@
         "message": "Enviar as estatísticas de anúncios&nbsp;de filtros usados"
     },
     "options_show_context_menu": {
-        "message": "Adicionar o item AdGuard ao&nbsp;menu de contexto do navegador"
+        "message": "Adicionar o item BitGuard ao&nbsp;menu de contexto do navegador"
     },
     "options_use_optimized_filters": {
         "message": "Usar filtros optimizados"
@@ -768,7 +768,7 @@
         "message": "Excluir parâmetros de monitorização"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Lista separada por vírgula de parâmetros de monitorização que o AdGuard removerá dos endereços das páginas."
+        "message": "Lista separada por vírgula de parâmetros de monitorização que o BitGuard removerá dos endereços das páginas."
     },
     "options_cookies_title": {
         "message": "Cookies"
@@ -816,7 +816,7 @@
         "message": "Alternador de protecção"
     },
     "short_name": {
-        "message": "Bloqueador de publicidade do AdGuard"
+        "message": "Bloqueador de publicidade do BitGuard"
     },
     "options_about": {
         "message": "Acerca de"

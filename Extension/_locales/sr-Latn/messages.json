@@ -24,10 +24,10 @@
         "message": "Oznaka datoteke treba biti .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard za iOS"
+        "message": "BitGuard za iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard za Android"
+        "message": "BitGuard za Android"
     },
     "options_filters_filter_version": {
         "message": "verzija:"
@@ -48,7 +48,7 @@
         "message": "Razno"
     },
     "popup_adguard_footer_title": {
-        "message": "Nabavi AdGuard za tvoj mobilni"
+        "message": "Nabavi BitGuard za tvoj mobilni"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nova prijava za filter"
@@ -105,7 +105,7 @@
         "message": "Pretplati se"
     },
     "name": {
-        "message": "AdGuard blokator reklama"
+        "message": "BitGuard blokator reklama"
     },
     "sync_provider_browser_storage": {
         "message": "Skladište pregledača"
@@ -339,16 +339,16 @@
         "message": "Želite da probate&nbsp;isprobate potpunu zaštitu? Preuzmite Adguard za Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Želite da isprobate punu zaštitu? Isprobajte AdGuard za Mac!"
+        "message": "Želite da isprobate punu zaštitu? Isprobajte BitGuard za Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard za Windows"
+        "message": "BitGuard za Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard za Mac"
+        "message": "BitGuard za Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "je ažurirano."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard proširenje je ažurirano na verziju $1"
+        "message": "BitGuard proširenje je ažurirano na verziju $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ova verzija uglavnom sadrži ispravljanje grešaka i mala unapređenja."
@@ -381,7 +381,7 @@
         "message": "Šta je novo u ovoj verziji?"
     },
     "options_popup_version_update_offer": {
-        "message": "Jeste li znali da mogućnosti AdGuard-a nisu ograničene samo na ovaj preglednik?"
+        "message": "Jeste li znali da mogućnosti BitGuard-a nisu ograničene samo na ovaj preglednik?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "Saznajte više"
@@ -393,10 +393,10 @@
         "message": "Izveštaj o bezbednosti stranice"
     },
     "popup_open_settings": {
-        "message": "AdGuard postavke"
+        "message": "BitGuard postavke"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard zaštita je pauzirana"
+        "message": "BitGuard zaštita je pauzirana"
     },
     "popup_block_site_ads_android": {
         "message": "Blokiraj reklame na stranici"
@@ -432,19 +432,19 @@
         "message": "Zaštićen od $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ne može da radi na ovom domenu"
+        "message": "BitGuard ne može da radi na ovom domenu"
     },
     "context_disable_protection": {
-        "message": "Pauziraj AdGuard zaštitu"
+        "message": "Pauziraj BitGuard zaštitu"
     },
     "context_enable_protection": {
-        "message": "Nastavi AdGuard zaštitu"
+        "message": "Nastavi BitGuard zaštitu"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard zaštita je pauzirana."
+        "message": "BitGuard zaštita je pauzirana."
     },
     "context_open_settings": {
-        "message": "AdGuard postavke..."
+        "message": "BitGuard postavke..."
     },
     "context_open_log": {
         "message": "Dnevnik prečišćavanja..."
@@ -495,7 +495,7 @@
         "message": "Jeste li znali?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard baza podataka za fišing i viruse sadrži<br\/>više od 1&nbsp;milion stranica."
+        "message": "BitGuard baza podataka za fišing i viruse sadrži<br\/>više od 1&nbsp;milion stranica."
     },
     "filter_download_rules": {
         "message": "U&nbsp;proseku, mi&nbsp;dodajemo više od 100&nbsp;pravila za filterisanje reklama svake nedelje."
@@ -609,7 +609,7 @@
         "message": "Otvori u novoj kartici"
     },
     "options_settings": {
-        "message": "AdGuard postavke"
+        "message": "BitGuard postavke"
     },
     "options_general_settings": {
         "message": "Opšta podešavanja"
@@ -618,7 +618,7 @@
         "message": "Dozvoli prihvatljive reklame<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Saznajte više&nbsp;it<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Prikaži broj&nbsp;blokiranih reklama na&nbsp; ikonici AdGuard dodatka"
+        "message": "Prikaži broj&nbsp;blokiranih reklama na&nbsp; ikonici BitGuard dodatka"
     },
     "options_enable_autodetect_filter": {
         "message": "Automatski uključi najpogodnije filtere"
@@ -648,7 +648,7 @@
         "message": "Uvezi"
     },
     "options_whitelist_description": {
-        "message": "AdGuard ne filteriše sajtove koji se nalaze na beloj listi."
+        "message": "BitGuard ne filteriše sajtove koji se nalaze na beloj listi."
     },
     "options_whitelist_inverse": {
         "message": "Okreni belu listu<span class='sp-table-row-info'>Odblokirajte reklame svuda <i>izuzev<\/i> bele liste<\/span>"
@@ -678,10 +678,10 @@
         "message": "Zvanična stranica"
     },
     "options_discuss": {
-        "message": "Raspravljaj o AdGuard-u"
+        "message": "Raspravljaj o BitGuard-u"
     },
     "options_do_you_like": {
-        "message": "Da&nbsp;li volite AdGuard?"
+        "message": "Da&nbsp;li volite BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Ocenite&nbsp;ga!    "
@@ -690,7 +690,7 @@
         "message": "Razno"
     },
     "options_show_adguard_full_version": {
-        "message": "Prikaži informacije na&nbsp;AdGuard punoj verziji"
+        "message": "Prikaži informacije na&nbsp;BitGuard punoj verziji"
     },
     "options_show_app_updated_notification": {
         "message": "Obavesti o ažuriranju proširenja"
@@ -708,7 +708,7 @@
         "message": "Pošaljite statistiku korišćenja&nbsp;reklamnih filtera<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Saznajte više&nbsp;it<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Dodaj AdGuard stavku na&nbsp;kontekstni meni preglednika"
+        "message": "Dodaj BitGuard stavku na&nbsp;kontekstni meni preglednika"
     },
     "options_use_optimized_filters": {
         "message": "Koristi optimizovane filtere<span class='sp-table-row-info'>male liste filtera optimizovane za mobilne uređaje<\/span>"
@@ -768,7 +768,7 @@
         "message": "Ukloni parametre praćenja"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Lista odvojena zarezom sa parametrima praćenja koje će AdGuard ukloniti sa stranica."
+        "message": "Lista odvojena zarezom sa parametrima praćenja koje će BitGuard ukloniti sa stranica."
     },
     "options_cookies_title": {
         "message": "Kolačići"
@@ -816,7 +816,7 @@
         "message": "Prekidač zaštite"
     },
     "short_name": {
-        "message": "AdGuard blokator reklama"
+        "message": "BitGuard blokator reklama"
     },
     "options_about": {
         "message": "O programu"

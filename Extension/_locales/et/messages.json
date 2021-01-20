@@ -24,10 +24,10 @@
         "message": "Faililaiend peaks olema .josn"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "BitGuard for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard Androidile"
+        "message": "BitGuard Androidile"
     },
     "options_filters_filter_version": {
         "message": "versioon:"
@@ -48,7 +48,7 @@
         "message": "Mitmesugust"
     },
     "popup_adguard_footer_title": {
-        "message": "Hangi AdGuard oma telefoni"
+        "message": "Hangi BitGuard oma telefoni"
     },
     "options_popup_new_filter_subscription": {
         "message": "Uue filtri tellimine"
@@ -105,7 +105,7 @@
         "message": "Telli"
     },
     "name": {
-        "message": "AdGuardi reklaamiblokeerija"
+        "message": "BitGuardi reklaamiblokeerija"
     },
     "sync_provider_browser_storage": {
         "message": "Brauseri mälu"
@@ -336,19 +336,19 @@
         "message": "Dets"
     },
     "thankyou_want_full_protection": {
-        "message": "Tahad proovida&nbsp;täiskaitset? Laadi alla AdGuard Windowsile!"
+        "message": "Tahad proovida&nbsp;täiskaitset? Laadi alla BitGuard Windowsile!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Tahad proovida&nbsp;täiskaitset? Laadi alla AdGuard Macile!"
+        "message": "Tahad proovida&nbsp;täiskaitset? Laadi alla BitGuard Macile!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard Windowsile"
+        "message": "BitGuard Windowsile"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard Macile"
+        "message": "BitGuard Macile"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "on uuendatud."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuardi brauserilisa on uuendatud versioonile $1"
+        "message": "BitGuardi brauserilisa on uuendatud versioonile $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "See versioon toob endaga veaparandusi ja teisi väiksemaid täiustusi."
@@ -381,7 +381,7 @@
         "message": "Mis selles versioonis uut on?"
     },
     "options_popup_version_update_offer": {
-        "message": "Kas teadsid, et AdGuardi võimalused ei piirdu ainult brauserilaiendusega?"
+        "message": "Kas teadsid, et BitGuardi võimalused ei piirdu ainult brauserilaiendusega?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ROHKEM TEAVET"
@@ -393,10 +393,10 @@
         "message": "Kontrolli veebilehe turvalisusest"
     },
     "popup_open_settings": {
-        "message": "AdGuardi seaded"
+        "message": "BitGuardi seaded"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuardi kaitse on peatatud"
+        "message": "BitGuardi kaitse on peatatud"
     },
     "popup_block_site_ads_android": {
         "message": "Blokeeri veebilehel reklaami"
@@ -429,19 +429,19 @@
         "message": "Kaitstud $1 poolt"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ei saa sellel domeenil töötada"
+        "message": "BitGuard ei saa sellel domeenil töötada"
     },
     "context_disable_protection": {
-        "message": "Peata AdGuardi kaitse"
+        "message": "Peata BitGuardi kaitse"
     },
     "context_enable_protection": {
-        "message": "Lülita AdGuardi kaitse sisse"
+        "message": "Lülita BitGuardi kaitse sisse"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardi kaitse on peatatud"
+        "message": "BitGuardi kaitse on peatatud"
     },
     "context_open_settings": {
-        "message": "AdGuardi seaded..."
+        "message": "BitGuardi seaded..."
     },
     "context_open_log": {
         "message": "Filtreerimise logi..."
@@ -492,7 +492,7 @@
         "message": "Kas teadsid?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuardi õngevõtmise ja pahavara andmebaasis on<br\/>rohkem kui 1&nbsp;millionit veebilehte."
+        "message": "BitGuardi õngevõtmise ja pahavara andmebaasis on<br\/>rohkem kui 1&nbsp;millionit veebilehte."
     },
     "filter_download_rules": {
         "message": "Keskmiselt&nbsp;lisame me nädalas&nbsp;rohkem kui 100&nbsp;reklaamifiltri reeglit."
@@ -606,7 +606,7 @@
         "message": "Ava uues vahekaardis"
     },
     "options_settings": {
-        "message": "AdGuardi seaded"
+        "message": "BitGuardi seaded"
     },
     "options_general_settings": {
         "message": "Üldine"
@@ -615,7 +615,7 @@
         "message": "Luba veebilehtedel end otsingutulemustes reklaamida"
     },
     "options_show_blocked_ads_count": {
-        "message": "Näita AdGuardi ikoonil&nbsp;blokeeritud reklaami&nbsp;hulka"
+        "message": "Näita BitGuardi ikoonil&nbsp;blokeeritud reklaami&nbsp;hulka"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktiveeri automaatselt sobivad filtrid"
@@ -645,7 +645,7 @@
         "message": "Impordi"
     },
     "options_whitelist_description": {
-        "message": "AdGuard ei filtreeri valges listis olevaid veebilehti."
+        "message": "BitGuard ei filtreeri valges listis olevaid veebilehti."
     },
     "options_whitelist_inverse": {
         "message": "Pöördjärjesta valge list"
@@ -678,7 +678,7 @@
         "message": "Avalda arvamust"
     },
     "options_do_you_like": {
-        "message": "Sulle&nbsp;meeldib AdGuard?"
+        "message": "Sulle&nbsp;meeldib BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Hinda&nbsp;meid!"
@@ -687,10 +687,10 @@
         "message": "Mitmesugust"
     },
     "options_show_adguard_full_version": {
-        "message": "Näita teavitust&nbsp;AdGuardi täisversiooni kohta"
+        "message": "Näita teavitust&nbsp;BitGuardi täisversiooni kohta"
     },
     "options_show_app_updated_notification": {
-        "message": "Teavita mind AdGuardi brauserilisa uuendustest"
+        "message": "Teavita mind BitGuardi brauserilisa uuendustest"
     },
     "options_open_log": {
         "message": "Filtreerimise logi"
@@ -705,7 +705,7 @@
         "message": "Saada filtrite kasutamise&nbsp;kohta statistikat"
     },
     "options_show_context_menu": {
-        "message": "Lisa AdGuard&nbsp; parema kliki menüüsse"
+        "message": "Lisa BitGuard&nbsp; parema kliki menüüsse"
     },
     "options_use_optimized_filters": {
         "message": "Kasuta optimeeritud filtreid"
@@ -765,7 +765,7 @@
         "message": "Eemalda jälitamise parameetrid"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Komaga eraldatud jälitamise parameetrid, mida AdGuard veebilehtede aadressidelt eemaldab."
+        "message": "Komaga eraldatud jälitamise parameetrid, mida BitGuard veebilehtede aadressidelt eemaldab."
     },
     "options_cookies_title": {
         "message": "Küpsised"
@@ -810,7 +810,7 @@
         "message": "Kaitse lüliti"
     },
     "short_name": {
-        "message": "AdGuardi reklaamiblokeerija"
+        "message": "BitGuardi reklaamiblokeerija"
     },
     "options_about": {
         "message": "Teave"

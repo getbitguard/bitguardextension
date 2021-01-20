@@ -24,10 +24,10 @@
         "message": "Dosya uzantısı .json olmalı"
     },
     "popup_adguard_for_ios": {
-        "message": "iOS için AdGuard"
+        "message": "iOS için BitGuard"
     },
     "popup_adguard_for_android": {
-        "message": "Android için AdGuard"
+        "message": "Android için BitGuard"
     },
     "options_filters_filter_version": {
         "message": "Sürüm:"
@@ -48,7 +48,7 @@
         "message": "Diğer"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard'ı telefonunuza kurun"
+        "message": "BitGuard'ı telefonunuza kurun"
     },
     "options_popup_new_filter_subscription": {
         "message": "Yeni Filtre Aboneliği"
@@ -105,7 +105,7 @@
         "message": "Abone ol"
     },
     "name": {
-        "message": "AdGuard Reklam Engelleyici"
+        "message": "BitGuard Reklam Engelleyici"
     },
     "sync_provider_browser_storage": {
         "message": "Tarayıcı depolama"
@@ -336,19 +336,19 @@
         "message": "Ara"
     },
     "thankyou_want_full_protection": {
-        "message": "Tam korumayı denemek ister misiniz?&nbsp; Windows için AdGuard İndirin!"
+        "message": "Tam korumayı denemek ister misiniz?&nbsp; Windows için BitGuard İndirin!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Tam korumayı denemek ister misiniz?&nbsp; Mac için AdGuard İndirin!"
+        "message": "Tam korumayı denemek ister misiniz?&nbsp; Mac için BitGuard İndirin!"
     },
     "thankyou_compare_full_title": {
-        "message": "Windows için AdGuard"
+        "message": "Windows için BitGuard"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "Mac için AdGuard"
+        "message": "Mac için BitGuard"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "güncellendi"
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard eklentisi, $1 sürümüne güncellendi"
+        "message": "BitGuard eklentisi, $1 sürümüne güncellendi"
     },
     "options_popup_version_update_description_minor": {
         "message": "Bu sürüm çoğunlukla hata düzeltmeler ve küçük geliştirmeler içerir."
@@ -381,7 +381,7 @@
         "message": "Bu sürümdeki yenilikler neler?"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuard'ın yeteneklerinin bu tarayıcı ile sınırlı olmadığını biliyor muydunuz?"
+        "message": "BitGuard'ın yeteneklerinin bu tarayıcı ile sınırlı olmadığını biliyor muydunuz?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "DAHA FAZLASINI ÖĞRENİN"
@@ -393,10 +393,10 @@
         "message": "Site güvenliğini kontrol et"
     },
     "popup_open_settings": {
-        "message": "AdGuard ayarları"
+        "message": "BitGuard ayarları"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard koruması duraklatıldı"
+        "message": "BitGuard koruması duraklatıldı"
     },
     "popup_block_site_ads_android": {
         "message": "Bu sitede reklam engelle"
@@ -432,19 +432,19 @@
         "message": "$1 tarafından korunuyor"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard bu alan adında çalışamaz"
+        "message": "BitGuard bu alan adında çalışamaz"
     },
     "context_disable_protection": {
-        "message": "AdGuard korumasını duraklat"
+        "message": "BitGuard korumasını duraklat"
     },
     "context_enable_protection": {
-        "message": "AdGuard korumasını sürdür"
+        "message": "BitGuard korumasını sürdür"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard koruması duraklatıldı"
+        "message": "BitGuard koruması duraklatıldı"
     },
     "context_open_settings": {
-        "message": "AdGuard ayarları..."
+        "message": "BitGuard ayarları..."
     },
     "context_open_log": {
         "message": "Filtreleme günlüğü..."
@@ -495,7 +495,7 @@
         "message": "Bunu biliyor musunuz?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard kimlik hırsızlığı ve kötü amaçlı yazılım veritabanında 1 milyondan fazla websitesi bulunmaktadır.<br\/>"
+        "message": "BitGuard kimlik hırsızlığı ve kötü amaçlı yazılım veritabanında 1 milyondan fazla websitesi bulunmaktadır.<br\/>"
     },
     "filter_download_rules": {
         "message": "Ortalama olarak her hafta 100'ün üzerinde reklam filtresi eklenmektedir."
@@ -609,7 +609,7 @@
         "message": "Yeni bir sekmede aç"
     },
     "options_settings": {
-        "message": "AdGuard Ayarları"
+        "message": "BitGuard Ayarları"
     },
     "options_general_settings": {
         "message": "Genel"
@@ -618,7 +618,7 @@
         "message": "Arama reklamlarına ve sitelerin öz-tanıtımlarına izin ver"
     },
     "options_show_blocked_ads_count": {
-        "message": "AdGuard simgesinde engellenmiş reklam sayısını göster"
+        "message": "BitGuard simgesinde engellenmiş reklam sayısını göster"
     },
     "options_enable_autodetect_filter": {
         "message": "En uygun filtreleri otomatik olarak etkinleştir"
@@ -648,7 +648,7 @@
         "message": "İçe aktar"
     },
     "options_whitelist_description": {
-        "message": "AdGuard, beyaz listedeki sitelerde reklamları engellemez."
+        "message": "BitGuard, beyaz listedeki sitelerde reklamları engellemez."
     },
     "options_whitelist_inverse": {
         "message": "Beyaz listeyi ters çevir"
@@ -678,10 +678,10 @@
         "message": "Resmi Site"
     },
     "options_discuss": {
-        "message": "AdGuard'ı tartışın"
+        "message": "BitGuard'ı tartışın"
     },
     "options_do_you_like": {
-        "message": "AdGuard'ı beğendiniz mi?"
+        "message": "BitGuard'ı beğendiniz mi?"
     },
     "options_footer_like_us": {
         "message": "Değerlendirin!"
@@ -690,7 +690,7 @@
         "message": "Diğer"
     },
     "options_show_adguard_full_version": {
-        "message": "AdGuard'ın tam sürümüyle ilgili bilgileri göster"
+        "message": "BitGuard'ın tam sürümüyle ilgili bilgileri göster"
     },
     "options_show_app_updated_notification": {
         "message": "Eklenti güncellemelerini bana bildir"
@@ -708,7 +708,7 @@
         "message": "Filtre kullanımı ile ilgili istatistikler gönder"
     },
     "options_show_context_menu": {
-        "message": "Tarayıcının sağtık menüsüne AdGuard'ı ekle"
+        "message": "Tarayıcının sağtık menüsüne BitGuard'ı ekle"
     },
     "options_use_optimized_filters": {
         "message": "Optimize edilmiş filtreleri kullan"
@@ -768,7 +768,7 @@
         "message": "Takip parametrelerini sil"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Sitelerin adreslerinden, AdGuard'ın sileceği izleme parametrelerinin listesi (virgülle ayrılmış)"
+        "message": "Sitelerin adreslerinden, BitGuard'ın sileceği izleme parametrelerinin listesi (virgülle ayrılmış)"
     },
     "options_cookies_title": {
         "message": "Çerezler"
@@ -816,7 +816,7 @@
         "message": "Koruma düğmesi"
     },
     "short_name": {
-        "message": "AdGuard Reklam Engelleyici"
+        "message": "BitGuard Reklam Engelleyici"
     },
     "options_about": {
         "message": "Hakkında"

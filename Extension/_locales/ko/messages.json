@@ -24,10 +24,10 @@
         "message": "파일 확장프로그램은 .json 형식이여만 합니다"
     },
     "popup_adguard_for_ios": {
-        "message": "iOS용 AdGuard"
+        "message": "iOS용 BitGuard"
     },
     "popup_adguard_for_android": {
-        "message": "Android용 AdGuard"
+        "message": "Android용 BitGuard"
     },
     "options_filters_filter_version": {
         "message": "버전:"
@@ -48,7 +48,7 @@
         "message": "기타"
     },
     "popup_adguard_footer_title": {
-        "message": "모바일용 AdGuard 설치"
+        "message": "모바일용 BitGuard 설치"
     },
     "options_popup_new_filter_subscription": {
         "message": "새로운 필터 구독"
@@ -105,7 +105,7 @@
         "message": "구독"
     },
     "name": {
-        "message": "AdGuard 광고차단기"
+        "message": "BitGuard 광고차단기"
     },
     "sync_provider_browser_storage": {
         "message": "브라우저 저장소"
@@ -336,19 +336,19 @@
         "message": "12월"
     },
     "thankyou_want_full_protection": {
-        "message": "전체 보호를&nbsp;써보고 싶으세요? Windows용 AdGuard를 다운로드하세요!"
+        "message": "전체 보호를&nbsp;써보고 싶으세요? Windows용 BitGuard를 다운로드하세요!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "전체 보호를&nbsp;써보고 싶으세요? Mac용 AdGuard를 다운로드하세요!"
+        "message": "전체 보호를&nbsp;써보고 싶으세요? Mac용 BitGuard를 다운로드하세요!"
     },
     "thankyou_compare_full_title": {
-        "message": "Windows용 AdGuard"
+        "message": "Windows용 BitGuard"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "Mac용 AdGuard"
+        "message": "Mac용 BitGuard"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "드롭박스"
@@ -369,7 +369,7 @@
         "message": "가 업데이트 되었습니다."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard 확장 프로그램이 $1 버전으로 성공적으로 업데이트 되었습니다."
+        "message": "BitGuard 확장 프로그램이 $1 버전으로 성공적으로 업데이트 되었습니다."
     },
     "options_popup_version_update_description_minor": {
         "message": "이 버전은 버그 수정과 마이너한 기능 개선이 포함되어 있습니다."
@@ -381,7 +381,7 @@
         "message": "이번 버전의 업데이트 내역"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuard 기능이 이 브라우저에만 제한되지 않는다는 사실을 알고 계시나요?"
+        "message": "BitGuard 기능이 이 브라우저에만 제한되지 않는다는 사실을 알고 계시나요?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "더 알아보기"
@@ -393,10 +393,10 @@
         "message": "웹사이트 보안 확인"
     },
     "popup_open_settings": {
-        "message": "AdGuard 설정"
+        "message": "BitGuard 설정"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard 보호 일시 정지됨"
+        "message": "BitGuard 보호 일시 정지됨"
     },
     "popup_block_site_ads_android": {
         "message": "이 웹사이트에서 광고 차단"
@@ -432,19 +432,19 @@
         "message": "$1로 보호됨"
     },
     "context_site_filtering_disabled": {
-        "message": "이 도메인에서 AdGuard 실행할 수 없음"
+        "message": "이 도메인에서 BitGuard 실행할 수 없음"
     },
     "context_disable_protection": {
-        "message": "AdGuard 보호 일시 정지"
+        "message": "BitGuard 보호 일시 정지"
     },
     "context_enable_protection": {
-        "message": "AdGuard 보호 재시작"
+        "message": "BitGuard 보호 재시작"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard 보호 일시 정지됨"
+        "message": "BitGuard 보호 일시 정지됨"
     },
     "context_open_settings": {
-        "message": "AdGuard 설정..."
+        "message": "BitGuard 설정..."
     },
     "context_open_log": {
         "message": "필터링 로그..."
@@ -495,7 +495,7 @@
         "message": "알고 계셨나요?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard의 피싱, 멀웨어 데이터베이스에는<br\/>1백만 개 이상의 웹사이트가 들어있습니다."
+        "message": "BitGuard의 피싱, 멀웨어 데이터베이스에는<br\/>1백만 개 이상의 웹사이트가 들어있습니다."
     },
     "filter_download_rules": {
         "message": "평균적으로&nbsp;매주 100개 이상의&nbsp;광고 필터를 추가합니다."
@@ -609,7 +609,7 @@
         "message": "새 탭에서 링크 열기"
     },
     "options_settings": {
-        "message": "AdGuard 설정"
+        "message": "BitGuard 설정"
     },
     "options_general_settings": {
         "message": "일반"
@@ -618,7 +618,7 @@
         "message": "허용 가능 광고 표시<a target='_blank' href='https:\/\/adguard.com\/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'>더 알아보기<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "차단된 광고의 수를&nbsp;AdGuard 확장 프로그램&nbsp;아이콘에 표시"
+        "message": "차단된 광고의 수를&nbsp;BitGuard 확장 프로그램&nbsp;아이콘에 표시"
     },
     "options_enable_autodetect_filter": {
         "message": "가장 적당한 필터들을 자동으로 활성화"
@@ -648,7 +648,7 @@
         "message": "가져오기"
     },
     "options_whitelist_description": {
-        "message": "AdGuard는 예외 목록에 있는 웹사이트를 필터링하지 않습니다."
+        "message": "BitGuard는 예외 목록에 있는 웹사이트를 필터링하지 않습니다."
     },
     "options_whitelist_inverse": {
         "message": "예외 목록 반전"
@@ -678,10 +678,10 @@
         "message": "공식 웹사이트"
     },
     "options_discuss": {
-        "message": "AdGuard 의견 나눔"
+        "message": "BitGuard 의견 나눔"
     },
     "options_do_you_like": {
-        "message": "AdGuard가&nbsp;맘에 드세요?"
+        "message": "BitGuard가&nbsp;맘에 드세요?"
     },
     "options_footer_like_us": {
         "message": "평가&nbsp;해주세요!"
@@ -690,7 +690,7 @@
         "message": "기타"
     },
     "options_show_adguard_full_version": {
-        "message": "AdGuard 전체 버전&nbsp;정보 보이기"
+        "message": "BitGuard 전체 버전&nbsp;정보 보이기"
     },
     "options_show_app_updated_notification": {
         "message": "필터 업데이트 알림"
@@ -708,7 +708,7 @@
         "message": "사용중인 광고 필터 &nbsp; 통계 전송"
     },
     "options_show_context_menu": {
-        "message": "AdGuard 항목을&nbsp;브라우저 콘텍스트 메뉴에 추가"
+        "message": "BitGuard 항목을&nbsp;브라우저 콘텍스트 메뉴에 추가"
     },
     "options_use_optimized_filters": {
         "message": "최적화된 필터 사용하기"
@@ -768,7 +768,7 @@
         "message": "추적 매개 변수 제거"
     },
     "options_strip_tracking_params_desc": {
-        "message": ",(콤마)로 구분된 추적 매개변수는 AdGuard가 페이지 주소에서 차단합니다."
+        "message": ",(콤마)로 구분된 추적 매개변수는 BitGuard가 페이지 주소에서 차단합니다."
     },
     "options_cookies_title": {
         "message": "쿠기"
@@ -816,7 +816,7 @@
         "message": "보호 스위치"
     },
     "short_name": {
-        "message": "AdGuard 광고차단기"
+        "message": "BitGuard 광고차단기"
     },
     "options_about": {
         "message": "정보"

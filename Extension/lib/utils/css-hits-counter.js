@@ -30,7 +30,7 @@ const CssHitsCounter = (function () {
     const CSS_HITS_BATCH_SIZE = 25;
 
     /**
-     * In order to find elements hidden by AdGuard we look for a `:content` pseudo-class
+     * In order to find elements hidden by BitGuard we look for a `:content` pseudo-class
      * with values starting with this prefix. Filter information will be
      * encoded in this value as well.
      */
@@ -168,7 +168,7 @@ const CssHitsCounter = (function () {
     };
 
     /**
-     * Function checks if elements style content attribute contains data injected with AdGuard
+     * Function checks if elements style content attribute contains data injected with BitGuard
      * @param {Node} element
      * @returns {({filterId: Number, ruleText: String} | null)}
      */
@@ -444,7 +444,7 @@ const CssHitsCounter = (function () {
      */
     const init = function (callback) {
         if (typeof callback !== 'function') {
-            throw new Error('AdGuard Extension: "callback" parameter is not a function');
+            throw new Error('BitGuard Extension: "callback" parameter is not a function');
         }
         onCssHitsFoundCallback = callback;
 

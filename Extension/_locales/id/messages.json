@@ -24,10 +24,10 @@
         "message": "Ekstensi harus berupa file .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard untuk iOS"
+        "message": "BitGuard untuk iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard untuk Android"
+        "message": "BitGuard untuk Android"
     },
     "options_filters_filter_version": {
         "message": "versi:"
@@ -48,7 +48,7 @@
         "message": "Lain-lain"
     },
     "popup_adguard_footer_title": {
-        "message": "Dapatkan AdGuard diponsel Anda"
+        "message": "Dapatkan BitGuard diponsel Anda"
     },
     "options_popup_new_filter_subscription": {
         "message": "Penyaring langganan baru"
@@ -105,7 +105,7 @@
         "message": "Berlangganan"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Penyimpanan peramban"
@@ -336,19 +336,19 @@
         "message": "Des"
     },
     "thankyou_want_full_protection": {
-        "message": "Ingin mencoba proteksi penuh? Unduh AdGuard untuk Windows!"
+        "message": "Ingin mencoba proteksi penuh? Unduh BitGuard untuk Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Ingin mencoba proteksi penuh? Unduh AdGuard untuk Mac!"
+        "message": "Ingin mencoba proteksi penuh? Unduh BitGuard untuk Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard untuk Windows"
+        "message": "BitGuard untuk Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard untuk Mac"
+        "message": "BitGuard untuk Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "yang diperbarui."
     },
     "options_popup_version_update_title": {
-        "message": "Ekstensi AdGuard telah diperbarui ke versi $1"
+        "message": "Ekstensi BitGuard telah diperbarui ke versi $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Versi ini berisi perbaikan bug dan peningkatan minor"
@@ -381,7 +381,7 @@
         "message": "Apa yang terbaru pada versi ini?"
     },
     "options_popup_version_update_offer": {
-        "message": "Apakah Anda tahu bahwa kemampuan AdGuard tidak hanya sebatas pada peramban ini?"
+        "message": "Apakah Anda tahu bahwa kemampuan BitGuard tidak hanya sebatas pada peramban ini?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "PELAJARI LEBIH"
@@ -393,10 +393,10 @@
         "message": "Periksa keamanan situs"
     },
     "popup_open_settings": {
-        "message": "Pengaturan AdGuard"
+        "message": "Pengaturan BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "Perlindungan AdGuard sedang dijeda"
+        "message": "Perlindungan BitGuard sedang dijeda"
     },
     "popup_block_site_ads_android": {
         "message": "Blok iklan pada sebuah situs"
@@ -432,19 +432,19 @@
         "message": "Dilindungi oleh $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard tidak bisa dijalankan pada domain ini"
+        "message": "BitGuard tidak bisa dijalankan pada domain ini"
     },
     "context_disable_protection": {
-        "message": "Jeda perlindungan AdGuard"
+        "message": "Jeda perlindungan BitGuard"
     },
     "context_enable_protection": {
-        "message": "Lanjutkan perlindungan AdGuard"
+        "message": "Lanjutkan perlindungan BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "Perlindungan AdGuard sedang dijeda"
+        "message": "Perlindungan BitGuard sedang dijeda"
     },
     "context_open_settings": {
-        "message": "Pengaturan AdGuard..."
+        "message": "Pengaturan BitGuard..."
     },
     "context_open_log": {
         "message": "Log penyaringan..."
@@ -495,7 +495,7 @@
         "message": "Tahukah anda?"
     },
     "filter_download_sb_sites": {
-        "message": "Basis data phising dan malware AdGuard berisi<br\/>lebih dari 1 milyar situs."
+        "message": "Basis data phising dan malware BitGuard berisi<br\/>lebih dari 1 milyar situs."
     },
     "filter_download_rules": {
         "message": "Rata-ratanya kami menambahkan lebih dari 100 aturan penyaring iklan tiap minggu."
@@ -609,7 +609,7 @@
         "message": "Buka di tab baru"
     },
     "options_settings": {
-        "message": "Pengaturan AdGuard"
+        "message": "Pengaturan BitGuard"
     },
     "options_general_settings": {
         "message": "Pengaturan Umum"
@@ -618,7 +618,7 @@
         "message": "Izinkan iklan yang&nbsp;diterima<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Selengkapnya<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Mengindikasikan jumlah iklan diblok pada ikon ekstensi AdGuard"
+        "message": "Mengindikasikan jumlah iklan diblok pada ikon ekstensi BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktifkan penyaring yang paling sesuai secara otomatis"
@@ -648,7 +648,7 @@
         "message": "Impor"
     },
     "options_whitelist_description": {
-        "message": "AdGuard tidak akan menyaring situs web dalam daftar putih."
+        "message": "BitGuard tidak akan menyaring situs web dalam daftar putih."
     },
     "options_whitelist_inverse": {
         "message": "Baik daftar putih<span class='sp-table-row-info'>Jangan blok iklan dimanapun<i>kecuali<\/i>daftar putih<\/span>"
@@ -678,10 +678,10 @@
         "message": "Situs Resmi"
     },
     "options_discuss": {
-        "message": "Diskusikan AdGuard"
+        "message": "Diskusikan BitGuard"
     },
     "options_do_you_like": {
-        "message": "Apakah&nbsp;Anda suka AdGuard?"
+        "message": "Apakah&nbsp;Anda suka BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Beri&nbsp;nilai!"
@@ -690,7 +690,7 @@
         "message": "Lainnya"
     },
     "options_show_adguard_full_version": {
-        "message": "Lihat informasi pada versi penuh AdGuard"
+        "message": "Lihat informasi pada versi penuh BitGuard"
     },
     "options_show_app_updated_notification": {
         "message": "Beritahu tentang pembaruan ekstensi"
@@ -708,7 +708,7 @@
         "message": "Kirim statistik&nbsp;penggunaan penyaring&nbsp;iklan<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Selengkapnya<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Tambah item AdGuard ke konteks menu browser"
+        "message": "Tambah item BitGuard ke konteks menu browser"
     },
     "options_use_optimized_filters": {
         "message": "Gunakan pemisah yang dioptimalkan.<span class='sp-table-row-info'>Daftar pemisah tidak penting dioptimalkan untuk digunakan di perangkat seluler.<\/span>"
@@ -768,7 +768,7 @@
         "message": "Hapus parameter pelacak"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Dipisahakn dengan koma untuk daftar dari pelacak yang mana AdGuard akan menghapusnya dari alamat halaman,"
+        "message": "Dipisahakn dengan koma untuk daftar dari pelacak yang mana BitGuard akan menghapusnya dari alamat halaman,"
     },
     "options_cookies_title": {
         "message": "Kuki"
@@ -816,7 +816,7 @@
         "message": "Beralih perlindungan"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "Tentang"

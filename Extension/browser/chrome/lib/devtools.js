@@ -18,7 +18,7 @@
 const browser = window.browser || chrome;
 
 // TODO: Try to move it to first cell
-browser.devtools.panels.elements.createSidebarPane('AdGuard',
+browser.devtools.panels.elements.createSidebarPane('BitGuard',
     (sidebar) => {
         sidebar.setHeight('400px');
         sidebar.setPage('pages/devtools-elements-sidebar.html');

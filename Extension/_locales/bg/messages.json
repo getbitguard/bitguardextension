@@ -3,7 +3,7 @@
         "message": "Искаш да блокираш повече?"
     },
     "name": {
-        "message": "AdGuard рекламен блокер"
+        "message": "BitGuard рекламен блокер"
     },
     "options_whitelist": {
         "message": "Бял списък"
@@ -39,16 +39,16 @@
         "message": "Общо: $1"
     },
     "thankyou_want_full_protection": {
-        "message": "Искате ли да опитате пълната защита? Свалете AdGuard за Windows!"
+        "message": "Искате ли да опитате пълната защита? Свалете BitGuard за Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Искате ли да опитате пълната защита? Свалете AdGuard за Mac!"
+        "message": "Искате ли да опитате пълната защита? Свалете BitGuard за Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard за Windows"
+        "message": "BitGuard за Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard за Mac"
+        "message": "BitGuard за Mac"
     },
     "options_popup_update_not_found": {
         "message": "Няма намерени актуализации"
@@ -60,10 +60,10 @@
         "message": "Блокирай рекламата&nbsp;на&nbsp;този сайт"
     },
     "popup_open_settings": {
-        "message": "AdGuard настройки"
+        "message": "BitGuard настройки"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard защитата е в пауза"
+        "message": "BitGuard защитата е в пауза"
     },
     "popup_block_site_ads_android": {
         "message": "Блокирай рекламата на този сайт"
@@ -93,19 +93,19 @@
         "message": "Защитен с $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не може да работи на този домейн"
+        "message": "BitGuard не може да работи на този домейн"
     },
     "context_disable_protection": {
-        "message": "Пауза на защитата AdGuard"
+        "message": "Пауза на защитата BitGuard"
     },
     "context_enable_protection": {
-        "message": "Пусни отново защитата AdGuard"
+        "message": "Пусни отново защитата BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard защитата е в пауза"
+        "message": "BitGuard защитата е в пауза"
     },
     "context_open_settings": {
-        "message": "AdGuard настройки..."
+        "message": "BitGuard настройки..."
     },
     "context_open_log": {
         "message": "Дневник на филтрирането..."
@@ -156,7 +156,7 @@
         "message": "Знаете ли че?"
     },
     "filter_download_sb_sites": {
-        "message": "Базата данни на AdGuard за фишинг и зловреден софтуер съдържа<br\/>повече от 1&nbsp;милион страници."
+        "message": "Базата данни на BitGuard за фишинг и зловреден софтуер съдържа<br\/>повече от 1&nbsp;милион страници."
     },
     "filter_download_rules": {
         "message": "Средно&nbsp;ние&nbsp;добавяме повече от 100&nbsp;рекламни филтъра на седмица."
@@ -252,7 +252,7 @@
         "message": "Отвори в нов таб"
     },
     "options_settings": {
-        "message": "AdGuard настройки"
+        "message": "BitGuard настройки"
     },
     "options_general_settings": {
         "message": "Общи настройки"
@@ -261,7 +261,7 @@
         "message": "Разреши приемливите реклами<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Learn more about&nbsp;it<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Покажи броят на&nbsp;блокираните реклами на&nbsp;иконата на AdGuard"
+        "message": "Покажи броят на&nbsp;блокираните реклами на&nbsp;иконата на BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Автоматично активиране на най-подходящите филтри"
@@ -279,7 +279,7 @@
         "message": "Импортирай"
     },
     "options_whitelist_description": {
-        "message": "AdGuard не филтрира уеб сайтове от белия списък."
+        "message": "BitGuard не филтрира уеб сайтове от белия списък."
     },
     "options_whitelist_inverse": {
         "message": "Обърни белия списък<span class='sp-table-row-info'>Разблокирай рекламите<i>освен<\/i>в белия списък<\/span>"
@@ -303,7 +303,7 @@
         "message": "Официален сайт"
     },
     "options_do_you_like": {
-        "message": "Харесвате&nbsp;ли AdGuard?"
+        "message": "Харесвате&nbsp;ли BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Гласувайте&nbsp;за нас!"
@@ -312,7 +312,7 @@
         "message": "Разни"
     },
     "options_show_adguard_full_version": {
-        "message": "Покажи информация за&nbsp;пълната версия на AdGuard"
+        "message": "Покажи информация за&nbsp;пълната версия на BitGuard"
     },
     "options_open_log": {
         "message": "Дневник на филтрирането"
@@ -327,13 +327,13 @@
         "message": "Изпрати статистика за употребата&nbsp;на рекламните филтри<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Научете повече за&nbsp;нея<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Добави елемента на  AdGuard в&nbsp;контекстното меню на браузъра"
+        "message": "Добави елемента на  BitGuard в&nbsp;контекстното меню на браузъра"
     },
     "options_use_optimized_filters": {
         "message": "Използвайте оптимизирани филтри<span class='sp-table-row-info'>Олекотени списъци за филтриране, оптимизирани за мобилни устройства<\/span>"
     },
     "short_name": {
-        "message": "AdGuard рекламен блокер"
+        "message": "BitGuard рекламен блокер"
     },
     "options_license_agreement": {
         "message": "Лицензионно споразумение с краен потребител"

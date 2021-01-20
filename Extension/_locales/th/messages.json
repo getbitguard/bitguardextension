@@ -24,10 +24,10 @@
         "message": "นามสกุลไฟล์ควรเป็น .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard สำหรับ iOS"
+        "message": "BitGuard สำหรับ iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard สำหรับ Android"
+        "message": "BitGuard สำหรับ Android"
     },
     "options_filters_filter_version": {
         "message": "รุ่น:"
@@ -48,7 +48,7 @@
         "message": "เบ็ดเตล็ด"
     },
     "popup_adguard_footer_title": {
-        "message": "รับ AdGuard สำหรับมือถือของคุณ"
+        "message": "รับ BitGuard สำหรับมือถือของคุณ"
     },
     "options_popup_new_filter_subscription": {
         "message": "การสมัครสมาชิกตัวกรองใหม่"
@@ -105,7 +105,7 @@
         "message": "สมัครสมาชิก"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "ที่เก็บข้อมูลเบราว์เซอร์"
@@ -336,19 +336,19 @@
         "message": "ธ.ค."
     },
     "thankyou_want_full_protection": {
-        "message": "ต้องการ&nbsp;ลองการป้องเต็มรูปแบบหรือไม่ ดาวน์โหลด AdGuard สำหรับ Windows!"
+        "message": "ต้องการ&nbsp;ลองการป้องเต็มรูปแบบหรือไม่ ดาวน์โหลด BitGuard สำหรับ Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "ต้องการ&nbsp;ลองการป้องเต็มรูปแบบหรือไม่ ดาวน์โหลด AdGuard สำหรับ Mac!"
+        "message": "ต้องการ&nbsp;ลองการป้องเต็มรูปแบบหรือไม่ ดาวน์โหลด BitGuard สำหรับ Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard สำหรับ Windows"
+        "message": "BitGuard สำหรับ Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard สำหรับ Mac"
+        "message": "BitGuard สำหรับ Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "ถูกอัปเดตแล้ว"
     },
     "options_popup_version_update_title": {
-        "message": "ส่วนขยายของ AdGuard ถูกอัปเดตเป็นเวอร์ชั่น $1"
+        "message": "ส่วนขยายของ BitGuard ถูกอัปเดตเป็นเวอร์ชั่น $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "รุ่นนี้มีการแก้ไขข้อบกพร่องส่วนใหญ่และการปรับปรุงเล็กน้อย"
@@ -381,7 +381,7 @@
         "message": "รุ่นนี้มีอะไรใหม่บ้าง"
     },
     "options_popup_version_update_offer": {
-        "message": "คุณรู้หรือไม่ว่าความสามารถของ AdGuard ไม่ได้จำกัดอยู่ที่เบราว์เซอร์นี้?"
+        "message": "คุณรู้หรือไม่ว่าความสามารถของ BitGuard ไม่ได้จำกัดอยู่ที่เบราว์เซอร์นี้?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "เรียนรู้เพิ่มเติม"
@@ -390,10 +390,10 @@
         "message": "ปิดกั้นโฆษณา&nbsp;บน&nbsp;เว็บไซต์นี้"
     },
     "popup_open_settings": {
-        "message": "การตั้งค่า AdGuard"
+        "message": "การตั้งค่า BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard หยุดการป้องกันชั่วคราว"
+        "message": "BitGuard หยุดการป้องกันชั่วคราว"
     },
     "popup_block_site_ads_android": {
         "message": "บล็อกโฆษณาบนเว็บไซต์"
@@ -423,19 +423,19 @@
         "message": "ป้องกันโดย $1 แล้ว"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ไม่สามารถทำงานบนโดเมนนี้ได้"
+        "message": "BitGuard ไม่สามารถทำงานบนโดเมนนี้ได้"
     },
     "context_disable_protection": {
-        "message": "หยุดการปกป้องจาก AdGuard ชั่วคราว"
+        "message": "หยุดการปกป้องจาก BitGuard ชั่วคราว"
     },
     "context_enable_protection": {
-        "message": "ดำเนินการป้องกัน AdGuard ต่อ"
+        "message": "ดำเนินการป้องกัน BitGuard ต่อ"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard หยุดการป้องกันชั่วคราว"
+        "message": "BitGuard หยุดการป้องกันชั่วคราว"
     },
     "context_open_settings": {
-        "message": "AdGuard การตั้งค่า..."
+        "message": "BitGuard การตั้งค่า..."
     },
     "context_open_log": {
         "message": "บันทึกการกรอง..."
@@ -486,7 +486,7 @@
         "message": "รู้หรือไม่?"
     },
     "filter_download_sb_sites": {
-        "message": "ฐานข้อมูลฟิชชิงและมัลแวร์ของ AdGuard <br\/>มีเว็บไซต์มากกว่า 1&nbsp;ล้านเว็บไซต์"
+        "message": "ฐานข้อมูลฟิชชิงและมัลแวร์ของ BitGuard <br\/>มีเว็บไซต์มากกว่า 1&nbsp;ล้านเว็บไซต์"
     },
     "filter_download_rules": {
         "message": "โดยเฉลี่ย&nbsp;เรา&nbsp;เพิ่มกฎตัวกรองโฆษณามากกว่า 100&nbsp;กฎทุกสัปดาห์"
@@ -600,7 +600,7 @@
         "message": "เปิดในแถบใหม่"
     },
     "options_settings": {
-        "message": "การตั้งค่า AdGuard"
+        "message": "การตั้งค่า BitGuard"
     },
     "options_general_settings": {
         "message": "ทั่วไป"
@@ -609,7 +609,7 @@
         "message": "อนุญาตโฆษณาการค้นหาและการโปรโมตเว็บไซต์ด้วยตนเอง"
     },
     "options_show_blocked_ads_count": {
-        "message": "ระบุจำนวน&nbsp;โฆษณาที่ถูกปิดกั้นใน&nbsp;ไอคอนส่วนขยาย AdGuard"
+        "message": "ระบุจำนวน&nbsp;โฆษณาที่ถูกปิดกั้นใน&nbsp;ไอคอนส่วนขยาย BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "เปิดใช้งานตัวกรองที่เหมาะสมที่สุดโดยอัตโนมัติ"
@@ -639,7 +639,7 @@
         "message": "นำเข้า"
     },
     "options_whitelist_description": {
-        "message": "AdGuard ไม่กรองเว็บไซต์จากรายการที่อนุญาต"
+        "message": "BitGuard ไม่กรองเว็บไซต์จากรายการที่อนุญาต"
     },
     "options_whitelist_inverse": {
         "message": "สลับรายการที่อนุญาต"
@@ -669,10 +669,10 @@
         "message": "เว็บไซต์ทางการ"
     },
     "options_discuss": {
-        "message": "พูดคุย AdGuard"
+        "message": "พูดคุย BitGuard"
     },
     "options_do_you_like": {
-        "message": "คุณ&nbsp;ชอบ AdGuard หรือไม่?"
+        "message": "คุณ&nbsp;ชอบ BitGuard หรือไม่?"
     },
     "options_footer_like_us": {
         "message": "ให้&nbsp;คะแนน!"
@@ -681,7 +681,7 @@
         "message": "เบ็ดเตล็ด"
     },
     "options_show_adguard_full_version": {
-        "message": "แสดงข้อมูลเกี่ยวกับ&nbsp;AdGuard เวอร์ชันเต็ม"
+        "message": "แสดงข้อมูลเกี่ยวกับ&nbsp;BitGuard เวอร์ชันเต็ม"
     },
     "options_show_app_updated_notification": {
         "message": "แจ้งเตือนเกี่ยวกับการอัปเดตส่วนขยาย"
@@ -699,7 +699,7 @@
         "message": "ส่งสถิติการใช้งาน&nbsp;ตัวกรองโฆษณา"
     },
     "options_show_context_menu": {
-        "message": "เพิ่มรายการ AdGuard ใน&nbsp;เมนูบริบทของเบราว์เซอร์"
+        "message": "เพิ่มรายการ BitGuard ใน&nbsp;เมนูบริบทของเบราว์เซอร์"
     },
     "options_use_optimized_filters": {
         "message": "ใช้ตัวกรองที่ปรับให้เหมาะสม"
@@ -759,7 +759,7 @@
         "message": "เอาพารามิเตอร์การติดตามออก"
     },
     "options_strip_tracking_params_desc": {
-        "message": "รายการพารามิเตอร์การติดตามที่คั่นด้วยเครื่องหมายจุลภาคซึ่ง AdGuard จะลบออกจากที่อยู่ของหน้าเว็บ"
+        "message": "รายการพารามิเตอร์การติดตามที่คั่นด้วยเครื่องหมายจุลภาคซึ่ง BitGuard จะลบออกจากที่อยู่ของหน้าเว็บ"
     },
     "options_cookies_title": {
         "message": "คุกกี้"
@@ -804,7 +804,7 @@
         "message": "สวิตช์ป้องกัน"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "เกี่ยวกับ"

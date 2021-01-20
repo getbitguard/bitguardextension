@@ -37,7 +37,7 @@ adguard.notifications = (function (adguard) {
                 btn: 'Открыть подарок',
             },
             ja: {
-                title: 'AdGuardでクリスマス',
+                title: 'BitGuardでクリスマス',
                 btn: 'プレゼントをもらう',
             },
             ko: {
@@ -45,15 +45,15 @@ adguard.notifications = (function (adguard) {
                 btn: '선물 받기',
             },
             zh_cn: {
-                title: 'AdGuard 送礼送好运',
+                title: 'BitGuard 送礼送好运',
                 btn: '抓个礼物',
             },
             zh_tw: {
-                title: 'AdGuard $ 暖心年終送禮',
+                title: 'BitGuard $ 暖心年終送禮',
                 btn: '享好禮',
             },
             fr: {
-                title: 'Promo : AdGuard fête Noël !',
+                title: 'Promo : BitGuard fête Noël !',
                 btn: 'Ouvrir mon cadeau',
             },
         },

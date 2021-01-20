@@ -1,13 +1,13 @@
-# AdGuard API
+# BitGuard API
 **Document version: 0.9**
 
-This document is a draft of AdGuard's API.
+This document is a draft of BitGuard's API.
 
-## Including AdGuard files into extension manifest
+## Including BitGuard files into extension manifest
 
-Here is what should be done for AdGuard API to work.
+Here is what should be done for BitGuard API to work.
 
-#### 1. Add AdGuard's content script to the manifest:
+#### 1. Add BitGuard's content script to the manifest:
 ```
     {
       "all_frames": true,
@@ -21,7 +21,7 @@ Here is what should be done for AdGuard API to work.
     }
 ```
 
-#### 2. Add AdGuard's script to the background page:
+#### 2. Add BitGuard's script to the background page:
 ```
 <script type="text/javascript" src="adguard/adguard-api.js"></script>
 ```
@@ -29,11 +29,11 @@ Here is what should be done for AdGuard API to work.
 
 ## API methods
 
-AdGuard API is exposed through a global javascript object: `adguardApi`.
+BitGuard API is exposed through a global javascript object: `adguardApi`.
 
 ### `adguardApi.start`
 
-Initializes AdGuard and starts it immediately.
+Initializes BitGuard and starts it immediately.
 
 #### Syntax
 ```javascript
@@ -66,21 +66,21 @@ An array of filters identifiers. You can look for possible filters identifiers i
 
 `whitelist` (optional)
 
-An array of domains, for which AdGuard won't work.
+An array of domains, for which BitGuard won't work.
 
 `blacklist` (optional)
 
-This property completely changes AdGuard behavior. If it is defined, Adguard will work for domains from the `blacklist` only. All other domains will be ignored. If `blacklist` is defined, `whitelist` will be ignored.
+This property completely changes BitGuard behavior. If it is defined, Adguard will work for domains from the `blacklist` only. All other domains will be ignored. If `blacklist` is defined, `whitelist` will be ignored.
 
 `rules` (optional)
 
 An array of custom filtering rules. Here is an [article](https://adguard.com/en/filterrules.html) describing filtering rules syntax.
 
-These custom rules might be created by a user via AdGuard Assistant UI.
+These custom rules might be created by a user via BitGuard Assistant UI.
 
 `filtersMetadataUrl` (mandatory)
 
-An absolute path to a file, containing filters metadata. Once started, AdGuard will periodically check filters updates by downloading this file.
+An absolute path to a file, containing filters metadata. Once started, BitGuard will periodically check filters updates by downloading this file.
 
 **Example:**
 ```
@@ -103,7 +103,7 @@ https://filters.adtidy.org/extension/chromium/2.txt
 
 ### `adguardApi.stop`
 
-Completely stops AdGuard.
+Completely stops BitGuard.
 
 #### Syntax
 ```javascript
@@ -114,7 +114,7 @@ adguardApi.stop(
 
 ### `adguardApi.configure`
 
-This method modifies AdGuard configuration. Please note, that Adguard must be already started.
+This method modifies BitGuard configuration. Please note, that Adguard must be already started.
 
 #### Syntax
 ```javascript
@@ -174,7 +174,7 @@ Request mime type. Possible values are listed below.
 
 ### `adguardApi.openAssistant`
 
-This method opens the AdGuard assistant UI in the specified tab. You should also add a listener for messages with type `assistant-create-rule` for rules, which are created by the Adguard assistant.
+This method opens the BitGuard assistant UI in the specified tab. You should also add a listener for messages with type `assistant-create-rule` for rules, which are created by the Adguard assistant.
 
 #### Syntax
 ```javascript
@@ -185,7 +185,7 @@ adguardApi.openAssistant(
 
 ### `adguardApi.closeAssistant`
 
-This method closes AdGuard assistant in the specified tab.
+This method closes BitGuard assistant in the specified tab.
 
 #### Syntax
 ```javascript

@@ -24,10 +24,10 @@
         "message": "Filtillägget skall vara i format .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard för iOS"
+        "message": "BitGuard för iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard för Android"
+        "message": "BitGuard för Android"
     },
     "options_filters_filter_version": {
         "message": "version:"
@@ -48,7 +48,7 @@
         "message": "Diverse"
     },
     "popup_adguard_footer_title": {
-        "message": "Skaffa AdGuard till din mobil"
+        "message": "Skaffa BitGuard till din mobil"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nytt filterabonnemang"
@@ -105,7 +105,7 @@
         "message": "Abonnera"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Webbläsarlagring"
@@ -336,19 +336,19 @@
         "message": "Dec"
     },
     "thankyou_want_full_protection": {
-        "message": "Vill du &nbsp;testa komplett skydd? Ladda då ner AdGuard för Windows!"
+        "message": "Vill du &nbsp;testa komplett skydd? Ladda då ner BitGuard för Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Vill du &nbsp;testa komplett skydd? Ladda då ner AdGuard för Mac!"
+        "message": "Vill du &nbsp;testa komplett skydd? Ladda då ner BitGuard för Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard för Windows"
+        "message": "BitGuard för Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard för Mac"
+        "message": "BitGuard för Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "uppdaterades."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuards webbläsartillägg uppdaterades till version $1."
+        "message": "BitGuards webbläsartillägg uppdaterades till version $1."
     },
     "options_popup_version_update_description_minor": {
         "message": "Uppdateringen innehåller mest korrigeringar av buggar och smärre förbättringar."
@@ -381,7 +381,7 @@
         "message": "Klicka här för att se hela Ändringsloggen."
     },
     "options_popup_version_update_offer": {
-        "message": "Om du är som vi, besatt av integritet, prova AdGuards premiumversioner för Windows, Mac, iOS eller Android för att hitta ännu fler funktioner."
+        "message": "Om du är som vi, besatt av integritet, prova BitGuards premiumversioner för Windows, Mac, iOS eller Android för att hitta ännu fler funktioner."
     },
     "options_popup_version_update_offer_button_text": {
         "message": "LÄS MER"
@@ -390,10 +390,10 @@
         "message": "Blockera annonser&nbsp;på&nbsp;den här webbplatsen"
     },
     "popup_open_settings": {
-        "message": "AdGuardinställningar"
+        "message": "BitGuardinställningar"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuardskyddet är pausat"
+        "message": "BitGuardskyddet är pausat"
     },
     "popup_block_site_ads_android": {
         "message": "Blockerar annonser på en webbplats"
@@ -423,19 +423,19 @@
         "message": "Skyddat av $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard kan inte köras på den här domänen"
+        "message": "BitGuard kan inte köras på den här domänen"
     },
     "context_disable_protection": {
-        "message": "Pausa AdGuardskyddet"
+        "message": "Pausa BitGuardskyddet"
     },
     "context_enable_protection": {
-        "message": "Återuppta AdGuardskyddet igen"
+        "message": "Återuppta BitGuardskyddet igen"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardskyddet är pausat"
+        "message": "BitGuardskyddet är pausat"
     },
     "context_open_settings": {
-        "message": "AdGuards inställningar"
+        "message": "BitGuards inställningar"
     },
     "context_open_log": {
         "message": "Filtreringslogg"
@@ -486,7 +486,7 @@
         "message": "Kände du till?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuards databas för phishing och skadeprogram innehåller<br\/>mer än 1&nbsp;miljon webbplatser."
+        "message": "BitGuards databas för phishing och skadeprogram innehåller<br\/>mer än 1&nbsp;miljon webbplatser."
     },
     "filter_download_rules": {
         "message": "I&nbsp;genomsnitt lägger&nbsp;vi till mer än 100&nbsp;regler för annonsfiltrering varje vecka."
@@ -600,7 +600,7 @@
         "message": "Öppna i en ny flik"
     },
     "options_settings": {
-        "message": "AdGuard Inställningar"
+        "message": "BitGuard Inställningar"
     },
     "options_general_settings": {
         "message": "Allmänt"
@@ -609,7 +609,7 @@
         "message": "Tillåt sökningsannonser och webbplatsens egenreklam"
     },
     "options_show_blocked_ads_count": {
-        "message": "Visa antalet&nbsp;blockerade annonser på&nbsp;AdGuardstillägets ikon"
+        "message": "Visa antalet&nbsp;blockerade annonser på&nbsp;BitGuardstillägets ikon"
     },
     "options_enable_autodetect_filter": {
         "message": "Aktivera de mest lämpade filtren automatiskt"
@@ -639,7 +639,7 @@
         "message": "Importera"
     },
     "options_whitelist_description": {
-        "message": "AdGuard filtrerar inte webbsidor i Vitlistan."
+        "message": "BitGuard filtrerar inte webbsidor i Vitlistan."
     },
     "options_whitelist_inverse": {
         "message": "Invertera Vitlista"
@@ -669,10 +669,10 @@
         "message": "Officiell webbplats"
     },
     "options_discuss": {
-        "message": "Diskutera AdGuard"
+        "message": "Diskutera BitGuard"
     },
     "options_do_you_like": {
-        "message": "Gillar&nbsp;du AdGuard?"
+        "message": "Gillar&nbsp;du BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Betygsätt&nbsp;den!"
@@ -681,7 +681,7 @@
         "message": "Diverse"
     },
     "options_show_adguard_full_version": {
-        "message": "Visa information om&nbsp;AdGuards fullversion"
+        "message": "Visa information om&nbsp;BitGuards fullversion"
     },
     "options_show_app_updated_notification": {
         "message": "Avisera om tilläggsuppdateringar"
@@ -699,7 +699,7 @@
         "message": "Skicka statistik på användningen&nbsp;av annonsfilter"
     },
     "options_show_context_menu": {
-        "message": "Lägg till AdGuardfunktioner till&nbsp;webbläsarens kontextmeny"
+        "message": "Lägg till BitGuardfunktioner till&nbsp;webbläsarens kontextmeny"
     },
     "options_use_optimized_filters": {
         "message": "Använd optimerade filter"
@@ -759,7 +759,7 @@
         "message": "Ta bort spårningsparametrar"
     },
     "options_strip_tracking_params_desc": {
-        "message": "En kommaseparerad list på parametrar som AdGuard kommer att ta bort från webbsideadresser."
+        "message": "En kommaseparerad list på parametrar som BitGuard kommer att ta bort från webbsideadresser."
     },
     "options_cookies_title": {
         "message": "Kakor"
@@ -804,7 +804,7 @@
         "message": "Skyddsomkopplare"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "Om"

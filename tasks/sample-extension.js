@@ -1,5 +1,5 @@
 /**
- * Build sample-extension with the AdGuard API, which can be included to another extension.
+ * Build sample-extension with the BitGuard API, which can be included to another extension.
  * 1. Copying assistant scripts
  * 2. Copying sample-extension directory
  * 3. Concat scripts from `document_start` and `document_end` params getting from manifest.json

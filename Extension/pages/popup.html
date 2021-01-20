@@ -27,7 +27,7 @@
         <div class="tab-main tab-main--base active tab-switch-tab" tab-switch="main"></div>
         <div class="tab-statistics tab-switch-tab" tab-switch="statistics"></div>
     </div>
-    <div class="tabbar">
+    <!-- <div class="tabbar">
         <button class="tab active tab-actions-button" tab-switch="main" i18n="popup_tab_actions"></button>
         <button class="tab tab-stats-button" tab-switch="statistics" i18n="popup_tab_statistics"></button>
     </div>
@@ -40,35 +40,20 @@
         </div>
     </div>
     <div class="footer">
-    </div>
+    </div> -->
 </div>
 
 <!--Templates-->
 
 <!--Headers-->
-<div id="filtering-default-header-template" style="display: none;">
-    <div class="head">
-        <div id="header-cta-link" class="header-cta-link" style="display: none;">
-            <a href="https://adguard.com/forward.html?action=compare&from=popup&app=browser_extension"
-               class="header-cta-link__in"
-               target="_blank"
-               i18n-title="popup_header_cta_link"
-               i18n="popup_header_cta_link"></a>
-        </div>
-        <div class="blocked">
-            <span class="blocked-tab"></span>
-        </div>
-        <div class="total blocked-all"></div>
-    </div>
-</div>
+
 
 <div id="filtering-header-template" style="display: none;">
     <div class="widget-popup__header-logo"></div>
     <div class="widget-popup__header-btns" id="popup-header-buttons">
         <button i18n-title="context_disable_protection" class="cir-btn pause changeProtectionStateDisable"><img src="images/icon-pause.svg" alt=""></button>
         <button i18n-title="context_enable_protection" class="cir-btn start changeProtectionStateEnable"><img src="images/icon-start.svg" alt=""></button>
-        <button i18n-title="options_settings" class="cir-btn settings openSettings"><img src="images/icon-settings.svg" alt=""></button>
-    </div>
+        </div>
 </div>
 
 <!--Filtering State Checkbox-->
@@ -83,7 +68,22 @@
 <!--Status Text-->
 <div id="filtering-status-template" style="display: none;">
     <div class="current-site"></div>
-    <div class="status"></div>
+    <div class="blocked-tab"></div>
+    <div class="check-block">
+      
+        <div class="check-item">Ads blocking</div>
+        <div class="check-item">Privacy protection</div>
+        <div class="check-item">Stealth mode</div>
+    </div>
+    <div class="check-block border fail">
+        <hr class="line"/>
+        <div class="check-item">Risk checking</div>
+        <div class="check-item">Fraud protection</div>
+        <div class="check-item">Malware protection</div>
+         </div>
+         <div class="check-text">Bitguard Scan can help you with this <br/>and others security issues</div>
+  
+    <div class="btn-container"><a class="siteReport scan-btn">Launch Bitguard Scan</a> </div>
 </div>
 
 <!--Message Text-->
@@ -92,19 +92,13 @@
 </div>
 
 <!--Actions-->
-<div id="action-open-assistant-template" style="display: none;">
+<!-- <div id="action-open-assistant-template" style="display: none;">
   <div class="action openAssistant">
     <span class="act-icon"><img src="images/block-ad.svg" class="icon-block-ad" alt="" aria-hidden="true"></span>
     <span class="act-name" i18n="popup_block_site_ads" role="button" tabindex="0"></span>
   </div>
 </div>
 
-<div id="action-open-filtering-log-template" style="display: none;">
-  <div class="action openFilteringLog">
-    <span class="act-icon"><img src="images/sandwich.svg" class="icon-sandwich" alt="" aria-hidden="true"></span>
-    <span class="act-name" i18n="popup_open_filtering_log" role="button" tabindex="0"></span>
-  </div>
-</div>
 
 <div id="action-site-report-template" style="display: none;">
   <div class="action siteReport">
@@ -118,10 +112,10 @@
     <span class="act-icon"><img src="images/thumb-down.svg" class="icon-thumb-down" alt="" aria-hidden="true"></span>
     <span class="act-name" i18n="popup_abuse_site" role="button" tabindex="0"></span>
   </div>
-</div>
+</div> -->
 
 <!--Statistics-->
-<div id="filtering-statistics-template" style="display: none;">
+<!-- <div id="filtering-statistics-template" style="display: none;">
     <div class="statistics-wrapper">
         <select name="type" class="statistics-select statistics-select-type"></select>
         <select name="time" class="statistics-select statistics-select-time">
@@ -132,10 +126,10 @@
         </select>
     </div>
     <div id="chart" class="chart"></div>
-</div>
+</div> -->
 
 <!--Footer-->
-<div id="footer-default-template" style="display: none;">
+<!-- <div id="footer-default-template" style="display: none;">
     <div class="footer__in footer__default" role="contentinfo">
         <div class="popup-footer">
             <span class="footer__title" i18n="popup_adguard_footer_title"></span>
@@ -154,7 +148,7 @@
             <a class="notice__close popup_get_premium_close" href="#"></a>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Notification -->
 

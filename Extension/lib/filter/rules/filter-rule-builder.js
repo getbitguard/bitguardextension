@@ -130,7 +130,7 @@
     };
 
     /**
-     * Convert rules to AdGuard syntax and create rule
+     * Convert rules to BitGuard syntax and create rule
      *
      * @param {string} ruleText Rule text
      * @param {number} filterId Filter identifier

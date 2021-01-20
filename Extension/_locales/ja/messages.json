@@ -24,10 +24,10 @@
         "message": "ファイル拡張は .json になっている必要があります"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard for iOS"
+        "message": "BitGuard for iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard for Android"
+        "message": "BitGuard for Android"
     },
     "options_filters_filter_version": {
         "message": "バージョン："
@@ -48,7 +48,7 @@
         "message": "その他"
     },
     "popup_adguard_footer_title": {
-        "message": "モバイル用AdGuardをゲット"
+        "message": "モバイル用BitGuardをゲット"
     },
     "options_popup_new_filter_subscription": {
         "message": "新しいフィルタ・サブスクリプション"
@@ -105,13 +105,13 @@
         "message": "サブスクライブする"
     },
     "name": {
-        "message": "AdGuard 広告ブロッカー"
+        "message": "BitGuard 広告ブロッカー"
     },
     "sync_provider_browser_storage": {
         "message": "ブラウザストレージ"
     },
     "description": {
-        "message": "AdGuardは、広告やポップアップ対処には比類のない広告ブロック拡張機能です。Facebook、YouTubeやその他のサイトで広告をブロックします。"
+        "message": "BitGuardは、広告やポップアップ対処には比類のない広告ブロック拡張機能です。Facebook、YouTubeやその他のサイトで広告をブロックします。"
     },
     "background_tab_title": {
         "message": "バックグラウンド・タブ"
@@ -336,19 +336,19 @@
         "message": "12月"
     },
     "thankyou_want_full_protection": {
-        "message": "フルプロテクションを試してみたいですか？AdGuard for Windows をダウンロード！"
+        "message": "フルプロテクションを試してみたいですか？BitGuard for Windows をダウンロード！"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "フルプロテクションを試してみたいですか？AdGuard for Mac をダウンロード！"
+        "message": "フルプロテクションを試してみたいですか？BitGuard for Mac をダウンロード！"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard for Windows"
+        "message": "BitGuard for Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard for Mac"
+        "message": "BitGuard for Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "は更新されました。"
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard拡張機能はただいまバージョン $1 にアップデートされました"
+        "message": "BitGuard拡張機能はただいまバージョン $1 にアップデートされました"
     },
     "options_popup_version_update_description_minor": {
         "message": "このバージョンには主にバグ修正と軽微な改善が含まれています。"
@@ -381,7 +381,7 @@
         "message": "本バージョンの新機能"
     },
     "options_popup_version_update_offer": {
-        "message": "AdGuardの機能は本プラウザに限らないことはご存知ですか？"
+        "message": "BitGuardの機能は本プラウザに限らないことはご存知ですか？"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "詳細はこちら"
@@ -393,10 +393,10 @@
         "message": "サイトの安全性を確認する"
     },
     "popup_open_settings": {
-        "message": "AdGuard 設定"
+        "message": "BitGuard 設定"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuardの保護を停止中"
+        "message": "BitGuardの保護を停止中"
     },
     "popup_block_site_ads_android": {
         "message": "このウェブサイトの広告をブロックする"
@@ -408,7 +408,7 @@
         "message": "ホワイトリストに入っています"
     },
     "popup_site_protection_disabled_android": {
-        "message": "AdGuardの保護は一時停止中"
+        "message": "BitGuardの保護は一時停止中"
     },
     "popup_open_log_android": {
         "message": "フィルタリングログ"
@@ -432,19 +432,19 @@
         "message": "$1 によって保護されています"
     },
     "context_site_filtering_disabled": {
-        "message": "このドメインではAdGuardは動作できません"
+        "message": "このドメインではBitGuardは動作できません"
     },
     "context_disable_protection": {
-        "message": "AdGuardの保護を一時的に停止する"
+        "message": "BitGuardの保護を一時的に停止する"
     },
     "context_enable_protection": {
-        "message": "AdGuard保護を再開する"
+        "message": "BitGuard保護を再開する"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardの保護を停止中"
+        "message": "BitGuardの保護を停止中"
     },
     "context_open_settings": {
-        "message": "AdGuard 設定"
+        "message": "BitGuard 設定"
     },
     "context_open_log": {
         "message": "フィルタリングログ..."
@@ -609,7 +609,7 @@
         "message": "新しいタブで開く"
     },
     "options_settings": {
-        "message": "AdGuard 設定"
+        "message": "BitGuard 設定"
     },
     "options_general_settings": {
         "message": "一般"
@@ -618,7 +618,7 @@
         "message": "検索広告とウェブサイトの自己宣伝を許可する"
     },
     "options_show_blocked_ads_count": {
-        "message": "AdGuard 拡張機能アイコンでブロックされた広告の数を表示する"
+        "message": "BitGuard 拡張機能アイコンでブロックされた広告の数を表示する"
     },
     "options_enable_autodetect_filter": {
         "message": "最も適切なフィルタを自動的に有効にする"
@@ -648,7 +648,7 @@
         "message": "インポート"
     },
     "options_whitelist_description": {
-        "message": "AdGuardはホワイトリストにあるウェブサイトをフィルタリングしません。"
+        "message": "BitGuardはホワイトリストにあるウェブサイトをフィルタリングしません。"
     },
     "options_whitelist_inverse": {
         "message": "ホワイトリストを逆転させる"
@@ -678,10 +678,10 @@
         "message": "公式ウェブサイト"
     },
     "options_discuss": {
-        "message": "AdGuardについての意見交換"
+        "message": "BitGuardについての意見交換"
     },
     "options_do_you_like": {
-        "message": "AdGuardに満足していますか？"
+        "message": "BitGuardに満足していますか？"
     },
     "options_footer_like_us": {
         "message": "評価する！"
@@ -690,7 +690,7 @@
         "message": "その他の設定"
     },
     "options_show_adguard_full_version": {
-        "message": "AdGuardフルバージョンの情報を表示する"
+        "message": "BitGuardフルバージョンの情報を表示する"
     },
     "options_show_app_updated_notification": {
         "message": "拡張機能のアップデートについて通知を受け取る"
@@ -708,7 +708,7 @@
         "message": "広告フィルタの使用状況の統計を送信する"
     },
     "options_show_context_menu": {
-        "message": "ブラウザの右クリックメニューに AdGuard アイテムを追加する"
+        "message": "ブラウザの右クリックメニューに BitGuard アイテムを追加する"
     },
     "options_use_optimized_filters": {
         "message": "最適化されたフィルタを使用する"
@@ -768,7 +768,7 @@
         "message": "追跡パラメータを削除する"
     },
     "options_strip_tracking_params_desc": {
-        "message": "AdGuardがページのアドレスから削除するトラッキングパラメータのカンマ区切りリスト。"
+        "message": "BitGuardがページのアドレスから削除するトラッキングパラメータのカンマ区切りリスト。"
     },
     "options_cookies_title": {
         "message": "クッキー"
@@ -816,10 +816,10 @@
         "message": "保護スイッチ"
     },
     "short_name": {
-        "message": "AdGuard 広告ブロッカー"
+        "message": "BitGuard 広告ブロッカー"
     },
     "options_about": {
-        "message": "AdGuardについて"
+        "message": "BitGuardについて"
     },
     "options_license_agreement": {
         "message": "エンドユーザー使用許諾契約書"

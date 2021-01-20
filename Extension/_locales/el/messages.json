@@ -18,10 +18,10 @@
         "message": "Η επέκταση του αρχείου πρέπει να είναι .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard για iOS"
+        "message": "BitGuard για iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard για Android"
+        "message": "BitGuard για Android"
     },
     "options_filters_filter_version": {
         "message": "έκδοση:"
@@ -258,13 +258,13 @@
         "message": "Δεκ"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard για Windows"
+        "message": "BitGuard για Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard για Mac"
+        "message": "BitGuard για Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -291,7 +291,7 @@
         "message": "Αναφορά ασφάλειας ιστότοπου"
     },
     "popup_open_settings": {
-        "message": "Ρυθμίσεις AdGuard"
+        "message": "Ρυθμίσεις BitGuard"
     },
     "popup_block_site_ads_android": {
         "message": "Αποκλεισμός διαφημίσεων στον ιστότοπο"
@@ -312,13 +312,13 @@
         "message": "Άνοιγμα αναφοράς ασφάλειας ιστότοπου..."
     },
     "context_disable_protection": {
-        "message": "Παύση προστασίας AdGuard"
+        "message": "Παύση προστασίας BitGuard"
     },
     "context_enable_protection": {
-        "message": "Συνέχιση προστασίας AdGuard"
+        "message": "Συνέχιση προστασίας BitGuard"
     },
     "context_open_settings": {
-        "message": "Ρυθμίσεις AdGuard..."
+        "message": "Ρυθμίσεις BitGuard..."
     },
     "context_open_log": {
         "message": "Καταγραφές φιλτραρίσματος..."
@@ -336,7 +336,7 @@
         "message": "Ασφάλεια περιήγησης"
     },
     "options_show_blocked_ads_count": {
-        "message": "Υπόδειξη αριθμού&nbsp;αποκλεισμένων διαφημίσεων στο&nbsp;εικονίδιο της AdGuard επέκτασης"
+        "message": "Υπόδειξη αριθμού&nbsp;αποκλεισμένων διαφημίσεων στο&nbsp;εικονίδιο της BitGuard επέκτασης"
     },
     "options_import_settings": {
         "message": "Εισαγωγή ρυθμίσεων"

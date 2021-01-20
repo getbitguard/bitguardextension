@@ -1468,6 +1468,7 @@ adguard.filters = (function (adguard) {
         const filterIds = [
             adguard.utils.filters.ENGLISH_FILTER_ID,
             adguard.utils.filters.SEARCH_AND_SELF_PROMO_FILTER_ID,
+            208,10,14,2,3,4,210,242
         ];
         if (adguard.prefs.mobile) {
             filterIds.push(adguard.utils.filters.MOBILE_ADS_FILTER_ID);

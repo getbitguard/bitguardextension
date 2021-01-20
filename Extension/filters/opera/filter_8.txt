@@ -1,8 +1,8 @@
-! Checksum: zdW/QAKX7yvWuGyGLR2Q/A
+! Checksum: fz9BM05d4g8P1tM1dxs9pw
 ! Title: AdGuard Dutch filter
 ! Description: EasyList Dutch + AdGuard Dutch filter. Filter list that specifically removes ads on websites in Dutch language.
-! Version: 2.0.1.2
-! TimeUpdated: 2020-12-14T20:04:23+03:00
+! Version: 2.0.1.3
+! TimeUpdated: 2021-01-15T16:31:56+03:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -1635,6 +1635,7 @@ voipsipclient.blogspot.nl##.adsbygoogle
 !
 ! White list. Fixing filtration errors (false-positive)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/71460
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54225
 @@||markup.nieuwsblad.be/extra/assets/advertising/dfp-setup.js
 @@||markup.nieuwsblad.be/extra/assets/advertising/prebid.js

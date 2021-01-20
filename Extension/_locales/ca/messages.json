@@ -24,10 +24,10 @@
         "message": "L'extensió de l'arxiu ha de ser .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard per a iOS"
+        "message": "BitGuard per a iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard per a Android"
+        "message": "BitGuard per a Android"
     },
     "options_filters_filter_version": {
         "message": "versió:"
@@ -48,7 +48,7 @@
         "message": "Altres opcions"
     },
     "popup_adguard_footer_title": {
-        "message": "Obté AdGuard per al teu mòbil"
+        "message": "Obté BitGuard per al teu mòbil"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nova subscripció de filtre"
@@ -105,7 +105,7 @@
         "message": "Subscriure"
     },
     "name": {
-        "message": "Filtre de publicitat d'AdGuard"
+        "message": "Filtre de publicitat d'BitGuard"
     },
     "background_tab_title": {
         "message": "Pestanya de fons"
@@ -207,19 +207,19 @@
         "message": "Des"
     },
     "thankyou_want_full_protection": {
-        "message": "Voleu provar la protecció completa? Descarregueu l'AdGuard per Windows!"
+        "message": "Voleu provar la protecció completa? Descarregueu l'BitGuard per Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Voleu provar la protecció completa? Descarregueu l'AdGuard per Mac!"
+        "message": "Voleu provar la protecció completa? Descarregueu l'BitGuard per Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard per Windows"
+        "message": "BitGuard per Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard per Mac"
+        "message": "BitGuard per Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -243,10 +243,10 @@
         "message": "Comproveu la seguretat del lloc web"
     },
     "popup_open_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "La protecció d'AdGuard està aturada"
+        "message": "La protecció d'BitGuard està aturada"
     },
     "popup_block_site_ads_android": {
         "message": "Filtra els anuncis de publicitat en aquesta pàgina web"
@@ -279,19 +279,19 @@
         "message": "Protegits per $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard no pot funcionar en aquest domini"
+        "message": "BitGuard no pot funcionar en aquest domini"
     },
     "context_disable_protection": {
-        "message": "Atureu la protecció d'AdGuard"
+        "message": "Atureu la protecció d'BitGuard"
     },
     "context_enable_protection": {
-        "message": "Inicieu la protecció d'AdGuard"
+        "message": "Inicieu la protecció d'BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "La protecció d'AdGuard està aturada"
+        "message": "La protecció d'BitGuard està aturada"
     },
     "context_open_settings": {
-        "message": "Opcions d'AdGuard..."
+        "message": "Opcions d'BitGuard..."
     },
     "context_open_log": {
         "message": "Registre del filtratge..."
@@ -450,7 +450,7 @@
         "message": "Obriu en una nova pestanya"
     },
     "options_settings": {
-        "message": "Opcions d'AdGuard"
+        "message": "Opcions d'BitGuard"
     },
     "options_general_settings": {
         "message": "Opcions generals"
@@ -459,7 +459,7 @@
         "message": "Permeteu anuncis de publicitat acceptables<a target='_blank' href='https:\/\/adguard.com\/whitelist.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Trobeu més informació sobre això<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Indiqueu a la icona el nombre d'anuncis de publicitat filtrats per l'extensió AdGuard"
+        "message": "Indiqueu a la icona el nombre d'anuncis de publicitat filtrats per l'extensió BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Activeu els filtres més adequats automàticament"
@@ -486,7 +486,7 @@
         "message": "Importeu"
     },
     "options_whitelist_description": {
-        "message": "AdGuard no filtra pàgines web que es troben a la llista blanca."
+        "message": "BitGuard no filtra pàgines web que es troben a la llista blanca."
     },
     "options_whitelist_inverse": {
         "message": "Capgireu la llista blanca<span class='sp-table-row-info'>Desbloquejeu els anuncis web de qualsevol lloc <i>excepte<\/i> els de la llista blanca<\/span>"
@@ -510,10 +510,10 @@
         "message": "Pàgina web oficial"
     },
     "options_discuss": {
-        "message": "Parleu sobre AdGuard"
+        "message": "Parleu sobre BitGuard"
     },
     "options_do_you_like": {
-        "message": "Us agrada AdGuard?"
+        "message": "Us agrada BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Voteu-lo!"
@@ -522,7 +522,7 @@
         "message": "Miscel·lanis"
     },
     "options_show_adguard_full_version": {
-        "message": "Mostreu la informació a la versió completa d'AdGuard"
+        "message": "Mostreu la informació a la versió completa d'BitGuard"
     },
     "options_open_log": {
         "message": "Registre del filtratge"
@@ -537,7 +537,7 @@
         "message": "Envieu estadístiques sobre l'ús dels filtres<a target='_blank' href='https:\/\/adguard.com\/filter-rules-statistics.html?utm_source=extension&aid=16593' class='sp-table-row-info'>Trobeu més informació sobre això<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Afegiu l'element AdGuard al menú contextual del navegador web"
+        "message": "Afegiu l'element BitGuard al menú contextual del navegador web"
     },
     "options_use_optimized_filters": {
         "message": "Utilitzeu filtres optimitzats<span class='sp-table-row-info'>Llistes de filtrat lleuger optimitzades per a dispositius mòbils<\/span>"
@@ -564,7 +564,7 @@
         "message": "Eviteu que els llocs web us facin seguiment"
     },
     "short_name": {
-        "message": "Filtre de publicitat d'AdGuard"
+        "message": "Filtre de publicitat d'BitGuard"
     },
     "options_github": {
         "message": "GitHub"

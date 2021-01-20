@@ -115,9 +115,9 @@ const createArtifact = async (done) => {
 
     // require called here in order to escape errors, until this module is really necessary
     // eslint-disable-next-line global-require
-    const cryptor = require('../private/cryptor/dist');
-    const credentialsContent = await cryptor(process.env.CREDENTIALS_PASSWORD).getDecryptedContent(credentialsPath);
-    const { apiKey, apiSecret } = JSON.parse(credentialsContent);
+    // const cryptor = require('../private/cryptor/dist');
+    // const credentialsContent = await cryptor(process.env.CREDENTIALS_PASSWORD).getDecryptedContent(credentialsPath);
+    const { apiKey, apiSecret } = JSON.parse(credentialsPath);
     const { downloadedFiles } = await webExt.cmd.sign({
         apiKey,
         apiSecret,

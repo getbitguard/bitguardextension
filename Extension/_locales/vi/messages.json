@@ -24,10 +24,10 @@
         "message": "Phần mở rộng của tệp phải là .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard cho Hệ điều hành iOS"
+        "message": "BitGuard cho Hệ điều hành iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard cho Hệ điều hành Android"
+        "message": "BitGuard cho Hệ điều hành Android"
     },
     "options_filters_filter_version": {
         "message": "phiên bản:"
@@ -48,7 +48,7 @@
         "message": "Khác"
     },
     "popup_adguard_footer_title": {
-        "message": "Tải AdGuard cho điện thoại"
+        "message": "Tải BitGuard cho điện thoại"
     },
     "options_popup_new_filter_subscription": {
         "message": "Thêm bộ lọc mới"
@@ -105,7 +105,7 @@
         "message": "Đăng kí"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Bộ nhớ trình duyệt"
@@ -336,19 +336,19 @@
         "message": "Tháng 12"
     },
     "thankyou_want_full_protection": {
-        "message": "Muốn&nbsp;thử bảo vệ toàn diện? Hãy tải AdGuard cho Windows!"
+        "message": "Muốn&nbsp;thử bảo vệ toàn diện? Hãy tải BitGuard cho Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Muốn&nbsp;thử bảo vệ toàn diện? Hãy tải AdGuard cho Mac!"
+        "message": "Muốn&nbsp;thử bảo vệ toàn diện? Hãy tải BitGuard cho Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard cho Windows"
+        "message": "BitGuard cho Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard cho Mac"
+        "message": "BitGuard cho Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "đã được cập nhật"
     },
     "options_popup_version_update_title": {
-        "message": "Tiện ích AdGuard đã được cập nhật lên phiên bản $1"
+        "message": "Tiện ích BitGuard đã được cập nhật lên phiên bản $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Phiên bản này chủ yếu bao gồm sửa lỗi và các cải tiến nhỏ."
@@ -381,7 +381,7 @@
         "message": "Phiên bản này có gì mới?"
     },
     "options_popup_version_update_offer": {
-        "message": "Bạn có biết rằng các khả năng của AdGuard không bị giới hạn trong trình duyệt này không?"
+        "message": "Bạn có biết rằng các khả năng của BitGuard không bị giới hạn trong trình duyệt này không?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "TÌM HIỂU THÊM"
@@ -393,10 +393,10 @@
         "message": "Kiểm tra bảo mật website"
     },
     "popup_open_settings": {
-        "message": "Cài đặt AdGuard"
+        "message": "Cài đặt BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "Đã tạm dừng bảo vệ của AdGuard"
+        "message": "Đã tạm dừng bảo vệ của BitGuard"
     },
     "popup_block_site_ads_android": {
         "message": "Chặn quảng cáo trên website này"
@@ -432,19 +432,19 @@
         "message": "Được bảo vệ bởi $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard không thể hoạt động trên tên miền này"
+        "message": "BitGuard không thể hoạt động trên tên miền này"
     },
     "context_disable_protection": {
-        "message": "Tạm dừng bảo vệ của AdGuard"
+        "message": "Tạm dừng bảo vệ của BitGuard"
     },
     "context_enable_protection": {
-        "message": "Tiếp tục bảo vệ của AdGuard"
+        "message": "Tiếp tục bảo vệ của BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "Đã tạm dừng bảo vệ của AdGuard"
+        "message": "Đã tạm dừng bảo vệ của BitGuard"
     },
     "context_open_settings": {
-        "message": "Cài đặt AdGuard..."
+        "message": "Cài đặt BitGuard..."
     },
     "context_open_log": {
         "message": "Nhật ký lọc..."
@@ -495,7 +495,7 @@
         "message": "Bạn có biết?"
     },
     "filter_download_sb_sites": {
-        "message": "Cơ sở dữ liệu về lừa đảo và nguy hiểm của AdGuard<br\/>chứa hơn 1&nbsp;triệu website."
+        "message": "Cơ sở dữ liệu về lừa đảo và nguy hiểm của BitGuard<br\/>chứa hơn 1&nbsp;triệu website."
     },
     "filter_download_rules": {
         "message": "Trung bình&nbsp;chúng tôi&nbsp;thêm hơn 100&nbsp;quy tắc lọc quảng cáo mỗi tuần."
@@ -609,7 +609,7 @@
         "message": "Mở trong thẻ mới"
     },
     "options_settings": {
-        "message": "Cài đặt AdGuard"
+        "message": "Cài đặt BitGuard"
     },
     "options_general_settings": {
         "message": "Cài đặt Tổng quát"
@@ -618,7 +618,7 @@
         "message": "Cho phép các quảng cáo có thể chấp nhận được<a target='_blank' href='https:\/\/kb.adguard.com\/general\/search-ads-and-self-promotion?utm_source=extension&aid=16593' class='sp-table-row-info'>Tìm hiểu thêm<\/a>"
     },
     "options_show_blocked_ads_count": {
-        "message": "Cho biết số&nbsp;quảng cáo bị chặn trên&nbsp;biểu tượng của phần mở rộng AdGuard"
+        "message": "Cho biết số&nbsp;quảng cáo bị chặn trên&nbsp;biểu tượng của phần mở rộng BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Tự động kích hoạt những bộ lọc phù hợp nhất"
@@ -648,7 +648,7 @@
         "message": "Nhập"
     },
     "options_whitelist_description": {
-        "message": "AdGuard không lọc website trong danh sách được cho phép."
+        "message": "BitGuard không lọc website trong danh sách được cho phép."
     },
     "options_whitelist_inverse": {
         "message": "Đảo ngược danh sách được cho phép<span class='sp-table-row-info'>Bỏ chặn quảng cáo ở mọi nơi <i>trừ<\/i> danh sách được cho phép<\/span>"
@@ -678,10 +678,10 @@
         "message": "Website chính thức"
     },
     "options_discuss": {
-        "message": "Thảo luận AdGuard"
+        "message": "Thảo luận BitGuard"
     },
     "options_do_you_like": {
-        "message": "Bạn&nbsp;có thích AdGuard?"
+        "message": "Bạn&nbsp;có thích BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Đánh&nbsp;giá!"
@@ -690,7 +690,7 @@
         "message": "Khác"
     },
     "options_show_adguard_full_version": {
-        "message": "Hiện thông tin trên&nbsp;phiên bản AdGuard đầy đủ"
+        "message": "Hiện thông tin trên&nbsp;phiên bản BitGuard đầy đủ"
     },
     "options_show_app_updated_notification": {
         "message": "Thông báo về các bản cập nhật mở rộng"
@@ -708,7 +708,7 @@
         "message": "Gửi thống kê sử dụng&nbsp;bộ lọc quảng cáo<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Tìm hiểu thêm<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Thêm AdGuard vào&nbsp;menu ngữ cảnh của trình duyệt"
+        "message": "Thêm BitGuard vào&nbsp;menu ngữ cảnh của trình duyệt"
     },
     "options_use_optimized_filters": {
         "message": "Dùng bộ lọc được tối ưu<span class='sp-table-row-info'>Danh sách bộ lọc nhẹ cho thiết bị di động<\/span>"
@@ -768,7 +768,7 @@
         "message": "Xóa các thông số theo dõi"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Danh sách các tham số theo dõi được phân tách bằng dấu phẩy mà AdGuard sẽ xóa khỏi địa chỉ của các trang."
+        "message": "Danh sách các tham số theo dõi được phân tách bằng dấu phẩy mà BitGuard sẽ xóa khỏi địa chỉ của các trang."
     },
     "options_cookies_title": {
         "message": "Cookies"
@@ -816,7 +816,7 @@
         "message": "Công tắc bảo vệ"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "Giới thiệu"

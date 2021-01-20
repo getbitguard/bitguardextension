@@ -24,10 +24,10 @@
         "message": "Розширення файлу має бути .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard для iOS"
+        "message": "BitGuard для iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard для Android"
+        "message": "BitGuard для Android"
     },
     "options_filters_filter_version": {
         "message": "Версія:"
@@ -48,7 +48,7 @@
         "message": "Різне"
     },
     "popup_adguard_footer_title": {
-        "message": "AdGuard для мобільного"
+        "message": "BitGuard для мобільного"
     },
     "options_popup_new_filter_subscription": {
         "message": "Додавання нового фільтру"
@@ -105,7 +105,7 @@
         "message": "Підписатися"
     },
     "name": {
-        "message": "AdGuard Антибанер"
+        "message": "BitGuard Антибанер"
     },
     "sync_provider_browser_storage": {
         "message": "Сховище браузера"
@@ -270,7 +270,7 @@
         "message": "Фільтрування вимкнено, оскільки воно може перешкоджати роботі цього вебсайту."
     },
     "popup_tab_blocked": {
-        "message": "Заблоковано: $1"
+        "message": "$1 помилок заблоковано"
     },
     "popup_tab_blocked_all": {
         "message": "Всього: $1"
@@ -336,19 +336,19 @@
         "message": "Гру"
     },
     "thankyou_want_full_protection": {
-        "message": "Хочете спробувати повний захист? Завантажте AdGuard для Windows!"
+        "message": "Хочете спробувати повний захист? Завантажте BitGuard для Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Хочете спробувати повний захист? Завантажте AdGuard для Mac!"
+        "message": "Хочете спробувати повний захист? Завантажте BitGuard для Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard для Windows"
+        "message": "BitGuard для Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard для Mac"
+        "message": "BitGuard для Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "були оновлені."
     },
     "options_popup_version_update_title": {
-        "message": "Розширення AdGuard було оновлено до версії $1"
+        "message": "Розширення BitGuard було оновлено до версії $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ця версія містить виправлення помилок і незначні вдосконалення."
@@ -381,7 +381,7 @@
         "message": "Що нового в цій версії?"
     },
     "options_popup_version_update_offer": {
-        "message": "Чи відомо вам, що можливості AdGuard не обмежуються цим браузером?"
+        "message": "Чи відомо вам, що можливості BitGuard не обмежуються цим браузером?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "ДОКЛАДНІШЕ"
@@ -393,10 +393,10 @@
         "message": "Перевірити безпечність сайту"
     },
     "popup_open_settings": {
-        "message": "Налаштування AdGuard"
+        "message": "Налаштування BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "Захист AdGuard призупинено"
+        "message": "Захист BitGuard призупинено"
     },
     "popup_block_site_ads_android": {
         "message": "Блокувати рекламу на сайті"
@@ -432,19 +432,19 @@
         "message": "Захищено $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard не може працювати на цьому домені"
+        "message": "BitGuard не може працювати на цьому домені"
     },
     "context_disable_protection": {
-        "message": "Призупинити захист AdGuard"
+        "message": "Призупинити захист BitGuard"
     },
     "context_enable_protection": {
-        "message": "Відновити захист AdGuard"
+        "message": "Відновити захист BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "Захист AdGuard призупинено"
+        "message": "Захист BitGuard призупинено"
     },
     "context_open_settings": {
-        "message": "Налаштування AdGuard..."
+        "message": "Налаштування BitGuard..."
     },
     "context_open_log": {
         "message": "Журнал"
@@ -495,7 +495,7 @@
         "message": "Чи вам відомо?"
     },
     "filter_download_sb_sites": {
-        "message": "База даних AdGuard налічує<br\/>понад 1&nbsp;мільйон шахрайських і зловмисних вебсайтів."
+        "message": "База даних BitGuard налічує<br\/>понад 1&nbsp;мільйон шахрайських і зловмисних вебсайтів."
     },
     "filter_download_rules": {
         "message": "Ми додаємо в&nbsp;середньому понад&nbsp;100&nbsp;нових&nbsp;правил щотижня."
@@ -609,7 +609,7 @@
         "message": "Відкрити в новій вкладці"
     },
     "options_settings": {
-        "message": "Налаштування AdGuard"
+        "message": "Налаштування BitGuard"
     },
     "options_general_settings": {
         "message": "Основні"
@@ -618,7 +618,7 @@
         "message": "Дозволити рекламу в результатах пошуку і саморекламу вебсайтів"
     },
     "options_show_blocked_ads_count": {
-        "message": "Показувати кількість заблокованої реклами на піктограмі AdGuard"
+        "message": "Показувати кількість заблокованої реклами на піктограмі BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Автоматично підключати найвідповідніші фільтри"
@@ -648,7 +648,7 @@
         "message": "Імпорт"
     },
     "options_whitelist_description": {
-        "message": "AdGuard не працює на сайтах, доданих у білий список."
+        "message": "BitGuard не працює на сайтах, доданих у білий список."
     },
     "options_whitelist_inverse": {
         "message": "Інвертувати білий список"
@@ -678,10 +678,10 @@
         "message": "Офіційний сайт"
     },
     "options_discuss": {
-        "message": "Обговорення AdGuard"
+        "message": "Обговорення BitGuard"
     },
     "options_do_you_like": {
-        "message": "Подобається AdGuard?"
+        "message": "Подобається BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Оцінити!"
@@ -690,7 +690,7 @@
         "message": "Різне"
     },
     "options_show_adguard_full_version": {
-        "message": "Показувати інформацію про повну версію AdGuard"
+        "message": "Показувати інформацію про повну версію BitGuard"
     },
     "options_show_app_updated_notification": {
         "message": "Сповіщати про оновлення розширення"
@@ -708,7 +708,7 @@
         "message": "Відправляти статистику використання фільтрів"
     },
     "options_show_context_menu": {
-        "message": "Додати AdGuard в контекстне меню браузера"
+        "message": "Додати BitGuard в контекстне меню браузера"
     },
     "options_use_optimized_filters": {
         "message": "Використовувати оптимізовані фільтри"
@@ -768,7 +768,7 @@
         "message": "Вилучати параметри стеження"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Перелік параметрів стеження, розділених комою, які AdGuard вилучатиме з адреси сторінок."
+        "message": "Перелік параметрів стеження, розділених комою, які BitGuard вилучатиме з адреси сторінок."
     },
     "options_cookies_title": {
         "message": "Куки"
@@ -816,7 +816,7 @@
         "message": "Перемикач захисту"
     },
     "short_name": {
-        "message": "AdGuard Антибанер"
+        "message": "BitGuard Антибанер"
     },
     "options_about": {
         "message": "Про розширення"

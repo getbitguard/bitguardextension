@@ -1,6 +1,6 @@
 /*! extended-css - v1.3.8 - Fri Dec 11 2020
 * https://github.com/AdguardTeam/ExtendedCss
-* Copyright (c) 2020 AdGuard. Licensed LGPL-3.0
+* Copyright (c) 2020 BitGuard. Licensed LGPL-3.0
 */
 var ExtendedCss = (function () {
   'use strict';
@@ -670,7 +670,7 @@ var ExtendedCss = (function () {
    */
   var cssUtils = function () {
     /**
-     * Regex that matches AdGuard's backward compatible syntaxes.
+     * Regex that matches BitGuard's backward compatible syntaxes.
      */
     var reAttrFallback = /\[-(?:ext|abp)-([a-z-_]+)=(["'])((?:(?=(\\?))\4.)*?)\2\]/g;
     /**
@@ -755,10 +755,10 @@ var ExtendedCss = (function () {
    */
 
   /**
-   * Version of Sizzle patched by AdGuard in order to be used in the ExtendedCss module.
+   * Version of Sizzle patched by BitGuard in order to be used in the ExtendedCss module.
    * https://github.com/AdguardTeam/sizzle-extcss
    *
-   * Look for [AdGuard Patch] and ADGUARD_EXTCSS markers to find out what exactly was changed by us.
+   * Look for [BitGuard Patch] and ADGUARD_EXTCSS markers to find out what exactly was changed by us.
    *
    * Global changes:
    * 1. Added additional parameters to the "Sizzle.tokenize" method so that it can be used for stylesheets parsing and validation.
@@ -778,7 +778,7 @@ var ExtendedCss = (function () {
   var Sizzle;
   /**
    * Initializes Sizzle object.
-   * In the case of AdGuard ExtendedCss we want to avoid initializing Sizzle right away
+   * In the case of BitGuard ExtendedCss we want to avoid initializing Sizzle right away
    * and exposing it to the global scope.
    */
 
@@ -1046,7 +1046,7 @@ var ExtendedCss = (function () {
                     push.apply(results, newContext.querySelectorAll(newSelector));
                     return results;
                   } catch (qsaError) {
-                    // [AdGuard Path]: Fix the cache value
+                    // [BitGuard Path]: Fix the cache value
                     nonnativeSelectorCache(selector, true);
                   } finally {
                     if (nid === expando) {
@@ -1611,7 +1611,7 @@ var ExtendedCss = (function () {
                 return ret;
               }
             } catch (e) {
-              // [AdGuard Path]: Fix the cache value
+              // [BitGuard Path]: Fix the cache value
               nonnativeSelectorCache(expr, true);
             }
           }
@@ -2091,7 +2091,7 @@ var ExtendedCss = (function () {
         setFilters.prototype = Expr.filters = Expr.pseudos;
         Expr.setFilters = new setFilters();
         /**
-         * [AdGuard Patch]:
+         * [BitGuard Patch]:
          * Sorts the tokens in order to mitigate the performance issues caused by matching slow pseudos first:
          * https://github.com/AdguardTeam/ExtendedCss/issues/55#issuecomment-364058745
          */
@@ -2255,7 +2255,7 @@ var ExtendedCss = (function () {
           return defaultPolicy;
         }();
         /**
-         * [AdGuard Patch]:
+         * [BitGuard Patch]:
          * Removes trailing spaces from the tokens list
          *
          * @param {*} tokens An array of Sizzle tokens to post-process
@@ -2276,7 +2276,7 @@ var ExtendedCss = (function () {
           }
         }
         /**
-         * [AdGuard Patch]:
+         * [BitGuard Patch]:
          * An object with the information about selectors and their token representation
          * @typedef {{selectorText: string, groups: Array}} SelectorData
          * @property {string} selectorText A CSS selector text
@@ -2284,7 +2284,7 @@ var ExtendedCss = (function () {
          */
 
         /**
-         * [AdGuard Patch]:
+         * [BitGuard Patch]:
          * This method processes parsed token groups, divides them into a number of selectors
          * and makes sure that each selector's tokens are cached properly in Sizzle.
          *
@@ -2321,7 +2321,7 @@ var ExtendedCss = (function () {
           return selectors;
         }
         /**
-         * [AdGuard Patch]:
+         * [BitGuard Patch]:
          * Add an additional argument for Sizzle.tokenize which indicates that it
          * should not throw on invalid tokens, and instead should return tokens
          * that it has produced so far.
@@ -2421,7 +2421,7 @@ var ExtendedCss = (function () {
 
           if (tolerant) {
             /**
-             * [AdGuard Patch]:
+             * [BitGuard Patch]:
              * In tolerant mode we return a special object that constists of
              * an array of parsed selectors (and their tokens) and a "nextIndex" field
              * that points to an index after which we're not able to parse selectors farther.
@@ -2433,11 +2433,11 @@ var ExtendedCss = (function () {
               nextIndex: nextIndex
             };
           }
-          /** [AdGuard Patch]: Sorting tokens */
+          /** [BitGuard Patch]: Sorting tokens */
 
 
           var sortedGroups = sortTokenGroups(groups);
-          /** [AdGuard Patch]: Change the way tokens are cached */
+          /** [BitGuard Patch]: Change the way tokens are cached */
 
           var tokensCacheItem = {
             groups: groups,
@@ -2970,7 +2970,7 @@ var ExtendedCss = (function () {
             }
           });
         } // EXPOSE
-        // Do not expose Sizzle to the global scope in the case of AdGuard ExtendedCss build
+        // Do not expose Sizzle to the global scope in the case of BitGuard ExtendedCss build
 
 
         return Sizzle; // EXPOSE
@@ -3784,8 +3784,8 @@ var ExtendedCss = (function () {
    */
 
   var ExtendedSelectorFactory = function () {
-    // while adding new markers, constants in other AdGuard repos should be corrected
-    // AdGuard browser extension : CssFilterRule.SUPPORTED_PSEUDO_CLASSES and CssFilterRule.EXTENDED_CSS_MARKERS
+    // while adding new markers, constants in other BitGuard repos should be corrected
+    // BitGuard browser extension : CssFilterRule.SUPPORTED_PSEUDO_CLASSES and CssFilterRule.EXTENDED_CSS_MARKERS
     // tsurlfilter, SafariConverterLib : EXT_CSS_PSEUDO_INDICATORS
     var PSEUDO_EXTENSIONS_MARKERS = [':has', ':contains', ':has-text', ':matches-css', ':-abp-has', ':-abp-has-text', ':if', ':if-not', ':xpath', ':nth-ancestor', ':upward', ':remove', ':matches-attr', ':matches-property', ':-abp-contains', ':is'];
     var initialized = false;

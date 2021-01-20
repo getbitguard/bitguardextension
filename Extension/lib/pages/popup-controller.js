@@ -105,18 +105,18 @@ PopupController.prototype = {
         this.tabInfo = tabInfo;
         const { totalBlockedTab, totalBlocked } = tabInfo;
         if (totalBlockedTab) {
-            const tabBlocked = document.querySelector('.widget-popup .blocked-tab');
+            const tabBlocked = document.querySelector('.blocked-tab');
             if (tabBlocked) {
                 i18n.translateElement(tabBlocked, 'popup_tab_blocked', [this._formatNumber(totalBlockedTab)]);
             }
         }
 
-        if (totalBlocked) {
-            const allBlocked = document.querySelector('.widget-popup .blocked-all');
-            if (allBlocked) {
-                i18n.translateElement(allBlocked, 'popup_tab_blocked_all', [this._formatNumber(totalBlocked)]);
-            }
-        }
+        // if (totalBlocked) {
+        //     const allBlocked = document.querySelector('.widget-popup .blocked-all');
+        //     if (allBlocked) {
+        //         i18n.translateElement(allBlocked, 'popup_tab_blocked_all', [this._formatNumber(totalBlocked)]);
+        //     }
+        // }
     },
 
     _renderPopup(tabInfo) {
@@ -127,10 +127,10 @@ PopupController.prototype = {
             containerHeader.removeChild(containerHeader.firstChild);
         }
 
-        const footerContainer = parent.querySelector('.footer');
-        while (footerContainer.firstChild) {
-            footerContainer.removeChild(footerContainer.firstChild);
-        }
+        // const footerContainer = parent.querySelector('.footer');
+        // while (footerContainer.firstChild) {
+        //     footerContainer.removeChild(footerContainer.firstChild);
+        // }
 
         const stack = parent.querySelector('.tabstack');
 
@@ -140,15 +140,15 @@ PopupController.prototype = {
             containerMain.removeChild(containerMain.firstChild);
         }
 
-        const containerBottom = parent.querySelector('.tabstack-bottom.tab-main');
-        while (containerBottom.firstChild) {
-            containerBottom.removeChild(containerBottom.firstChild);
-        }
+        // const containerBottom = parent.querySelector('.tabstack-bottom.tab-main');
+        // while (containerBottom.firstChild) {
+        //     containerBottom.removeChild(containerBottom.firstChild);
+        // }
 
-        const containerStats = parent.querySelector('.tab-statistics');
-        while (containerStats.firstChild) {
-            containerStats.removeChild(containerStats.firstChild);
-        }
+        // const containerStats = parent.querySelector('.tab-statistics');
+        // while (containerStats.firstChild) {
+        //     containerStats.removeChild(containerStats.firstChild);
+        // }
 
         stack.setAttribute('class', 'tabstack');
         parent.setAttribute('class', 'widget-popup');
@@ -177,16 +177,16 @@ PopupController.prototype = {
 
         // Header
         this.filteringHeader = this._getTemplate('filtering-header-template');
-        this.filteringDefaultHeader = this._getTemplate('filtering-default-header-template');
+        // this.filteringDefaultHeader = this._getTemplate('filtering-default-header-template');
 
         // Controls
         this.filteringControlDefault = this._getTemplate('filtering-default-control-template');
 
         // Actions
-        this.actionOpenAssistant = this._getTemplate('action-open-assistant-template');
-        this.actionOpenAbuse = this._getTemplate('action-open-abuse-template');
-        this.actionOpenSiteReport = this._getTemplate('action-site-report-template');
-        this.actionOpenFilteringLog = this._getTemplate('action-open-filtering-log-template');
+        // this.actionOpenAssistant = this._getTemplate('action-open-assistant-template');
+        // this.actionOpenAbuse = this._getTemplate('action-open-abuse-template');
+        // this.actionOpenSiteReport = this._getTemplate('action-site-report-template');
+         // this.actionOpenFilteringLog = this._getTemplate('action-open-filtering-log-template');
 
         // Status Text
         this.filteringStatusText = this._getTemplate('filtering-status-template');
@@ -195,10 +195,10 @@ PopupController.prototype = {
         this.filteringMessageText = this._getTemplate('filtering-message-template');
 
         // Stats
-        this.filteringStatisticsTemplate = this._getTemplate('filtering-statistics-template');
+        // this.filteringStatisticsTemplate = this._getTemplate('filtering-statistics-template');
 
         // Footer
-        this.footerDefault = this._getTemplate('footer-default-template');
+        // this.footerDefault = this._getTemplate('footer-default-template');
 
         // Notification
         this.notification = this._getTemplate('notification-template');
@@ -206,13 +206,13 @@ PopupController.prototype = {
 
         this._renderHeader(containerHeader, tabInfo);
         this._renderNotificationBlock(stack, tabInfo, this.options);
-        this._renderMain(containerMain, tabInfo);
+        // this._renderMain(containerMain, tabInfo);
         this._renderFilteringControls(containerMain);
         this._renderStatus(containerMain, tabInfo);
-        this._renderActions(containerBottom, tabInfo);
+        // this._renderActions(containerBottom, tabInfo);
         this._renderMessage(containerMain, tabInfo);
-        this._renderStats(containerStats);
-        this._renderFooter(footerContainer, tabInfo, this.options);
+        // this._renderStats(containerStats);
+        // this._renderFooter(footerContainer, tabInfo, this.options);
         this._renderAnimatedNotification(parent, tabInfo, this.options);
     },
 
@@ -293,23 +293,23 @@ PopupController.prototype = {
     },
 
     _renderMain(container, tabInfo) {
-        const template = this.filteringDefaultHeader;
+        const template = this.filteringStatusText;
         if (this.options.showInfoAboutFullVersion) {
-            const headerCtaLink = template.querySelector('#header-cta-link');
-            headerCtaLink.style.display = 'block';
+            // const headerCtaLink = template.querySelector('#header-cta-link');
+            // headerCtaLink.style.display = 'block';
         }
         const tabBlocked = template.querySelector('.blocked-tab');
-        const totalBlocked = template.querySelector('.blocked-all');
+        // const totalBlocked = template.querySelector('.blocked-all');
         i18n.translateElement(tabBlocked, 'popup_tab_blocked', [this._formatNumber(tabInfo.totalBlockedTab || 0)]);
-        i18n.translateElement(totalBlocked, 'popup_tab_blocked_all', [this._formatNumber(tabInfo.totalBlocked || 0)]);
-        const closestWidgetFilter = tabBlocked.closest('.widget-popup-filter');
-        if (closestWidgetFilter) {
-            if (tabInfo.totalBlocked >= 10000000) {
-                closestWidgetFilter.classList.add('db');
-            } else {
-                closestWidgetFilter.classList.remove('db');
-            }
-        }
+        // i18n.translateElement(totalBlocked, 'popup_tab_blocked_all', [this._formatNumber(tabInfo.totalBlocked || 0)]);
+        // const closestWidgetFilter = tabBlocked.closest('.widget-popup-filter');
+        // if (closestWidgetFilter) {
+        //     if (tabInfo.totalBlocked >= 10000000) {
+        //         closestWidgetFilter.classList.add('db');
+        //     } else {
+        //         closestWidgetFilter.classList.remove('db');
+        //     }
+        // }
 
         this._appendTemplate(container, template);
     },
@@ -321,10 +321,14 @@ PopupController.prototype = {
 
     _renderStatus(container, tabInfo) {
         const template = this.filteringStatusText;
-
+        const tabBlocked = template.querySelector('.blocked-tab');
+        // const totalBlocked = template.querySelector('.blocked-all');
+        i18n.translateElement(tabBlocked, 'popup_tab_blocked', [this._formatNumber(tabInfo.totalBlockedTab || 0)]);
         let messageKey = '';
+        let statusCheck = false;
         if (!tabInfo.applicationAvailable) {
             messageKey = 'popup_site_filtering_state_secure_page';
+            statusCheck = true;
         } else if (tabInfo.documentWhiteListed && !tabInfo.userWhiteListed) {
             messageKey = '';
         } else if (tabInfo.applicationFilteringDisabled) {
@@ -333,13 +337,14 @@ PopupController.prototype = {
             messageKey = 'popup_site_filtering_state_disabled';
         } else {
             messageKey = 'popup_site_filtering_state_enabled';
+            statusCheck = true;
         }
 
-        const statusElement = template.querySelector('.status');
-        if (messageKey) {
-            i18n.translateElement(statusElement, messageKey);
+        const statusElement = template.querySelector('.check-block');
+        if (statusCheck) {
+            statusElement.classList.add('active');
         } else {
-            statusElement.classList.add('status--hide');
+            statusElement.classList.add('fail');
         }
 
         const currentSiteElement = template.querySelector('.current-site');
@@ -711,7 +716,7 @@ PopupController.prototype = {
         el.classList.add('actions');
 
         this._appendTemplate(el, this.actionOpenAssistant);
-        this._appendTemplate(el, this.actionOpenFilteringLog);
+        // this._appendTemplate(el, this.actionOpenFilteringLog);
         if (tabInfo.applicationFilteringDisabled || tabInfo.documentWhiteListed) {
             // May be shown later
             this.actionOpenAssistant.style.display = 'none';
@@ -740,7 +745,7 @@ PopupController.prototype = {
         const footerDefaultTitle = footerDefault.querySelector('.footer__title');
         if (popupFooter && footerDefaultTitle) {
             if (options.isEdgeBrowser) {
-                popupFooter.innerHTML = `<div class="popup-footer--edge">© 2009-${new Date().getFullYear()} AdGuard Software Ltd</div>`;
+                popupFooter.innerHTML = `<div class="popup-footer--edge">© 2009-${new Date().getFullYear()} BitGuard Software Ltd</div>`;
                 // hide mobile app icons - https://github.com/AdguardTeam/AdguardBrowserExtension/issues/1543
                 const platforms = footerDefault.querySelector('.platforms');
                 if (platforms) {

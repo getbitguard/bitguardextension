@@ -38,7 +38,7 @@ export const buildDev = gulp.series(chromium, firefoxAmo, firefoxWebext, edge, a
 export const buildBeta = gulp.series(chromium, firefoxWebext, edge, api, updateBuildInfo, clean, done => done());
 
 // release build
-export const buildRelease = gulp.series(chromium, opera, firefoxAmo, edge, updateBuildInfo, clean, done => done());
+export const buildRelease = gulp.series(firefoxAmo, edge, updateBuildInfo, clean, done => done());
 
 // sample api build
 export const buildSampleApi = gulp.series(api, done => done());

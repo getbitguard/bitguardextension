@@ -24,10 +24,10 @@
         "message": "Extensia fișierului trebuie să fie .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard pentru iOS"
+        "message": "BitGuard pentru iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard pentru Android"
+        "message": "BitGuard pentru Android"
     },
     "options_filters_filter_version": {
         "message": "versiune:"
@@ -48,7 +48,7 @@
         "message": "Diverse"
     },
     "popup_adguard_footer_title": {
-        "message": "Obține AdGuard pentru mobil"
+        "message": "Obține BitGuard pentru mobil"
     },
     "options_popup_new_filter_subscription": {
         "message": "Abonare la un filtru nou"
@@ -105,7 +105,7 @@
         "message": "Abonează-te"
     },
     "name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "sync_provider_browser_storage": {
         "message": "Stocare browser"
@@ -336,19 +336,19 @@
         "message": "dec"
     },
     "thankyou_want_full_protection": {
-        "message": "Vrei să încerci protecția completă? Descarcă AdGuard pentru Windows!"
+        "message": "Vrei să încerci protecția completă? Descarcă BitGuard pentru Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Vrei să încerci protecția completă? Descarcă AdGuard pentru Mac!"
+        "message": "Vrei să încerci protecția completă? Descarcă BitGuard pentru Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard pentru Windows"
+        "message": "BitGuard pentru Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard pentru Mac"
+        "message": "BitGuard pentru Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "s-au actualizat."
     },
     "options_popup_version_update_title": {
-        "message": "Extensia AdGuard s-a actualizat la versiunea $1"
+        "message": "Extensia BitGuard s-a actualizat la versiunea $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Această versiune conține corecții de erori și îmbunătățiri minore."
@@ -381,7 +381,7 @@
         "message": "Ce este nou în această versiune?"
     },
     "options_popup_version_update_offer": {
-        "message": "Știați că funcțiile AdGuard nu sunt limitate numai la acest navigator?"
+        "message": "Știați că funcțiile BitGuard nu sunt limitate numai la acest navigator?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "AFLAȚI MAI MULT"
@@ -393,10 +393,10 @@
         "message": "Verificați securitatea site-ului"
     },
     "popup_open_settings": {
-        "message": "Setări AdGuard"
+        "message": "Setări BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "Protecția AdGuard este întreruptă"
+        "message": "Protecția BitGuard este întreruptă"
     },
     "popup_block_site_ads_android": {
         "message": "Blocați reclamele pe această pagină web"
@@ -432,19 +432,19 @@
         "message": "Protejat de $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nu poate rula pe acest domeniu"
+        "message": "BitGuard nu poate rula pe acest domeniu"
     },
     "context_disable_protection": {
-        "message": "Întrerupeți protecția AdGuard"
+        "message": "Întrerupeți protecția BitGuard"
     },
     "context_enable_protection": {
-        "message": "Reporniți protecția AdGuard"
+        "message": "Reporniți protecția BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "Protecția AdGuard este în pauză"
+        "message": "Protecția BitGuard este în pauză"
     },
     "context_open_settings": {
-        "message": "Setări AdGuard..."
+        "message": "Setări BitGuard..."
     },
     "context_open_log": {
         "message": "Jurnal de filtrare..."
@@ -495,7 +495,7 @@
         "message": "Știați?"
     },
     "filter_download_sb_sites": {
-        "message": "Baza de date AdGuard pentru phishing și malware conține<br\/>mai mult de 1&nbsp;milion de pagini web."
+        "message": "Baza de date BitGuard pentru phishing și malware conține<br\/>mai mult de 1&nbsp;milion de pagini web."
     },
     "filter_download_rules": {
         "message": "În&nbsp;medie&nbsp;adăugăm mai mult de 100&nbsp;filtre de reclame în fiecare săptămână,"
@@ -609,7 +609,7 @@
         "message": "Deschideți într-o filă nouă"
     },
     "options_settings": {
-        "message": "Setări AdGuard"
+        "message": "Setări BitGuard"
     },
     "options_general_settings": {
         "message": "Setări Generale"
@@ -618,7 +618,7 @@
         "message": "Lăsați reclame la căutare și auto-promovare site-uri"
     },
     "options_show_blocked_ads_count": {
-        "message": "Indică numărul reclamelor blocate în icoana extensiei AdGuard"
+        "message": "Indică numărul reclamelor blocate în icoana extensiei BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Activează cele mai adecvate filtre în mod automat"
@@ -648,7 +648,7 @@
         "message": "Importați"
     },
     "options_whitelist_description": {
-        "message": "AdGuard nu filtrează paginile web din lista albă."
+        "message": "BitGuard nu filtrează paginile web din lista albă."
     },
     "options_whitelist_inverse": {
         "message": "Inversați lista albă"
@@ -678,10 +678,10 @@
         "message": "Pagină oficială"
     },
     "options_discuss": {
-        "message": "Discutați AdGuard"
+        "message": "Discutați BitGuard"
     },
     "options_do_you_like": {
-        "message": "Vă&nbsp;place AdGuard?"
+        "message": "Vă&nbsp;place BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Acordați&nbsp;o notă!"
@@ -690,7 +690,7 @@
         "message": "Diverse"
     },
     "options_show_adguard_full_version": {
-        "message": "Arată informații despre&nbsp;AdGuard versiunea completă"
+        "message": "Arată informații despre&nbsp;BitGuard versiunea completă"
     },
     "options_show_app_updated_notification": {
         "message": "Notifică despre actualizări extensie"
@@ -708,7 +708,7 @@
         "message": "Trimiteți statisticile de folosire a&nbsp;filtrelor de reclame<a target='_blank' href='https:\/\/kb.adguard.com\/general\/filter-rules-statistics?utm_source=extension&aid=16593' class='sp-table-row-info'>Aflați mai multe despre&nbsp;asta<\/a>"
     },
     "options_show_context_menu": {
-        "message": "Adăugați AdGuard la meniul contextual al navigatorului web"
+        "message": "Adăugați BitGuard la meniul contextual al navigatorului web"
     },
     "options_use_optimized_filters": {
         "message": "Folosiți filtre optimizate<span class='sp-table-row-info'>Liste simple de filtre optimizate pentru dispozitive mobile<\/span>"
@@ -768,7 +768,7 @@
         "message": "Eliminați parametrii de urmărire"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Listă de parametri de urmărire separați cu virgulă eliminați de AdGuard din adresele paginilor."
+        "message": "Listă de parametri de urmărire separați cu virgulă eliminați de BitGuard din adresele paginilor."
     },
     "options_cookies_title": {
         "message": "Cookies"
@@ -816,7 +816,7 @@
         "message": "Comutator protecție"
     },
     "short_name": {
-        "message": "AdGuard AdBlocker"
+        "message": "BitGuard"
     },
     "options_about": {
         "message": "Despre"

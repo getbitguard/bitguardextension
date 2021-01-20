@@ -24,10 +24,10 @@
         "message": "Razširitev datoteke mora biti .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard za iOS"
+        "message": "BitGuard za iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard za Android"
+        "message": "BitGuard za Android"
     },
     "options_filters_filter_version": {
         "message": "različica:"
@@ -48,7 +48,7 @@
         "message": "Razno"
     },
     "popup_adguard_footer_title": {
-        "message": "Dobite AdGuard za vaš mobilnik"
+        "message": "Dobite BitGuard za vaš mobilnik"
     },
     "options_popup_new_filter_subscription": {
         "message": "Nova naročnina za filter"
@@ -105,7 +105,7 @@
         "message": "Naroči se"
     },
     "name": {
-        "message": "AdGuard Zaviralec oglasov"
+        "message": "BitGuard Zaviralec oglasov"
     },
     "sync_provider_browser_storage": {
         "message": "Shramba brskalnika"
@@ -336,19 +336,19 @@
         "message": "Dec"
     },
     "thankyou_want_full_protection": {
-        "message": "Ali želite&nbsp;poskusiti polno zaščito? Prenesite AdGuard za Windows!"
+        "message": "Ali želite&nbsp;poskusiti polno zaščito? Prenesite BitGuard za Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Ali želite&nbsp;preizkusiti polno zaščito? Prenesite AdGuard za Mac!"
+        "message": "Ali želite&nbsp;preizkusiti polno zaščito? Prenesite BitGuard za Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard za Windows"
+        "message": "BitGuard za Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard za Mac"
+        "message": "BitGuard za Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "so bili posodobljeni."
     },
     "options_popup_version_update_title": {
-        "message": "Razširitev AdGuard je bila posodobljena na različico $1"
+        "message": "Razširitev BitGuard je bila posodobljena na različico $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Ta različica večinoma vsebuje popravke napak in manjše izboljšave."
@@ -381,7 +381,7 @@
         "message": "Kaj je novega v tej različici?"
     },
     "options_popup_version_update_offer": {
-        "message": "Ali ste vedeli, da zmogljivosti AdGuarda niso omejene na ta brskalnik?"
+        "message": "Ali ste vedeli, da zmogljivosti BitGuarda niso omejene na ta brskalnik?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "VEČ O TEM"
@@ -393,10 +393,10 @@
         "message": "Preveri varnost spletne strani"
     },
     "popup_open_settings": {
-        "message": "Nastavitve AdGuarda"
+        "message": "Nastavitve BitGuarda"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuardova zaščita je začasno ustavljena"
+        "message": "BitGuardova zaščita je začasno ustavljena"
     },
     "popup_block_site_ads_android": {
         "message": "Onemogoči oglase na spletni strani"
@@ -432,19 +432,19 @@
         "message": "Zaščitena z $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard ne more delovati na tej domeni"
+        "message": "BitGuard ne more delovati na tej domeni"
     },
     "context_disable_protection": {
-        "message": "Začasno zaustavi AdGuardovo zaščito"
+        "message": "Začasno zaustavi BitGuardovo zaščito"
     },
     "context_enable_protection": {
-        "message": "Nadaljuj z AdGuardovo zaščito"
+        "message": "Nadaljuj z BitGuardovo zaščito"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuardova zaščita je začasno zaustavljena"
+        "message": "BitGuardova zaščita je začasno zaustavljena"
     },
     "context_open_settings": {
-        "message": "Nastavitve AdGuarda..."
+        "message": "Nastavitve BitGuarda..."
     },
     "context_open_log": {
         "message": "Dnevnik filtriranja..."
@@ -495,7 +495,7 @@
         "message": "Ali ste vedeli?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuardova zbirka podatkov lažnih predstavljanj in zlonamernih programov vsebuje<br\/>več kot 1&nbsp;milijon spletnih strani."
+        "message": "BitGuardova zbirka podatkov lažnih predstavljanj in zlonamernih programov vsebuje<br\/>več kot 1&nbsp;milijon spletnih strani."
     },
     "filter_download_rules": {
         "message": "V&nbsp;povprečju mi&nbsp;dodamo tedensko več kot 100&nbsp;filtrov oglasov."
@@ -609,7 +609,7 @@
         "message": "Odpri v novem zavihku"
     },
     "options_settings": {
-        "message": "Nastavitve AdGuarda"
+        "message": "Nastavitve BitGuarda"
     },
     "options_general_settings": {
         "message": "Splošno"
@@ -618,7 +618,7 @@
         "message": "Dovoli iskalne oglase in samopromocijo spletnih strani"
     },
     "options_show_blocked_ads_count": {
-        "message": "Nakaži število&nbsp;onemogočenih oglasov na&nbsp;ikoni AdGuard razširitve"
+        "message": "Nakaži število&nbsp;onemogočenih oglasov na&nbsp;ikoni BitGuard razširitve"
     },
     "options_enable_autodetect_filter": {
         "message": "Samodejno aktiviraj najprimernejše filtre"
@@ -648,7 +648,7 @@
         "message": "Uvozi"
     },
     "options_whitelist_description": {
-        "message": "AdGuard ne filtrira spletnih strani s seznama dovoljenih."
+        "message": "BitGuard ne filtrira spletnih strani s seznama dovoljenih."
     },
     "options_whitelist_inverse": {
         "message": "Obrni seznam dovoljenih"
@@ -678,10 +678,10 @@
         "message": "Uradna spletna stran"
     },
     "options_discuss": {
-        "message": "Pogovor z AdGuardom"
+        "message": "Pogovor z BitGuardom"
     },
     "options_do_you_like": {
-        "message": "Ali&nbsp;vam je všeč AdGuard?"
+        "message": "Ali&nbsp;vam je všeč BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Ocenite&nbsp;ga!"
@@ -690,7 +690,7 @@
         "message": "Razno"
     },
     "options_show_adguard_full_version": {
-        "message": "Prikaži informacije o&nbsp;polni različici AdGuarda"
+        "message": "Prikaži informacije o&nbsp;polni različici BitGuarda"
     },
     "options_show_app_updated_notification": {
         "message": "Obvesti o posodobitvah razširitve"
@@ -708,7 +708,7 @@
         "message": "Pošlji statistiko&nbsp;uporabe filtrov oglasov"
     },
     "options_show_context_menu": {
-        "message": "Dodaj vnos AdGuarda v&nbsp;priročni meni brskalnika"
+        "message": "Dodaj vnos BitGuarda v&nbsp;priročni meni brskalnika"
     },
     "options_use_optimized_filters": {
         "message": "Uporabi optimizirane filtre<span class='sp-table-row-info'>Seznami filtrov, optimiziranih za mobilne naprave<\/span>"
@@ -768,7 +768,7 @@
         "message": "Odstrani sledilne parametre"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Seznam sledilnih parametrov (ločenih z vejico), ki jih bo AdGuard odstranil z naslovov strani."
+        "message": "Seznam sledilnih parametrov (ločenih z vejico), ki jih bo BitGuard odstranil z naslovov strani."
     },
     "options_cookies_title": {
         "message": "Piškotki"
@@ -816,7 +816,7 @@
         "message": "Zaščitno stikalo"
     },
     "short_name": {
-        "message": "AdGuard Zaviralec oglasov"
+        "message": "BitGuard Zaviralec oglasov"
     },
     "options_about": {
         "message": "Vizitka"

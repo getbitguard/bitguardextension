@@ -24,10 +24,10 @@
         "message": "फ़ाइल एक्सटेंशन .json होना चाहिए"
     },
     "popup_adguard_for_ios": {
-        "message": "IOS के लिए AdGuard"
+        "message": "IOS के लिए BitGuard"
     },
     "popup_adguard_for_android": {
-        "message": "Android के लिए AdGuard"
+        "message": "Android के लिए BitGuard"
     },
     "options_filters_filter_version": {
         "message": "संस्करण:"
@@ -342,13 +342,13 @@
         "message": "पूर्ण सुरक्षा का प्रयास करना चाहते हैं?  विंडोज के लिए एडगार्ड डाउनलोड करें!"
     },
     "thankyou_compare_full_title": {
-        "message": "Android के लिए AdGuard"
+        "message": "Android के लिए BitGuard"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "Mac के लिए AdGuard"
+        "message": "Mac के लिए BitGuard"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "ड्रॉपबॉक्स"
@@ -369,7 +369,7 @@
         "message": "अद्दतन किया गया था"
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard एक्सटेंशन को $ 1 संस्करण में अपडेट किया गया है"
+        "message": "BitGuard एक्सटेंशन को $ 1 संस्करण में अपडेट किया गया है"
     },
     "options_popup_version_update_description_minor": {
         "message": "इस संस्करण में ज्यादातर बगफिक्स और छोटे सुधार शामिल हैं"
@@ -381,7 +381,7 @@
         "message": "इस संस्करण में नया क्या है?"
     },
     "options_popup_version_update_offer": {
-        "message": "क्या आप जानते हैं कि AdGuard क्षमताएं इस ब्राउज़र तक सीमित नहीं हैं?"
+        "message": "क्या आप जानते हैं कि BitGuard क्षमताएं इस ब्राउज़र तक सीमित नहीं हैं?"
     },
     "options_popup_version_update_offer_button_text": {
         "message": "और अधिक जानें"
@@ -393,10 +393,10 @@
         "message": "वेबसाइट सुरक्षा रिपोर्ट"
     },
     "popup_open_settings": {
-        "message": "AdGuard सेटिंग्स"
+        "message": "BitGuard सेटिंग्स"
     },
     "popup_site_protection_disabled": {
-        "message": "AdGuard सुरक्षा रोक दी गई है"
+        "message": "BitGuard सुरक्षा रोक दी गई है"
     },
     "popup_block_site_ads_android": {
         "message": "विज्ञापनों को किसी वेबसाइट पर ब्लॉक करें"
@@ -441,10 +441,10 @@
         "message": "एडगार्ड सुरक्षा रोकें"
     },
     "context_site_protection_disabled": {
-        "message": "AdGuard सुरक्षा रोक दी गई है"
+        "message": "BitGuard सुरक्षा रोक दी गई है"
     },
     "context_open_settings": {
-        "message": "AdGuard सेटिंग्स..."
+        "message": "BitGuard सेटिंग्स..."
     },
     "context_open_log": {
         "message": "लॉग फ़िल्टर किया जा रहा है"
@@ -609,7 +609,7 @@
         "message": "एक नए टेब में खोलें"
     },
     "options_settings": {
-        "message": "AdGuard सेटिंग्स"
+        "message": "BitGuard सेटिंग्स"
     },
     "options_general_settings": {
         "message": "सामान्य"
@@ -690,7 +690,7 @@
         "message": "कई तरह का"
     },
     "options_show_adguard_full_version": {
-        "message": "&nbsp;AdGuard पूर्ण संस्करण पर जानकारी दिखाएं"
+        "message": "&nbsp;BitGuard पूर्ण संस्करण पर जानकारी दिखाएं"
     },
     "options_show_app_updated_notification": {
         "message": "एक्सटेंशन अपडेट के बारे में सूचित करें"

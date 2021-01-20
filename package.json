@@ -1,7 +1,7 @@
 {
   "name": "browser-extension",
   "version": "3.5.31",
-  "description": "AdGuard Extension",
+  "description": "BitGuard Extension",
   "scripts": {
     "dev": "NODE_ENV=dev gulp buildDev --require babel-register --gulpfile tasks",
     "beta": "NODE_ENV=beta gulp buildBeta --require babel-register --gulpfile tasks",
@@ -63,5 +63,8 @@
     "qunit": "^2.6.0",
     "scriptlets": "https://github.com/AdguardTeam/Scriptlets.git#v1.3.13",
     "web-ext": "^2.6.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
   }
 }

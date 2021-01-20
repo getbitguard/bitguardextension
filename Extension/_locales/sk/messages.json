@@ -24,10 +24,10 @@
         "message": "Rozšírenie súboru by malo byť .json"
     },
     "popup_adguard_for_ios": {
-        "message": "AdGuard pre iOS"
+        "message": "BitGuard pre iOS"
     },
     "popup_adguard_for_android": {
-        "message": "AdGuard pre Android"
+        "message": "BitGuard pre Android"
     },
     "options_filters_filter_version": {
         "message": "verzia:"
@@ -48,7 +48,7 @@
         "message": "Rôzne"
     },
     "popup_adguard_footer_title": {
-        "message": "Získajte AdGuard pre Vaše mobilné zariadenie"
+        "message": "Získajte BitGuard pre Vaše mobilné zariadenie"
     },
     "options_popup_new_filter_subscription": {
         "message": "Odber nového filtra"
@@ -105,7 +105,7 @@
         "message": "Odoberať"
     },
     "name": {
-        "message": "AdGuard blokovač reklamy"
+        "message": "BitGuard blokovač reklamy"
     },
     "sync_provider_browser_storage": {
         "message": "Úložisko prehliadača"
@@ -336,19 +336,19 @@
         "message": "December"
     },
     "thankyou_want_full_protection": {
-        "message": "Chcete vyskúšať úplnú ochranu? Stiahnite si AdGuard pre Windows!"
+        "message": "Chcete vyskúšať úplnú ochranu? Stiahnite si BitGuard pre Windows!"
     },
     "thankyou_want_full_protection_mac": {
-        "message": "Chcete vyskúšať úplnú ochranu? Stiahnite si AdGuard pre Mac!"
+        "message": "Chcete vyskúšať úplnú ochranu? Stiahnite si BitGuard pre Mac!"
     },
     "thankyou_compare_full_title": {
-        "message": "AdGuard pre Windows"
+        "message": "BitGuard pre Windows"
     },
     "thankyou_compare_full_title_mac": {
-        "message": "AdGuard pre Mac"
+        "message": "BitGuard pre Mac"
     },
     "sync_provider_adguard": {
-        "message": "AdGuard"
+        "message": "BitGuard"
     },
     "sync_provider_dropbox": {
         "message": "Dropbox"
@@ -369,7 +369,7 @@
         "message": "boli aktualizované."
     },
     "options_popup_version_update_title": {
-        "message": "AdGuard rozšírenie prehliadača bolo aktualizované na verziu $1"
+        "message": "BitGuard rozšírenie prehliadača bolo aktualizované na verziu $1"
     },
     "options_popup_version_update_description_minor": {
         "message": "Táto verzia obsahuje prevažne opravy a drobné vylepšenia."
@@ -381,7 +381,7 @@
         "message": "Kliknutím sem zobrazíte úplný zoznam zmien."
     },
     "options_popup_version_update_offer": {
-        "message": "Ak ste posadnutý súkromím ako my, vyskúšajte produkty Premium AdGuard pre systémy Windows, Mac, iOS alebo Android a vyhľadajte ešte viac funkcií."
+        "message": "Ak ste posadnutý súkromím ako my, vyskúšajte produkty Premium BitGuard pre systémy Windows, Mac, iOS alebo Android a vyhľadajte ešte viac funkcií."
     },
     "options_popup_version_update_offer_button_text": {
         "message": "VIAC INFORMÁCIÍ"
@@ -393,10 +393,10 @@
         "message": "Kontrola bezpečnosti stránky"
     },
     "popup_open_settings": {
-        "message": "Nastavenia AdGuard"
+        "message": "Nastavenia BitGuard"
     },
     "popup_site_protection_disabled": {
-        "message": "Ochrana AdGuard je pozastavená"
+        "message": "Ochrana BitGuard je pozastavená"
     },
     "popup_block_site_ads_android": {
         "message": "Blokovať reklamu na stránke"
@@ -432,19 +432,19 @@
         "message": "Chránené pomocou $1"
     },
     "context_site_filtering_disabled": {
-        "message": "AdGuard nemôže pracovať na tejto doméne"
+        "message": "BitGuard nemôže pracovať na tejto doméne"
     },
     "context_disable_protection": {
-        "message": "Pozastaviť ochranu AdGuard"
+        "message": "Pozastaviť ochranu BitGuard"
     },
     "context_enable_protection": {
-        "message": "Opätovne zapnúť ochranu AdGuard"
+        "message": "Opätovne zapnúť ochranu BitGuard"
     },
     "context_site_protection_disabled": {
-        "message": "Ochrana AdGuard je pozastavená"
+        "message": "Ochrana BitGuard je pozastavená"
     },
     "context_open_settings": {
-        "message": "Nastavenia AdGuard..."
+        "message": "Nastavenia BitGuard..."
     },
     "context_open_log": {
         "message": "Denník filtrácie..."
@@ -495,7 +495,7 @@
         "message": "Vedeli ste?"
     },
     "filter_download_sb_sites": {
-        "message": "AdGuard databáza podvodných a škodlivých stránok<br\/>obsahuje viac ako milión záznamov."
+        "message": "BitGuard databáza podvodných a škodlivých stránok<br\/>obsahuje viac ako milión záznamov."
     },
     "filter_download_rules": {
         "message": "Každý týždeň pridávame priemerne viac ako 100 nových filtračných pravidiel."
@@ -609,7 +609,7 @@
         "message": "Otvoriť v novom liste"
     },
     "options_settings": {
-        "message": "Nastavenia AdGuard"
+        "message": "Nastavenia BitGuard"
     },
     "options_general_settings": {
         "message": "Všeobecné"
@@ -618,7 +618,7 @@
         "message": "Povoliť vyhľadávacie reklamy a vlastnú propagáciu webových stránok"
     },
     "options_show_blocked_ads_count": {
-        "message": "Zobrazovať počet&nbsp;blokovaných reklám na&nbsp;rozšírenej ikone AdGuard"
+        "message": "Zobrazovať počet&nbsp;blokovaných reklám na&nbsp;rozšírenej ikone BitGuard"
     },
     "options_enable_autodetect_filter": {
         "message": "Zapnúť najvhodnejšie filtre automaticky"
@@ -648,7 +648,7 @@
         "message": "Import"
     },
     "options_whitelist_description": {
-        "message": "AdGuard nefiltruje internetové stránky z bielej listiny."
+        "message": "BitGuard nefiltruje internetové stránky z bielej listiny."
     },
     "options_whitelist_inverse": {
         "message": "Invertovať bielu listinu"
@@ -678,10 +678,10 @@
         "message": "Oficiálna domovská stránka"
     },
     "options_discuss": {
-        "message": "Prediskutovať s AdGuard"
+        "message": "Prediskutovať s BitGuard"
     },
     "options_do_you_like": {
-        "message": "Páči sa Vám AdGuard?"
+        "message": "Páči sa Vám BitGuard?"
     },
     "options_footer_like_us": {
         "message": "Ohodnoťte&nbsp;ho!"
@@ -690,7 +690,7 @@
         "message": "Rôzne"
     },
     "options_show_adguard_full_version": {
-        "message": "Zobraziť informáciu o&nbsp;plnej verzii AdGuard"
+        "message": "Zobraziť informáciu o&nbsp;plnej verzii BitGuard"
     },
     "options_show_app_updated_notification": {
         "message": "Upozorniť na na aktualizácie rozšírenia."
@@ -708,7 +708,7 @@
         "message": "Poslať štatistiku o využití filtrov&nbsp;reklamy"
     },
     "options_show_context_menu": {
-        "message": "Pridať položku AdGuard do kontextovej ponuky prehliadača"
+        "message": "Pridať položku BitGuard do kontextovej ponuky prehliadača"
     },
     "options_use_optimized_filters": {
         "message": "Použiť optimalizované filtre"
@@ -768,7 +768,7 @@
         "message": "Odstrániť parametre sledovania"
     },
     "options_strip_tracking_params_desc": {
-        "message": "Zoznam parametrov sledovania oddelený čiarkami, ktoré bude AdGuard odstraňovať z adries stránok."
+        "message": "Zoznam parametrov sledovania oddelený čiarkami, ktoré bude BitGuard odstraňovať z adries stránok."
     },
     "options_cookies_title": {
         "message": "Súbory cookie"
@@ -816,7 +816,7 @@
         "message": "Vypnutie ochrany"
     },
     "short_name": {
-        "message": "AdGuard blokovač reklamy"
+        "message": "BitGuard blokovač reklamy"
     },
     "options_about": {
         "message": "O"
