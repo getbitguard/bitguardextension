@@ -1,6 +1,6 @@
 {
   "name": "browser-extension",
-  "version": "3.5.31",
+  "version": "1.0",
   "description": "BitGuard Extension",
   "scripts": {
     "dev": "NODE_ENV=dev gulp buildDev --require babel-register --gulpfile tasks",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:AdguardTeam/AdguardBrowserExtension.git"
+    "url": "ssh://git@github.com:getbitguard/bitguardextension.git"
   },
-  "author": "adguard@adguard.com",
+  "author": "extension@getbitguard.com",
   "license": "LGPL-3.0",
   "devDependencies": {
     "adguard-assistant": "https://github.com/AdguardTeam/AdguardAssistant.git#4.3.37",
