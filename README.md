@@ -15,7 +15,7 @@ The extension allows you to switch back on ads for your favorite websites in cas
 
 Bitguard was created with the sole purpose to block ALL ads. Many adblockers are affiliated with ad networks bypassing ads for a fee. We couldn't find an adblocker blocking everything, so we just decided to make our own, filtering every ad without exceptions.
 
-Also Bitguard Extention integrates with "Bitguard Scan" our security risk score product.
+Also Bitguard Extention integrates link to "Bitguard Scan" our security risk score product.
 
 ## Contribution
 
@@ -39,7 +39,7 @@ Free. Bitguard browser extention is an open source project licensed under GPL v3
 
 - Fully re-design to improved user experience and simplified design.
 - Modified the default performance.
-- Integration with "Bitguard Scan" for beta-testers.
+- Access to "Bitguard Scan" in one click.
 - Translation corrections.
 
 
